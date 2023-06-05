@@ -4,10 +4,12 @@ module load java/1.8.0_152-oracle
 #Depending on the cluster one might need to modify the file canu-1.8/Linux-amd64/lib/site_perl/canu/Grid_SGE.pm:
 #change #"-pe threads THREADS"); with #"-pe smp THREADS"); and  #"-l mem=MEMORY"); with #"-l h_vmem=MEMORY");
 
+#CANU will be used as the main initial assembler in this pipeline
 canu \
  -p Oasisia \
  -d Oasisia_dir \
  -pacbio-raw Oasisia_pb_raw.fastq.gz \
+ #predicted genome size was obtained with KmerGenie
  genomeSize=1g \
  useGrid=true \
  gridEngineResourceOption="-l h_vmem=MEMORY -pe smp THREADS" \
