@@ -7,7 +7,7 @@
 
 module load anaconda2
 source activate quast
-
+#to generate quality controls using QUAST
 quast \
  Oasisia.contigs.fasta \
  -o quast_canu \
