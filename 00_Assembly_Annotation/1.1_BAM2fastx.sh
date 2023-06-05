@@ -8,6 +8,7 @@
 #load the environment
 module load anaconda2
 source activate BAM2fastx_env
+#to convert subreads.bam into fastq file
 bam2fastq \
 #output_name
 -o Oasisia_pb_raw \
