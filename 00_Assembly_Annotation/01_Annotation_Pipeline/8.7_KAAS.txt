@@ -1,0 +1,6 @@
+I am using this online tool to assign KO numbers to the proteins of siboglinids:
+https://www.genome.jp/tools/kaas/
+the input is the "$species"_proteins.fa obtained previously in https://github.com/Moggiacomo/Osedax_NatCom2023_analyses/blob/main/00_Assembly_Annotation/01_Annotation_Pipeline/8.1_Gffread.sh
+
+    Representative set: hsa, bfo, sko, dme, tca, cel, hro, lgi, pcan, crg, myi, obi, lak, nve
+    Assignment method: SBH (single best hit)
