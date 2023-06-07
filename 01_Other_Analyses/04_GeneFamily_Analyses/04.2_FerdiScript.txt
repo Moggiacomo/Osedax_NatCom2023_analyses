@@ -1,0 +1,86 @@
+The script needs to be installed locally not in apocrita:
+
+    conda create -n Ferdi_env ete3 numpy scipy statsmodels
+    conda install -c conda-forge tqdm
+    conda install -c anaconda ipykernel
+    python -m ipykernel install --user --name=Ferdi_env
+    cd /Users/giacomo/Jupyter_notebook/Ferdi_script/
+    git clone https://github.com/fmarletaz/comp_genomics/
+    conda install -c conda-forge notebook
+    conda install -c conda-forge ipywidgets
+    jupyter notebook # this will launch the browser app to actually run the script
+
+I have modified Ferdi script to make it work on my input data. the second cell now should look like so:
+
+    Fams={}
+    with open('Orthogroups.csv') as csvfile:
+        species=[]
+        for i,rc in enumerate(csv.reader(csvfile, delimiter='\t', quotechar='"')):
+            #print (i)
+            #print (rc)
+            if i==0:
+                species=[sp for sp in rc[1:]]
+                continue
+            genBySp=dict((species[j],[g.split('|')[1] for g in spg.split(',')]) for j,spg in enumerate(rc[1:]) if not spg=='')
+            #print (genBySp)
+            #genBySp=
+            Fams[rc[0]]=genBySp
+            #if i==5: break
+            
+            
+            
+ We need two input files for this:
+
+- the .tsv output of OrthoFinder that we will need to transform into a csv (/orthofinder_Dec2020/Orthogroups/Orthogroups.tsv)
+- and a newick format tree: tree.tree
+    (Nvec,(Hmia,(((Skow,Spur)Ambulacraria,(Blan,(Locu,Hsap)Vertebrata)Chordata)Deuterostomia,((Smar,Tcas)Arthropoda,(Smed,(((Lgig,Gaeg)Gastropoda,(Cgig,(Myes,Bpla)Bivalvia_cl1)Bivalvia)Mollusca,((Ofus,(Dgyr,(((Lluy,(Pech,(Oalv,Rpac)Vestimentifera_cl2)Vestimentifera_cl1)Vestimentifera,Ofra)Siboglinidae,(Ctel,(Hrob,Eand)Clitellata)Sedentaria_cl1)Sedentaria)Annelida_cl1)Annelida,(Ngen,(Paus,Lana)Lophophorata)Kryptotrochozoa)Lophotrochozoa_cl1)Lophotrochozoa)Spiralia)Protostomia)Nephrozoa)Bilateria)Eumetazoa;
+
+
+First thing first let’s edit the Orthogroups.tsv file:
+
+    cp Orthogroups.tsv Orthogroups_original.tsv
+    sed -i 's/OFUS/Ofus|OFUS/g' Orthogroups.tsv
+    sed -i 's/Blan_/Blan|/g' Orthogroups.tsv
+    sed -i 's/Bpla_/Bpla|/g' Orthogroups.tsv
+    sed -i 's/Cgig_/Cgig|/g' Orthogroups.tsv
+    sed -i 's/Ctel_/Ctel|/g' Orthogroups.tsv
+    sed -i 's/Dgyr_/Dgyr|/g' Orthogroups.tsv
+    sed -i 's/Eand_/Eand|/g' Orthogroups.tsv
+    sed -i 's/Hmia_/Hmia|/g' Orthogroups.tsv
+    sed -i 's/Hrob_/Hrob|/g' Orthogroups.tsv
+    sed -i 's/Hsap_/Hsap|/g' Orthogroups.tsv
+    sed -i 's/Lana_/Lana|/g' Orthogroups.tsv
+    sed -i 's/Lgig_/Lgig|/g' Orthogroups.tsv
+    sed -i 's/Lluy_/Lluy|/g' Orthogroups.tsv
+    sed -i 's/Locu_/Locu|/g' Orthogroups.tsv
+    sed -i 's/Myes_/Myes|/g' Orthogroups.tsv
+    sed -i 's/Ngen_/Ngen|/g' Orthogroups.tsv
+    sed -i 's/Nvec_/Nvec|/g' Orthogroups.tsv
+    sed -i 's/Oalv_/Oalv|/g' Orthogroups.tsv
+    sed -i 's/Ofra_/Ofra|/g' Orthogroups.tsv
+    sed -i 's/Ofus_/Ofus|/g' Orthogroups.tsv
+    sed -i 's/Paus_/Paus|/g' Orthogroups.tsv
+    sed -i 's/Rpac_/Rpac|/g' Orthogroups.tsv
+    sed -i 's/Skow_/Skow|/g' Orthogroups.tsv
+    sed -i 's/Smar_/Smar|/g' Orthogroups.tsv
+    sed -i 's/Smed_/Smed|/g' Orthogroups.tsv
+    sed -i 's/Spur_/Spur|/g' Orthogroups.tsv
+    sed -i 's/Tcas_/Tcas|/g' Orthogroups.tsv
+    sed -i 's/Spur_/Spur|/g' Orthogroups.tsv
+    sed -i 's/Gaeg_/Gaeg|/g' Orthogroups.tsv
+    sed -i 's/Pech_/Pech|/g' Orthogroups.tsv
+    
+    mv Orthogroups.tsv Orthogroups.csv
+    remove "orthogroups" from the first line with nano
+    
+    sed -i 's/gene-ND4L/Myes|gene-ND4L/g' Orthogroups.csv #this was creating a problem
+
+Now we can launch the modified version of ferdi script and it will produce the results
+
+
+    cd /Users/giacomo/Jupyter_notebook/Ferdi_script/Jun2021/ultra_sensitive
+    cp /Users/giacomo/Jupyter_notebook/Ferdi_script/comp_genomics/Giacomo.ipynb /Users/giacomo/Jupyter_notebook/Ferdi_script/Jun2021/ultra_sensitive
+    conda activate Ferdi_env
+    jupyter notebook
+    cd /Users/giacomo/Jupyter_notebook/Ferdi_script/Jun2021/more_sensitive
+    cp /Users/giacomo/Jupyter_notebook/Ferdi_script/comp_genomics/Giacomo.ipynb /Users/giacomo/Jupyter_notebook/Ferdi_script/Jun2021/more_sensitive           
