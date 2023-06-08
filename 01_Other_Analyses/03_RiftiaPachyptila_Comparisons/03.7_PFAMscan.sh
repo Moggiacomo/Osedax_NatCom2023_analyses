@@ -12,3 +12,7 @@ module load anaconda3
 conda activate pfamScan_env
 
 pfam_scan.pl -cpu 12 -fasta ../RIFPA_final_gene_models_AUGUSTUS_v1_AGAT.prot.longestIsoform.fasta -dir /data/SBCS-MartinDuranLab/00-BlastDBs -outfile PFAMscan_oliveira2022NR.out
+
+
+grep -v "^#" PFAMscan_oliveira2022NR.out | grep -o "RIFPA.*t[0-9]"   | sort | uniq | wc -l
+grep -v "^#" PFAMscan_oliveira2022NR.out | grep -o "\sPF.........."  | sort | uniq | wc -l
