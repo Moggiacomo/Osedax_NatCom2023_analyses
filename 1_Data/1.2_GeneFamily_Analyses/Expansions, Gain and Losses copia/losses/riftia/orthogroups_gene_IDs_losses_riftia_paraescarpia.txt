@@ -1,0 +1,1140 @@
+OG0000043	Pech|nbis-mrna-10521, Pech|nbis-mrna-1194, Pech|nbis-mrna-14414, Pech|nbis-mrna-15185, Pech|nbis-mrna-18330, Pech|nbis-mrna-19853, Pech|nbis-mrna-20682, Pech|nbis-mrna-2089, Pech|nbis-mrna-22235, Pech|nbis-mrna-351, Pech|nbis-mrna-3960, Pech|nbis-mrna-4273, Pech|nbis-mrna-4507, Pech|nbis-mrna-6311, Pech|nbis-mrna-6894, Pech|nbis-mrna-8712, Pech|nbis-mrna-8935
+OG0000061	Pech|nbis-mrna-12628, Pech|nbis-mrna-13957, Pech|nbis-mrna-17769, Pech|nbis-mrna-17773, Pech|nbis-mrna-18011, Pech|nbis-mrna-18338, Pech|nbis-mrna-21535, Pech|nbis-mrna-21536, Pech|nbis-mrna-22545, Pech|nbis-mrna-2839, Pech|nbis-mrna-3014, Pech|nbis-mrna-3015, Pech|nbis-mrna-3016, Pech|nbis-mrna-6370, Pech|nbis-mrna-91, Pech|nbis-mrna-92, Pech|nbis-mrna-93, Pech|nbis-mrna-94, Pech|nbis-mrna-95
+OG0000062	Pech|nbis-mrna-17772, Pech|nbis-mrna-19627, Pech|nbis-mrna-19633, Pech|nbis-mrna-2940, Pech|nbis-mrna-2941, Pech|nbis-mrna-2942, Pech|nbis-mrna-2943, Pech|nbis-mrna-3017, Pech|nbis-mrna-3019, Pech|nbis-mrna-4310, Pech|nbis-mrna-6372, Pech|nbis-mrna-84, Pech|nbis-mrna-87
+OG0000107	
+OG0000123	Pech|nbis-mrna-17936, Pech|nbis-mrna-8482
+OG0000138	Pech|nbis-mrna-19358, Pech|nbis-mrna-19498, Pech|nbis-mrna-21962, Pech|nbis-mrna-360, Pech|nbis-mrna-6123
+OG0000245	Pech|nbis-mrna-16220, Pech|nbis-mrna-19848
+OG0000256	
+OG0000299	Pech|nbis-mrna-10089, Pech|nbis-mrna-1073, Pech|nbis-mrna-10900, Pech|nbis-mrna-12820, Pech|nbis-mrna-12993, Pech|nbis-mrna-1572, Pech|nbis-mrna-16604, Pech|nbis-mrna-18741, Pech|nbis-mrna-20211, Pech|nbis-mrna-22501, Pech|nbis-mrna-3361, Pech|nbis-mrna-7287, Pech|nbis-mrna-7480, Pech|nbis-mrna-9061, Pech|nbis-mrna-9782
+OG0000313	Pech|nbis-mrna-16783, Pech|nbis-mrna-17531, Pech|nbis-mrna-21667, Pech|nbis-mrna-2369, Pech|nbis-mrna-2811, Pech|nbis-mrna-2813, Pech|nbis-mrna-3781, Pech|nbis-mrna-7027
+OG0000314	
+OG0000315	
+OG0000316	
+OG0000326	
+OG0000350	Pech|nbis-mrna-14483, Pech|nbis-mrna-15764, Pech|nbis-mrna-352, Pech|nbis-mrna-3640, Pech|nbis-mrna-7181, Pech|nbis-mrna-9837, Pech|nbis-mrna-9841
+OG0000446	Pech|nbis-mrna-4149
+OG0000453	Pech|nbis-mrna-2820
+OG0000459	
+OG0000465	
+OG0000497	Pech|nbis-mrna-7822
+OG0000528	Pech|nbis-mrna-14770, Pech|nbis-mrna-3322
+OG0000548	Pech|nbis-mrna-1723
+OG0000599	
+OG0000631	
+OG0000655	Pech|nbis-mrna-20568
+OG0000717	Pech|nbis-mrna-5777
+OG0000765	Pech|nbis-mrna-12093, Pech|nbis-mrna-13286, Pech|nbis-mrna-145, Pech|nbis-mrna-16366, Pech|nbis-mrna-16510, Pech|nbis-mrna-1851, Pech|nbis-mrna-3392, Pech|nbis-mrna-6394, Pech|nbis-mrna-9276, Pech|nbis-mrna-9844
+OG0000767	
+OG0000814	Pech|nbis-mrna-4318
+OG0000908	Pech|nbis-mrna-2185, Pech|nbis-mrna-7366
+OG0000937	Pech|nbis-mrna-10385, Pech|nbis-mrna-11279, Pech|nbis-mrna-12681, Pech|nbis-mrna-18638, Pech|nbis-mrna-19897, Pech|nbis-mrna-20416, Pech|nbis-mrna-2229, Pech|nbis-mrna-2292, Pech|nbis-mrna-2606, Pech|nbis-mrna-4023, Pech|nbis-mrna-6477, Pech|nbis-mrna-7333, Pech|nbis-mrna-82
+OG0001067	Pech|nbis-mrna-10905, Pech|nbis-mrna-12154, Pech|nbis-mrna-15405, Pech|nbis-mrna-4878, Pech|nbis-mrna-68
+OG0001175	Pech|nbis-mrna-560
+OG0001201	Pech|nbis-mrna-9596
+OG0001224	
+OG0001321	
+OG0001446	Pech|nbis-mrna-10847, Pech|nbis-mrna-10848, Pech|nbis-mrna-10849, Pech|nbis-mrna-14779, Pech|nbis-mrna-7251
+OG0001594	Pech|nbis-mrna-11255, Pech|nbis-mrna-1379, Pech|nbis-mrna-15217, Pech|nbis-mrna-16278, Pech|nbis-mrna-21318, Pech|nbis-mrna-492, Pech|nbis-mrna-8291, Pech|nbis-mrna-8293
+OG0001635	
+OG0001648	Pech|nbis-mrna-18267
+OG0001839	
+OG0002083	
+OG0002092	Pech|nbis-mrna-14237, Pech|nbis-mrna-19588, Pech|nbis-mrna-20494, Pech|nbis-mrna-21107, Pech|nbis-mrna-21919, Pech|nbis-mrna-21921, Pech|nbis-mrna-22600, Pech|nbis-mrna-22601, Pech|nbis-mrna-5399, Pech|nbis-mrna-7109, Pech|nbis-mrna-9010, Pech|nbis-mrna-9128, Pech|nbis-mrna-9246
+OG0002164	
+OG0002250	
+OG0002586	
+OG0002848	
+OG0003208	Pech|nbis-mrna-9435
+OG0003286	Pech|nbis-mrna-19327
+OG0003326	Pech|nbis-mrna-9508, Pech|nbis-mrna-9509
+OG0003426	Pech|nbis-mrna-10374, Pech|nbis-mrna-22569
+OG0003460	
+OG0003677	Pech|nbis-mrna-17557
+OG0004073	
+OG0004111	Pech|nbis-mrna-15771, Pech|nbis-mrna-21839
+OG0004212	Pech|nbis-mrna-18342
+OG0004243	Pech|nbis-mrna-19170
+OG0004627	Pech|nbis-mrna-20759, Pech|nbis-mrna-912
+OG0004717	
+OG0004828	Pech|nbis-mrna-17776
+OG0004830	Pech|nbis-mrna-17323
+OG0004901	
+OG0005038	Pech|nbis-mrna-20170
+OG0005041	
+OG0005229	Pech|nbis-mrna-16031
+OG0005310	Pech|nbis-mrna-10481
+OG0005368	
+OG0005484	
+OG0005489	Pech|nbis-mrna-10230, Pech|nbis-mrna-15061, Pech|nbis-mrna-17810, Pech|nbis-mrna-18807, Pech|nbis-mrna-19083, Pech|nbis-mrna-20689, Pech|nbis-mrna-22608, Pech|nbis-mrna-2437, Pech|nbis-mrna-3127, Pech|nbis-mrna-4181, Pech|nbis-mrna-4614, Pech|nbis-mrna-6512, Pech|nbis-mrna-7457
+OG0005625	Pech|nbis-mrna-9656
+OG0005751	
+OG0005997	Pech|nbis-mrna-181
+OG0006016	
+OG0006073	Pech|nbis-mrna-15495
+OG0006084	
+OG0006112	Pech|nbis-mrna-10904, Pech|nbis-mrna-15786, Pech|nbis-mrna-22003, Pech|nbis-mrna-3961, Pech|nbis-mrna-67, Pech|nbis-mrna-9907
+OG0006114	
+OG0006159	
+OG0006163	Pech|nbis-mrna-7914
+OG0006225	
+OG0006446	
+OG0006494	Pech|nbis-mrna-17860
+OG0006595	
+OG0006606	Pech|nbis-mrna-10750, Pech|nbis-mrna-10751, Pech|nbis-mrna-10752, Pech|nbis-mrna-12424, Pech|nbis-mrna-12425, Pech|nbis-mrna-12426, Pech|nbis-mrna-14426, Pech|nbis-mrna-14428, Pech|nbis-mrna-14429, Pech|nbis-mrna-14430, Pech|nbis-mrna-14431, Pech|nbis-mrna-14432, Pech|nbis-mrna-16052, Pech|nbis-mrna-17667, Pech|nbis-mrna-19446, Pech|nbis-mrna-20613, Pech|nbis-mrna-22218, Pech|nbis-mrna-22219, Pech|nbis-mrna-2248, Pech|nbis-mrna-269, Pech|nbis-mrna-3529, Pech|nbis-mrna-3533, Pech|nbis-mrna-5439, Pech|nbis-mrna-631, Pech|nbis-mrna-8543, Pech|nbis-mrna-8577, Pech|nbis-mrna-8726, Pech|nbis-mrna-8855
+OG0006635	Pech|nbis-mrna-3691
+OG0006669	Pech|nbis-mrna-14505
+OG0006710	Pech|nbis-mrna-10686
+OG0006805	Pech|nbis-mrna-19142
+OG0006816	Pech|nbis-mrna-2303
+OG0006895	Pech|nbis-mrna-16032
+OG0007043	Pech|nbis-mrna-16502
+OG0007086	Pech|nbis-mrna-1543, Pech|nbis-mrna-16292, Pech|nbis-mrna-17263, Pech|nbis-mrna-17360, Pech|nbis-mrna-22029, Pech|nbis-mrna-4453, Pech|nbis-mrna-6893
+OG0007173	
+OG0007181	Pech|nbis-mrna-16038
+OG0007230	Pech|nbis-mrna-17322
+OG0007231	Pech|nbis-mrna-7913
+OG0007236	Pech|nbis-mrna-7915
+OG0007562	
+OG0007724	Pech|nbis-mrna-3572
+OG0007831	Pech|nbis-mrna-16030
+OG0007976	Pech|nbis-mrna-75
+OG0008011	Pech|nbis-mrna-11281, Pech|nbis-mrna-1623, Pech|nbis-mrna-16950, Pech|nbis-mrna-3074, Pech|nbis-mrna-4524
+OG0008079	Pech|nbis-mrna-10628
+OG0008189	Pech|nbis-mrna-10640
+OG0008210	
+OG0008264	Pech|nbis-mrna-6168
+OG0008272	Pech|nbis-mrna-10265, Pech|nbis-mrna-103, Pech|nbis-mrna-10548, Pech|nbis-mrna-12837, Pech|nbis-mrna-17998, Pech|nbis-mrna-3084, Pech|nbis-mrna-3085, Pech|nbis-mrna-7246, Pech|nbis-mrna-8149, Pech|nbis-mrna-9147
+OG0008304	Pech|nbis-mrna-17858
+OG0008313	Pech|nbis-mrna-872
+OG0008335	
+OG0008409	Pech|nbis-mrna-15454
+OG0008448	
+OG0008806	Pech|nbis-mrna-15443
+OG0008842	
+OG0008899	
+OG0008931	
+OG0008996	
+OG0009019	
+OG0009053	
+OG0009079	
+OG0009180	Pech|nbis-mrna-8232
+OG0009218	Pech|nbis-mrna-7254
+OG0009222	Pech|nbis-mrna-4073
+OG0009287	
+OG0009297	Pech|nbis-mrna-17370
+OG0009335	Pech|nbis-mrna-10410, Pech|nbis-mrna-10754, Pech|nbis-mrna-10805, Pech|nbis-mrna-11623, Pech|nbis-mrna-12410, Pech|nbis-mrna-13580, Pech|nbis-mrna-15985, Pech|nbis-mrna-16057, Pech|nbis-mrna-17363, Pech|nbis-mrna-17581, Pech|nbis-mrna-19205, Pech|nbis-mrna-21262, Pech|nbis-mrna-3038, Pech|nbis-mrna-4352, Pech|nbis-mrna-7884, Pech|nbis-mrna-7910, Pech|nbis-mrna-8068
+OG0009344	
+OG0009544	
+OG0009575	Pech|nbis-mrna-20638, Pech|nbis-mrna-21448
+OG0009586	
+OG0009649	
+OG0009652	Pech|nbis-mrna-10580
+OG0009743	
+OG0009799	Pech|nbis-mrna-19263
+OG0009825	Pech|nbis-mrna-21360
+OG0009832	Pech|nbis-mrna-21436
+OG0009833	Pech|nbis-mrna-16475
+OG0009878	
+OG0009914	Pech|nbis-mrna-14185
+OG0009952	
+OG0009954	
+OG0009968	
+OG0009969	Pech|nbis-mrna-10565, Pech|nbis-mrna-17342, Pech|nbis-mrna-8444, Pech|nbis-mrna-9927
+OG0009973	Pech|nbis-mrna-6012, Pech|nbis-mrna-6013
+OG0009977	
+OG0010020	Pech|nbis-mrna-8428
+OG0010037	
+OG0010040	Pech|nbis-mrna-18467
+OG0010069	
+OG0010092	
+OG0010123	
+OG0010144	
+OG0010203	
+OG0010256	
+OG0010352	
+OG0010439	
+OG0010443	
+OG0010449	
+OG0010456	
+OG0010489	Pech|nbis-mrna-10753, Pech|nbis-mrna-1083, Pech|nbis-mrna-10898, Pech|nbis-mrna-11220, Pech|nbis-mrna-21953, Pech|nbis-mrna-2370, Pech|nbis-mrna-6187, Pech|nbis-mrna-7, Pech|nbis-mrna-7351, Pech|nbis-mrna-8, Pech|nbis-mrna-9
+OG0010495	
+OG0010496	
+OG0010498	Pech|nbis-mrna-5700
+OG0010598	Pech|nbis-mrna-10376
+OG0010620	Pech|nbis-mrna-12567, Pech|nbis-mrna-15522, Pech|nbis-mrna-5358, Pech|nbis-mrna-5772, Pech|nbis-mrna-8045, Pech|nbis-mrna-8076, Pech|nbis-mrna-8477, Pech|nbis-mrna-9764
+OG0010690	
+OG0010708	
+OG0010749	
+OG0010759	
+OG0010807	
+OG0010824	Pech|nbis-mrna-16803, Pech|nbis-mrna-18143, Pech|nbis-mrna-3166, Pech|nbis-mrna-3573, Pech|nbis-mrna-6054, Pech|nbis-mrna-7414, Pech|nbis-mrna-881
+OG0010827	Pech|nbis-mrna-1310, Pech|nbis-mrna-15204, Pech|nbis-mrna-15206, Pech|nbis-mrna-18060, Pech|nbis-mrna-19522, Pech|nbis-mrna-22519, Pech|nbis-mrna-22521, Pech|nbis-mrna-4469, Pech|nbis-mrna-491, Pech|nbis-mrna-494, Pech|nbis-mrna-495, Pech|nbis-mrna-733
+OG0010828	
+OG0010838	Pech|nbis-mrna-18316
+OG0010883	
+OG0010885	Pech|nbis-mrna-3862
+OG0010944	
+OG0010965	Pech|nbis-mrna-12878
+OG0010969	
+OG0011049	
+OG0011064	Pech|nbis-mrna-1294, Pech|nbis-mrna-14894
+OG0011131	Pech|nbis-mrna-15531, Pech|nbis-mrna-4797, Pech|nbis-mrna-4799, Pech|nbis-mrna-8260, Pech|nbis-mrna-8264
+OG0011194	
+OG0011195	
+OG0011205	
+OG0011212	
+OG0011240	Pech|nbis-mrna-18432
+OG0011247	
+OG0011365	
+OG0011390	
+OG0011422	
+OG0011440	Pech|nbis-mrna-8937
+OG0011503	
+OG0011551	Pech|nbis-mrna-16886
+OG0011594	
+OG0011612	
+OG0011652	Pech|nbis-mrna-10547, Pech|nbis-mrna-18378, Pech|nbis-mrna-4480, Pech|nbis-mrna-4699, Pech|nbis-mrna-5958, Pech|nbis-mrna-736, Pech|nbis-mrna-7747, Pech|nbis-mrna-8703, Pech|nbis-mrna-9148
+OG0011656	
+OG0011668	
+OG0011722	
+OG0011754	Pech|nbis-mrna-11165, Pech|nbis-mrna-15528, Pech|nbis-mrna-18265, Pech|nbis-mrna-18990, Pech|nbis-mrna-19369, Pech|nbis-mrna-20002, Pech|nbis-mrna-2828, Pech|nbis-mrna-4460, Pech|nbis-mrna-481, Pech|nbis-mrna-5225
+OG0011899	Pech|nbis-mrna-1075, Pech|nbis-mrna-1614, Pech|nbis-mrna-17003
+OG0011966	Pech|nbis-mrna-2455
+OG0011972	Pech|nbis-mrna-19868
+OG0011988	
+OG0012031	
+OG0012039	
+OG0012125	
+OG0012138	Pech|nbis-mrna-8648
+OG0012150	
+OG0012315	
+OG0012354	
+OG0012357	
+OG0012364	Pech|nbis-mrna-1244
+OG0012407	Pech|nbis-mrna-11819
+OG0012424	Pech|nbis-mrna-10142, Pech|nbis-mrna-13829
+OG0012527	
+OG0012551	
+OG0012563	Pech|nbis-mrna-17271, Pech|nbis-mrna-17272, Pech|nbis-mrna-17273
+OG0012575	
+OG0012780	
+OG0012806	
+OG0012853	Pech|nbis-mrna-20992
+OG0012858	Pech|nbis-mrna-17084
+OG0012936	Pech|nbis-mrna-4547
+OG0012982	
+OG0012993	Pech|nbis-mrna-10699, Pech|nbis-mrna-13173
+OG0013004	
+OG0013047	
+OG0013075	
+OG0013080	
+OG0013081	
+OG0013083	Pech|nbis-mrna-22396, Pech|nbis-mrna-22397, Pech|nbis-mrna-22398, Pech|nbis-mrna-22399, Pech|nbis-mrna-22400
+OG0013088	Pech|nbis-mrna-970
+OG0013095	
+OG0013099	Pech|nbis-mrna-6816
+OG0013127	Pech|nbis-mrna-4722, Pech|nbis-mrna-7074
+OG0013130	Pech|nbis-mrna-11899
+OG0013213	
+OG0013318	
+OG0013430	
+OG0013455	Pech|nbis-mrna-19557
+OG0013456	
+OG0013463	
+OG0013516	
+OG0013594	Pech|nbis-mrna-9748
+OG0013610	Pech|nbis-mrna-10433, Pech|nbis-mrna-3359, Pech|nbis-mrna-8495
+OG0013706	Pech|nbis-mrna-15171
+OG0013709	
+OG0013715	
+OG0013716	
+OG0013719	Pech|nbis-mrna-3439
+OG0013765	
+OG0013788	Pech|nbis-mrna-14728, Pech|nbis-mrna-14729, Pech|nbis-mrna-21788, Pech|nbis-mrna-21789, Pech|nbis-mrna-21790, Pech|nbis-mrna-21792, Pech|nbis-mrna-21793, Pech|nbis-mrna-5476, Pech|nbis-mrna-8031
+OG0013889	Pech|nbis-mrna-11283
+OG0014012	
+OG0014074	
+OG0014111	
+OG0014174	
+OG0014223	
+OG0014337	
+OG0014395	
+OG0014399	
+OG0014408	Pech|nbis-mrna-2993
+OG0014422	Pech|nbis-mrna-6523, Pech|nbis-mrna-6524
+OG0014423	
+OG0014426	
+OG0014435	
+OG0014443	Pech|nbis-mrna-8624
+OG0014445	Pech|nbis-mrna-18523
+OG0014447	
+OG0014448	
+OG0014450	
+OG0014452	
+OG0014456	Pech|nbis-mrna-1463, Pech|nbis-mrna-5271, Pech|nbis-mrna-9308
+OG0014457	Pech|nbis-mrna-12067, Pech|nbis-mrna-19632, Pech|nbis-mrna-5424, Pech|nbis-mrna-5425, Pech|nbis-mrna-5426, Pech|nbis-mrna-5945
+OG0014461	Pech|nbis-mrna-14491, Pech|nbis-mrna-21211
+OG0014465	Pech|nbis-mrna-4782, Pech|nbis-mrna-4784, Pech|nbis-mrna-4786, Pech|nbis-mrna-4787, Pech|nbis-mrna-4788
+OG0014489	
+OG0014529	Pech|nbis-mrna-20011
+OG0014531	Pech|nbis-mrna-10920
+OG0014535	Pech|nbis-mrna-10061, Pech|nbis-mrna-10063, Pech|nbis-mrna-10066, Pech|nbis-mrna-11917, Pech|nbis-mrna-12395, Pech|nbis-mrna-14312, Pech|nbis-mrna-14313, Pech|nbis-mrna-3711, Pech|nbis-mrna-7023
+OG0014541	
+OG0014542	Pech|nbis-mrna-12324, Pech|nbis-mrna-16150, Pech|nbis-mrna-1622, Pech|nbis-mrna-17428, Pech|nbis-mrna-18938, Pech|nbis-mrna-18939, Pech|nbis-mrna-18940, Pech|nbis-mrna-18941, Pech|nbis-mrna-999
+OG0014689	
+OG0014690	
+OG0014806	Pech|nbis-mrna-4792
+OG0014844	
+OG0014873	Pech|nbis-mrna-6378
+OG0014898	Pech|nbis-mrna-15594, Pech|nbis-mrna-880
+OG0014925	
+OG0014942	
+OG0014978	Pech|nbis-mrna-22527, Pech|nbis-mrna-9439, Pech|nbis-mrna-9440
+OG0014989	
+OG0014994	Pech|nbis-mrna-20173
+OG0015039	
+OG0015053	
+OG0015079	Pech|nbis-mrna-5021
+OG0015171	Pech|nbis-mrna-14530
+OG0015237	Pech|nbis-mrna-12085
+OG0015299	
+OG0015321	
+OG0015326	
+OG0015341	
+OG0015348	
+OG0015352	Pech|nbis-mrna-16740, Pech|nbis-mrna-20001, Pech|nbis-mrna-20757
+OG0015356	
+OG0015366	
+OG0015368	Pech|nbis-mrna-15671
+OG0015372	
+OG0015378	Pech|nbis-mrna-13001
+OG0015380	Pech|nbis-mrna-9445
+OG0015384	
+OG0015387	Pech|nbis-mrna-21880, Pech|nbis-mrna-9301, Pech|nbis-mrna-9302, Pech|nbis-mrna-9303
+OG0015395	Pech|nbis-mrna-18121, Pech|nbis-mrna-18299, Pech|nbis-mrna-9088
+OG0015396	Pech|nbis-mrna-2443
+OG0015443	
+OG0015489	Pech|nbis-mrna-16133, Pech|nbis-mrna-21272, Pech|nbis-mrna-21473, Pech|nbis-mrna-2176, Pech|nbis-mrna-2177, Pech|nbis-mrna-5603, Pech|nbis-mrna-7673
+OG0015496	Pech|nbis-mrna-15227, Pech|nbis-mrna-18504
+OG0015691	
+OG0015696	
+OG0015727	
+OG0015747	
+OG0015774	Pech|nbis-mrna-19020
+OG0015833	
+OG0015852	
+OG0015890	
+OG0015910	
+OG0015926	Pech|nbis-mrna-2304
+OG0015941	
+OG0015947	Pech|nbis-mrna-14232, Pech|nbis-mrna-9516
+OG0016016	
+OG0016107	Pech|nbis-mrna-1850
+OG0016167	Pech|nbis-mrna-22212
+OG0016249	
+OG0016263	
+OG0016323	
+OG0016338	
+OG0016453	Pech|nbis-mrna-5725
+OG0016466	
+OG0016468	
+OG0016471	
+OG0016474	
+OG0016483	Pech|nbis-mrna-286
+OG0016486	
+OG0016491	
+OG0016496	
+OG0016503	Pech|nbis-mrna-8378
+OG0016505	Pech|nbis-mrna-2963, Pech|nbis-mrna-3674, Pech|nbis-mrna-6659
+OG0016512	
+OG0016514	Pech|nbis-mrna-20938
+OG0016525	Pech|nbis-mrna-6025
+OG0016526	Pech|nbis-mrna-8606
+OG0016528	
+OG0016529	
+OG0016576	
+OG0016634	Pech|nbis-mrna-2901, Pech|nbis-mrna-3438
+OG0016643	Pech|nbis-mrna-10211, Pech|nbis-mrna-10213, Pech|nbis-mrna-10214
+OG0016888	
+OG0016993	
+OG0016999	
+OG0017017	
+OG0017097	
+OG0017136	
+OG0017180	
+OG0017232	Pech|nbis-mrna-19587, Pech|nbis-mrna-20495, Pech|nbis-mrna-21918
+OG0017274	Pech|nbis-mrna-15496
+OG0017340	
+OG0017424	
+OG0017425	
+OG0017497	Pech|nbis-mrna-10845
+OG0017539	
+OG0017660	
+OG0017669	
+OG0017692	
+OG0017698	Pech|nbis-mrna-21903
+OG0017731	
+OG0017735	
+OG0017765	Pech|nbis-mrna-18882
+OG0017784	
+OG0017837	
+OG0017911	
+OG0017940	
+OG0017946	Pech|nbis-mrna-16575, Pech|nbis-mrna-22089
+OG0017950	
+OG0017952	Pech|nbis-mrna-15560
+OG0017955	
+OG0017963	
+OG0017975	
+OG0017979	Pech|nbis-mrna-12919
+OG0017981	Pech|nbis-mrna-10711
+OG0017992	Pech|nbis-mrna-21289
+OG0018009	
+OG0018010	
+OG0018022	Pech|nbis-mrna-6522, Pech|nbis-mrna-6525, Pech|nbis-mrna-6526
+OG0018027	
+OG0018069	
+OG0018152	
+OG0018186	Pech|nbis-mrna-4823, Pech|nbis-mrna-6468
+OG0018195	Pech|nbis-mrna-15397
+OG0018197	
+OG0018206	Pech|nbis-mrna-17368, Pech|nbis-mrna-7924
+OG0018208	Pech|nbis-mrna-6208
+OG0018215	Pech|nbis-mrna-10190
+OG0018227	
+OG0018228	
+OG0018230	Pech|nbis-mrna-10312, Pech|nbis-mrna-10314, Pech|nbis-mrna-10474, Pech|nbis-mrna-1678, Pech|nbis-mrna-484
+OG0018549	
+OG0018562	
+OG0018591	
+OG0018614	
+OG0018626	
+OG0018659	
+OG0018691	
+OG0018730	Pech|nbis-mrna-18909
+OG0018753	
+OG0018757	
+OG0018775	
+OG0018783	
+OG0018790	
+OG0019108	
+OG0019174	Pech|nbis-mrna-11360, Pech|nbis-mrna-12297
+OG0019196	
+OG0019199	
+OG0019213	
+OG0019215	
+OG0019221	Pech|nbis-mrna-11980
+OG0019266	
+OG0019284	Pech|nbis-mrna-17492, Pech|nbis-mrna-21820
+OG0019315	
+OG0019333	
+OG0019362	
+OG0019393	
+OG0019401	
+OG0019437	
+OG0019444	Pech|nbis-mrna-16822
+OG0019479	
+OG0019522	
+OG0019523	
+OG0019525	
+OG0019554	
+OG0019558	
+OG0019580	
+OG0019732	
+OG0019859	
+OG0019922	
+OG0019947	
+OG0019951	
+OG0019957	
+OG0019968	Pech|nbis-mrna-11830, Pech|nbis-mrna-18591, Pech|nbis-mrna-19222, Pech|nbis-mrna-3071
+OG0019989	Pech|nbis-mrna-22286, Pech|nbis-mrna-22287, Pech|nbis-mrna-22288
+OG0019993	
+OG0019996	
+OG0020002	
+OG0020005	Pech|nbis-mrna-18883
+OG0020016	Pech|nbis-mrna-18423
+OG0020019	
+OG0020030	Pech|nbis-mrna-11096
+OG0020052	
+OG0020059	
+OG0020061	Pech|nbis-mrna-16660, Pech|nbis-mrna-21398, Pech|nbis-mrna-21400
+OG0020064	Pech|nbis-mrna-2061, Pech|nbis-mrna-22107
+OG0020069	Pech|nbis-mrna-5862, Pech|nbis-mrna-5863, Pech|nbis-mrna-8946
+OG0020073	Pech|nbis-mrna-22432
+OG0020074	
+OG0020076	
+OG0020087	
+OG0020097	
+OG0020099	
+OG0020101	
+OG0020104	Pech|nbis-mrna-19233, Pech|nbis-mrna-732
+OG0020106	
+OG0020109	Pech|nbis-mrna-6317
+OG0020116	Pech|nbis-mrna-14230, Pech|nbis-mrna-7007
+OG0020136	Pech|nbis-mrna-20112
+OG0020147	Pech|nbis-mrna-18182
+OG0020148	
+OG0020265	
+OG0020346	
+OG0020371	Pech|nbis-mrna-11016
+OG0020373	Pech|nbis-mrna-12701
+OG0020374	
+OG0020376	
+OG0020381	Pech|nbis-mrna-20683
+OG0020384	
+OG0020387	Pech|nbis-mrna-2888
+OG0020389	Pech|nbis-mrna-11260
+OG0020392	
+OG0020398	
+OG0020407	Pech|nbis-mrna-19755
+OG0020417	Pech|nbis-mrna-11251, Pech|nbis-mrna-14927, Pech|nbis-mrna-16970, Pech|nbis-mrna-3724, Pech|nbis-mrna-5877
+OG0020418	
+OG0020420	Pech|nbis-mrna-3095
+OG0020866	
+OG0020907	
+OG0020909	Pech|nbis-mrna-2107
+OG0021169	Pech|nbis-mrna-3383
+OG0021174	
+OG0021212	
+OG0021338	
+OG0021379	
+OG0021554	
+OG0021558	
+OG0021576	
+OG0021640	
+OG0021684	Pech|nbis-mrna-18606
+OG0021687	
+OG0021711	
+OG0021801	Pech|nbis-mrna-19695
+OG0021830	
+OG0021873	
+OG0021890	
+OG0021928	Pech|nbis-mrna-4997
+OG0021950	
+OG0022032	Pech|nbis-mrna-7427
+OG0022043	
+OG0022044	
+OG0022060	
+OG0022107	Pech|nbis-mrna-5505, Pech|nbis-mrna-5643
+OG0022132	
+OG0022177	Pech|nbis-mrna-12645
+OG0022187	
+OG0022196	Pech|nbis-mrna-9451, Pech|nbis-mrna-9456
+OG0022197	
+OG0022212	Pech|nbis-mrna-15274
+OG0022218	
+OG0022368	
+OG0022477	
+OG0022493	
+OG0022570	Pech|nbis-mrna-6450
+OG0022728	
+OG0022734	
+OG0022750	
+OG0022752	Pech|nbis-mrna-10932
+OG0022786	Pech|nbis-mrna-6668
+OG0022787	
+OG0022789	
+OG0022807	Pech|nbis-mrna-10705, Pech|nbis-mrna-20196, Pech|nbis-mrna-3751
+OG0022810	
+OG0022825	Pech|nbis-mrna-15965
+OG0022833	
+OG0022841	Pech|nbis-mrna-7765
+OG0022858	
+OG0022883	
+OG0022889	Pech|nbis-mrna-12269
+OG0022894	Pech|nbis-mrna-12521, Pech|nbis-mrna-5651, Pech|nbis-mrna-5652
+OG0022906	
+OG0022911	
+OG0022915	
+OG0022928	
+OG0022951	Pech|nbis-mrna-19389, Pech|nbis-mrna-5741
+OG0022956	Pech|nbis-mrna-9939
+OG0022968	Pech|nbis-mrna-20914, Pech|nbis-mrna-5581, Pech|nbis-mrna-6411
+OG0022974	Pech|nbis-mrna-1062, Pech|nbis-mrna-20325, Pech|nbis-mrna-5387
+OG0022987	Pech|nbis-mrna-20051, Pech|nbis-mrna-20052
+OG0022989	
+OG0022998	Pech|nbis-mrna-21335, Pech|nbis-mrna-21336
+OG0023004	Pech|nbis-mrna-4239
+OG0023034	
+OG0023048	Pech|nbis-mrna-10446
+OG0023054	
+OG0023064	
+OG0023077	
+OG0023081	Pech|nbis-mrna-1446
+OG0023085	
+OG0023088	
+OG0023089	Pech|nbis-mrna-10182
+OG0023090	
+OG0023092	Pech|nbis-mrna-13478
+OG0023093	
+OG0023094	
+OG0023102	Pech|nbis-mrna-22336
+OG0023114	Pech|nbis-mrna-16465, Pech|nbis-mrna-6257, Pech|nbis-mrna-764
+OG0023366	
+OG0023414	
+OG0023417	Pech|nbis-mrna-18641, Pech|nbis-mrna-19728
+OG0023460	
+OG0023503	Pech|nbis-mrna-12029, Pech|nbis-mrna-21386, Pech|nbis-mrna-7780, Pech|nbis-mrna-9382
+OG0023505	Pech|nbis-mrna-18043
+OG0023510	Pech|nbis-mrna-12896, Pech|nbis-mrna-12897
+OG0023517	Pech|nbis-mrna-14837, Pech|nbis-mrna-14838, Pech|nbis-mrna-14840, Pech|nbis-mrna-566
+OG0023526	Pech|nbis-mrna-913
+OG0023528	Pech|nbis-mrna-8376
+OG0023541	Pech|nbis-mrna-16298, Pech|nbis-mrna-16300, Pech|nbis-mrna-8824
+OG0023545	
+OG0023548	Pech|nbis-mrna-19579, Pech|nbis-mrna-8124, Pech|nbis-mrna-8125, Pech|nbis-mrna-8126
+OG0023553	Pech|nbis-mrna-6345
+OG0023560	Pech|nbis-mrna-18150, Pech|nbis-mrna-9730
+OG0023575	
+OG0024218	
+OG0024336	
+OG0024361	
+OG0024414	
+OG0024581	Pech|nbis-mrna-5003
+OG0024600	
+OG0024613	
+OG0024784	
+OG0024848	
+OG0024874	
+OG0024894	
+OG0024961	
+OG0025040	
+OG0025112	
+OG0025374	Pech|nbis-mrna-15017
+OG0025376	
+OG0025483	
+OG0025627	
+OG0025757	
+OG0025918	
+OG0025982	
+OG0026027	Pech|nbis-mrna-13115
+OG0026196	
+OG0026219	
+OG0026327	
+OG0026497	
+OG0026546	
+OG0026574	Pech|nbis-mrna-9084
+OG0026595	
+OG0026767	
+OG0026789	
+OG0026803	
+OG0026823	
+OG0026842	
+OG0026843	
+OG0026858	Pech|nbis-mrna-21330, Pech|nbis-mrna-8324
+OG0026884	Pech|nbis-mrna-10720
+OG0026907	
+OG0026916	
+OG0026920	
+OG0026926	Pech|nbis-mrna-14709, Pech|nbis-mrna-14710
+OG0026929	Pech|nbis-mrna-11953
+OG0026938	
+OG0026948	
+OG0026950	
+OG0026958	Pech|nbis-mrna-1094
+OG0026971	Pech|nbis-mrna-940
+OG0026986	
+OG0026990	
+OG0027005	Pech|nbis-mrna-3267
+OG0027012	Pech|nbis-mrna-11049
+OG0027022	
+OG0027037	
+OG0027046	Pech|nbis-mrna-20183, Pech|nbis-mrna-4497
+OG0027059	
+OG0027100	
+OG0027119	Pech|nbis-mrna-12446
+OG0027127	Pech|nbis-mrna-7657
+OG0027128	Pech|nbis-mrna-6407, Pech|nbis-mrna-6408
+OG0027159	Pech|nbis-mrna-8538
+OG0027177	
+OG0027183	Pech|nbis-mrna-17805, Pech|nbis-mrna-6615
+OG0027193	
+OG0027195	
+OG0027217	
+OG0027218	Pech|nbis-mrna-2922
+OG0027234	
+OG0027235	
+OG0027238	Pech|nbis-mrna-11259
+OG0027248	
+OG0027263	Pech|nbis-mrna-4257
+OG0027273	Pech|nbis-mrna-19404, Pech|nbis-mrna-5240
+OG0027276	
+OG0027294	Pech|nbis-mrna-16728
+OG0027309	Pech|nbis-mrna-6815
+OG0027315	Pech|nbis-mrna-6734
+OG0027321	Pech|nbis-mrna-10357, Pech|nbis-mrna-13577
+OG0027328	
+OG0027346	
+OG0027348	Pech|nbis-mrna-12231, Pech|nbis-mrna-15742
+OG0027359	
+OG0027377	
+OG0027385	Pech|nbis-mrna-3821
+OG0027387	
+OG0027391	
+OG0027393	Pech|nbis-mrna-3186
+OG0027414	
+OG0027421	Pech|nbis-mrna-1684
+OG0027425	Pech|nbis-mrna-6911
+OG0027427	
+OG0027429	Pech|nbis-mrna-6022
+OG0027444	
+OG0027447	
+OG0027463	
+OG0027469	
+OG0027502	Pech|nbis-mrna-10841, Pech|nbis-mrna-6280
+OG0027595	
+OG0027942	
+OG0028013	
+OG0028030	
+OG0028116	
+OG0028122	Pech|nbis-mrna-21233
+OG0028137	Pech|nbis-mrna-16753, Pech|nbis-mrna-17622, Pech|nbis-mrna-4486
+OG0028138	Pech|nbis-mrna-6638
+OG0028139	
+OG0028143	Pech|nbis-mrna-1615, Pech|nbis-mrna-2758, Pech|nbis-mrna-4252
+OG0028144	Pech|nbis-mrna-15686
+OG0028151	Pech|nbis-mrna-20295, Pech|nbis-mrna-20297, Pech|nbis-mrna-4014
+OG0028155	
+OG0028163	Pech|nbis-mrna-11701, Pech|nbis-mrna-22451, Pech|nbis-mrna-22452
+OG0028165	Pech|nbis-mrna-16725, Pech|nbis-mrna-2006
+OG0028175	Pech|nbis-mrna-11187
+OG0028195	Pech|nbis-mrna-21333, Pech|nbis-mrna-8323
+OG0028196	
+OG0028208	
+OG0028210	Pech|nbis-mrna-14867, Pech|nbis-mrna-6504
+OG0029492	
+OG0029510	Pech|nbis-mrna-13399
+OG0029875	
+OG0029949	
+OG0029958	
+OG0030110	
+OG0030331	
+OG0030604	
+OG0030742	
+OG0031017	
+OG0031060	
+OG0031184	
+OG0031245	
+OG0031310	Pech|nbis-mrna-21861
+OG0031328	
+OG0031332	
+OG0031371	
+OG0031433	
+OG0031434	
+OG0031438	
+OG0031577	
+OG0031611	
+OG0031648	
+OG0031765	
+OG0031797	
+OG0031820	
+OG0031867	
+OG0031875	Pech|nbis-mrna-8136
+OG0031899	
+OG0031985	
+OG0032027	
+OG0032067	
+OG0032929	
+OG0033094	
+OG0033118	
+OG0033211	
+OG0033438	
+OG0033445	
+OG0033462	Pech|nbis-mrna-122
+OG0033465	
+OG0033469	
+OG0033480	Pech|nbis-mrna-600
+OG0033482	
+OG0033502	
+OG0033504	
+OG0033507	
+OG0033518	
+OG0033521	
+OG0033529	
+OG0033531	Pech|nbis-mrna-1664
+OG0033542	Pech|nbis-mrna-19685
+OG0033553	
+OG0033558	
+OG0033566	Pech|nbis-mrna-12923
+OG0033568	
+OG0033575	
+OG0033579	
+OG0033582	
+OG0033583	
+OG0033591	Pech|nbis-mrna-13062
+OG0033592	Pech|nbis-mrna-16245
+OG0033594	
+OG0033624	
+OG0033637	
+OG0033660	
+OG0033678	
+OG0033689	
+OG0033701	Pech|nbis-mrna-9046
+OG0033706	
+OG0033716	
+OG0033718	Pech|nbis-mrna-19489
+OG0033719	Pech|nbis-mrna-19490
+OG0033757	
+OG0033761	
+OG0033772	
+OG0033794	
+OG0033801	Pech|nbis-mrna-11900
+OG0033803	
+OG0033819	
+OG0033838	
+OG0033842	
+OG0033843	
+OG0033844	Pech|nbis-mrna-15219
+OG0033859	
+OG0033863	
+OG0033869	Pech|nbis-mrna-7407
+OG0033874	Pech|nbis-mrna-20277
+OG0033885	Pech|nbis-mrna-21860
+OG0033893	
+OG0033894	
+OG0033905	
+OG0033910	
+OG0033917	Pech|nbis-mrna-450
+OG0033926	
+OG0033946	
+OG0033976	
+OG0033980	
+OG0033988	Pech|nbis-mrna-9532
+OG0034002	
+OG0034008	
+OG0034033	
+OG0034051	
+OG0034070	Pech|nbis-mrna-4067
+OG0034079	Pech|nbis-mrna-13770
+OG0034085	
+OG0034094	Pech|nbis-mrna-10153
+OG0034099	Pech|nbis-mrna-1212
+OG0034109	Pech|nbis-mrna-11901
+OG0034115	
+OG0034130	
+OG0034132	Pech|nbis-mrna-3998
+OG0034144	
+OG0034145	
+OG0034148	
+OG0034167	
+OG0034168	Pech|nbis-mrna-4744
+OG0034179	
+OG0034193	Pech|nbis-mrna-7911
+OG0034196	Pech|nbis-mrna-7368
+OG0034203	Pech|nbis-mrna-20499
+OG0034204	
+OG0034215	
+OG0034223	
+OG0034226	Pech|nbis-mrna-20504
+OG0034230	
+OG0034241	
+OG0034255	
+OG0034263	
+OG0034266	
+OG0034269	
+OG0034271	Pech|nbis-mrna-320
+OG0034286	Pech|nbis-mrna-13775
+OG0034294	Pech|nbis-mrna-268
+OG0034295	
+OG0034301	
+OG0034310	Pech|nbis-mrna-21843
+OG0034311	
+OG0034321	Pech|nbis-mrna-14497
+OG0034327	Pech|nbis-mrna-11500
+OG0034348	
+OG0034350	
+OG0034354	
+OG0034365	
+OG0034371	
+OG0034379	
+OG0034380	
+OG0034387	
+OG0034388	
+OG0034399	
+OG0034401	
+OG0034415	
+OG0034510	
+OG0034945	
+OG0035261	
+OG0035302	
+OG0035344	
+OG0035577	
+OG0035584	
+OG0035593	Pech|nbis-mrna-13287
+OG0035640	Pech|nbis-mrna-8965
+OG0035649	Pech|nbis-mrna-17869
+OG0035654	
+OG0035664	Pech|nbis-mrna-577, Pech|nbis-mrna-6250
+OG0035712	Pech|nbis-mrna-183
+OG0035717	Pech|nbis-mrna-19153
+OG0035722	Pech|nbis-mrna-18777, Pech|nbis-mrna-2867
+OG0035735	Pech|nbis-mrna-5983
+OG0035766	Pech|nbis-mrna-2520
+OG0035792	Pech|nbis-mrna-5706
+OG0035802	Pech|nbis-mrna-18111, Pech|nbis-mrna-18114
+OG0035805	Pech|nbis-mrna-16296, Pech|nbis-mrna-16297
+OG0035808	
+OG0035813	Pech|nbis-mrna-1193, Pech|nbis-mrna-20322
+OG0035814	Pech|nbis-mrna-11912, Pech|nbis-mrna-20809
+OG0035816	Pech|nbis-mrna-11638
+OG0035835	Pech|nbis-mrna-18358
+OG0035845	Pech|nbis-mrna-10200
+OG0035856	Pech|nbis-mrna-266
+OG0037931	
+OG0040192	
+OG0040865	
+OG0040897	
+OG0042250	
+OG0043263	
+OG0043271	
+OG0043311	
+OG0043314	
+OG0044455	
+OG0044628	
+OG0045648	
+OG0045650	
+OG0045653	
+OG0045655	
+OG0045658	
+OG0045660	
+OG0045663	
+OG0045667	
+OG0045679	
+OG0045683	
+OG0045697	
+OG0045705	
+OG0045708	
+OG0045732	
+OG0045754	
+OG0045768	
+OG0045780	
+OG0045787	
+OG0045792	
+OG0045794	
+OG0045802	
+OG0045803	
+OG0045809	
+OG0045811	
+OG0045812	
+OG0045813	
+OG0045814	
+OG0045818	
+OG0045822	
+OG0045825	
+OG0045849	
+OG0045850	
+OG0045867	
+OG0045868	
+OG0045869	
+OG0045871	
+OG0045874	
+OG0045879	
+OG0045890	
+OG0045892	
+OG0045897	
+OG0045898	
+OG0045900	
+OG0045901	
+OG0045913	
+OG0045923	
+OG0045929	
+OG0045931	
+OG0045946	
+OG0045951	
+OG0045955	
+OG0045956	
+OG0045960	
+OG0045961	
+OG0045971	
+OG0045972	
+OG0045981	
+OG0045991	
+OG0046008	
+OG0046016	
+OG0046018	
+OG0046019	
+OG0046028	
+OG0046055	
+OG0046056	
+OG0046067	
+OG0046087	
+OG0046092	
+OG0046095	
+OG0046096	
+OG0046111	
+OG0046123	
+OG0046126	
+OG0046132	
+OG0046134	
+OG0046136	
+OG0046137	
+OG0046139	
+OG0046145	
+OG0046157	
+OG0046161	
+OG0046163	
+OG0046164	
+OG0046167	
+OG0046176	
+OG0046184	
+OG0046191	
+OG0046202	
+OG0046208	
+OG0046209	
+OG0046215	
+OG0046219	
+OG0046222	
+OG0046227	
+OG0046229	
+OG0046241	
+OG0046247	
+OG0046248	
+OG0046253	
+OG0046262	
+OG0046270	
+OG0046271	
+OG0046286	
+OG0046288	
+OG0046303	
+OG0046316	
+OG0046319	
+OG0046320	
+OG0046326	
+OG0046327	
+OG0046331	
+OG0046335	
+OG0046343	
+OG0046358	
+OG0046361	
+OG0046383	
+OG0046384	
+OG0046392	
+OG0046404	
+OG0046409	
+OG0046412	
+OG0046414	
+OG0046432	
+OG0046437	
+OG0046441	
+OG0046452	
+OG0046453	
+OG0046456	
+OG0046460	
+OG0046461	
+OG0046470	
+OG0046473	
+OG0046475	
+OG0046486	
+OG0046488	
+OG0046490	
+OG0046493	
+OG0046503	
+OG0046520	
+OG0046522	
+OG0046531	
+OG0046535	
+OG0046542	
+OG0046545	
+OG0046551	
+OG0046554	
+OG0046558	
+OG0046560	
+OG0046569	
+OG0046570	
+OG0046573	
+OG0046589	
+OG0046590	
+OG0046591	
+OG0046600	
+OG0046604	
+OG0046613	
+OG0046621	
+OG0046625	
+OG0046626	
+OG0046650	
+OG0046653	
+OG0046655	
+OG0046660	
+OG0046662	
+OG0046665	
+OG0046673	
+OG0046675	
+OG0046695	
+OG0046705	
+OG0046712	
+OG0046727	
+OG0046744	
+OG0046747	
+OG0046762	
+OG0046768	
+OG0046771	
+OG0046781	
+OG0046791	
+OG0046793	
+OG0046794	
+OG0046796	
+OG0046800	
+OG0046804	
+OG0046819	
+OG0046828	
+OG0046830	
+OG0046833	
+OG0046840	
+OG0046842	
+OG0046844	
+OG0046849	
+OG0046855	
+OG0046862	
+OG0046864	
+OG0046872	
+OG0046873	
+OG0048300	
+OG0049627	Pech|nbis-mrna-3404
+OG0049646	Pech|nbis-mrna-19491
+OG0049657	Pech|nbis-mrna-15780
+OG0049692	Pech|nbis-mrna-21339
+OG0049767	Pech|nbis-mrna-19756
+OG0049784	Pech|nbis-mrna-16507
+OG0049785	Pech|nbis-mrna-16509
+OG0049842	Pech|nbis-mrna-6877
+OG0049845	Pech|nbis-mrna-1065
+OG0049891	Pech|nbis-mrna-13989
+OG0049904	Pech|nbis-mrna-4616
+OG0049906	Pech|nbis-mrna-12650
+OG0049942	Pech|nbis-mrna-2528
+OG0049945	Pech|nbis-mrna-1213
+OG0049946	Pech|nbis-mrna-18608
+OG0049947	
+OG0049959	Pech|nbis-mrna-21169
+OG0049960	Pech|nbis-mrna-21170
+OG0049970	Pech|nbis-mrna-21767
+OG0049996	Pech|nbis-mrna-1763
+OG0050011	Pech|nbis-mrna-17568
+OG0050013	Pech|nbis-mrna-13237
+OG0050039	
+OG0050046	Pech|nbis-mrna-17420
+OG0050059	Pech|nbis-mrna-5590
+OG0050093	Pech|nbis-mrna-21286
+OG0050111	
+OG0050121	Pech|nbis-mrna-14355
+OG0050145	Pech|nbis-mrna-15975
+OG0050152	Pech|nbis-mrna-6904
+OG0050170	Pech|nbis-mrna-1823
+OG0050193	Pech|nbis-mrna-9014
+OG0050196	Pech|nbis-mrna-21625
+OG0050202	Pech|nbis-mrna-13998
+OG0050205	Pech|nbis-mrna-14447
+OG0050210	Pech|nbis-mrna-20267
+OG0050212	Pech|nbis-mrna-13440
+OG0050221	Pech|nbis-mrna-1190
+OG0050222	Pech|nbis-mrna-944
+OG0050230	Pech|nbis-mrna-155
+OG0050258	
+OG0050266	Pech|nbis-mrna-13245
+OG0050280	Pech|nbis-mrna-19357
+OG0050310	Pech|nbis-mrna-5303
+OG0050312	Pech|nbis-mrna-17081
+OG0050325	
+OG0050328	Pech|nbis-mrna-267
+OG0050331	Pech|nbis-mrna-6842

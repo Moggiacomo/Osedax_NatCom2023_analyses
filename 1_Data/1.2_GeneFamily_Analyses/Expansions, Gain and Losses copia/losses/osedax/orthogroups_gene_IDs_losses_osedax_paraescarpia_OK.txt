@@ -1,0 +1,4377 @@
+OG0000009	
+OG0000034	nbis-mrna-10461, nbis-mrna-11023, nbis-mrna-11024, nbis-mrna-11026, nbis-mrna-20497, nbis-mrna-21069, nbis-mrna-21311, nbis-mrna-21314, nbis-mrna-340
+OG0000038	nbis-mrna-11553, nbis-mrna-12823, nbis-mrna-13932, nbis-mrna-15320, nbis-mrna-15912, nbis-mrna-16113, nbis-mrna-17146, nbis-mrna-17727, nbis-mrna-20006, nbis-mrna-20783, nbis-mrna-21621, nbis-mrna-21779, nbis-mrna-22436, nbis-mrna-4703, nbis-mrna-5285, nbis-mrna-604, nbis-mrna-7316, nbis-mrna-8297
+OG0000040	nbis-mrna-11535, nbis-mrna-12265, nbis-mrna-12266, nbis-mrna-12267, nbis-mrna-13713, nbis-mrna-13714, nbis-mrna-14843, nbis-mrna-14844, nbis-mrna-14980, nbis-mrna-14981, nbis-mrna-14982, nbis-mrna-15641, nbis-mrna-16865, nbis-mrna-16866, nbis-mrna-22202, nbis-mrna-22203, nbis-mrna-4065, nbis-mrna-7531, nbis-mrna-9255
+OG0000046	nbis-mrna-16555, nbis-mrna-20945, nbis-mrna-20955, nbis-mrna-2481
+OG0000047	nbis-mrna-1238, nbis-mrna-8295
+OG0000049	nbis-mrna-10577, nbis-mrna-11277, nbis-mrna-12438, nbis-mrna-13209, nbis-mrna-13910, nbis-mrna-14629, nbis-mrna-16063, nbis-mrna-16064, nbis-mrna-17969, nbis-mrna-17975, nbis-mrna-19984, nbis-mrna-19985, nbis-mrna-20370, nbis-mrna-20810, nbis-mrna-21367, nbis-mrna-2383, nbis-mrna-3626, nbis-mrna-3627, nbis-mrna-4211
+OG0000055	nbis-mrna-12873, nbis-mrna-19434, nbis-mrna-19435, nbis-mrna-19436, nbis-mrna-19437, nbis-mrna-20850, nbis-mrna-2603, nbis-mrna-58, nbis-mrna-59, nbis-mrna-7799, nbis-mrna-7800, nbis-mrna-9718
+OG0000056	nbis-mrna-11806, nbis-mrna-1201, nbis-mrna-1236, nbis-mrna-18548, nbis-mrna-18549, nbis-mrna-18550, nbis-mrna-21610, nbis-mrna-21611, nbis-mrna-2722, nbis-mrna-2724, nbis-mrna-2725, nbis-mrna-3484, nbis-mrna-5242, nbis-mrna-6432, nbis-mrna-882
+OG0000061	nbis-mrna-12628, nbis-mrna-13957, nbis-mrna-17769, nbis-mrna-17773, nbis-mrna-18011, nbis-mrna-18338, nbis-mrna-21535, nbis-mrna-21536, nbis-mrna-22545, nbis-mrna-2839, nbis-mrna-3014, nbis-mrna-3015, nbis-mrna-3016, nbis-mrna-6370, nbis-mrna-91, nbis-mrna-92, nbis-mrna-93, nbis-mrna-94, nbis-mrna-95
+OG0000063	nbis-mrna-1070, nbis-mrna-14533, nbis-mrna-18739
+OG0000065	nbis-mrna-13426, nbis-mrna-17894, nbis-mrna-18201, nbis-mrna-2959, nbis-mrna-3317, nbis-mrna-4693, nbis-mrna-8564, nbis-mrna-8565, nbis-mrna-9309, nbis-mrna-9311
+OG0000081	
+OG0000092	nbis-mrna-11203, nbis-mrna-4295
+OG0000099	
+OG0000106	nbis-mrna-10748, nbis-mrna-10770, nbis-mrna-1235, nbis-mrna-15112, nbis-mrna-16454, nbis-mrna-16781, nbis-mrna-17017, nbis-mrna-17362, nbis-mrna-18514, nbis-mrna-18942, nbis-mrna-18977, nbis-mrna-19652, nbis-mrna-20209, nbis-mrna-20559, nbis-mrna-20561, nbis-mrna-2420, nbis-mrna-6358, nbis-mrna-6698, nbis-mrna-763, nbis-mrna-9280, nbis-mrna-9711
+OG0000107	
+OG0000108	
+OG0000121	nbis-mrna-14778, nbis-mrna-17572, nbis-mrna-4628, nbis-mrna-5539, nbis-mrna-750, nbis-mrna-9198
+OG0000127	
+OG0000129	nbis-mrna-18812, nbis-mrna-21015, nbis-mrna-3021
+OG0000139	nbis-mrna-20144, nbis-mrna-2194
+OG0000143	nbis-mrna-12228, nbis-mrna-17519, nbis-mrna-20014, nbis-mrna-4785, nbis-mrna-6391, nbis-mrna-650, nbis-mrna-9317
+OG0000148	nbis-mrna-10590, nbis-mrna-10591, nbis-mrna-10592, nbis-mrna-17932, nbis-mrna-17933, nbis-mrna-19962, nbis-mrna-19963, nbis-mrna-19964
+OG0000153	nbis-mrna-13046, nbis-mrna-1321, nbis-mrna-13499, nbis-mrna-15054, nbis-mrna-18334, nbis-mrna-2652, nbis-mrna-5107, nbis-mrna-5235
+OG0000164	nbis-mrna-11913, nbis-mrna-12247, nbis-mrna-12249, nbis-mrna-12691, nbis-mrna-13617, nbis-mrna-1888, nbis-mrna-20812, nbis-mrna-2322, nbis-mrna-5096, nbis-mrna-5097, nbis-mrna-8809, nbis-mrna-947, nbis-mrna-9989
+OG0000167	nbis-mrna-18169
+OG0000170	nbis-mrna-1567, nbis-mrna-16151, nbis-mrna-9700
+OG0000171	nbis-mrna-17014, nbis-mrna-17946, nbis-mrna-18303
+OG0000184	nbis-mrna-10164, nbis-mrna-10165, nbis-mrna-11346, nbis-mrna-11518, nbis-mrna-12271, nbis-mrna-12374, nbis-mrna-15059, nbis-mrna-15636, nbis-mrna-15838, nbis-mrna-16904, nbis-mrna-18135, nbis-mrna-20641, nbis-mrna-20752, nbis-mrna-21585, nbis-mrna-3035, nbis-mrna-4899, nbis-mrna-5200, nbis-mrna-5811, nbis-mrna-6043
+OG0000186	nbis-mrna-17157, nbis-mrna-2793, nbis-mrna-6096
+OG0000189	nbis-mrna-3783
+OG0000190	nbis-mrna-15384, nbis-mrna-17100, nbis-mrna-6164
+OG0000192	
+OG0000199	nbis-mrna-20807, nbis-mrna-22199
+OG0000208	nbis-mrna-22297, nbis-mrna-22298, nbis-mrna-22299, nbis-mrna-2438, nbis-mrna-2439
+OG0000213	nbis-mrna-13025
+OG0000222	nbis-mrna-12732, nbis-mrna-8815, nbis-mrna-9673
+OG0000231	nbis-mrna-10279, nbis-mrna-10280, nbis-mrna-11802, nbis-mrna-11905, nbis-mrna-12484, nbis-mrna-12779, nbis-mrna-12818, nbis-mrna-13168, nbis-mrna-1351, nbis-mrna-15031, nbis-mrna-15640, nbis-mrna-15758, nbis-mrna-1919, nbis-mrna-19281, nbis-mrna-22211, nbis-mrna-3937, nbis-mrna-4343, nbis-mrna-5535, nbis-mrna-5586, nbis-mrna-567, nbis-mrna-6677, nbis-mrna-6756, nbis-mrna-6840, nbis-mrna-9504, nbis-mrna-9845
+OG0000233	nbis-mrna-2178
+OG0000235	nbis-mrna-12143, nbis-mrna-16774, nbis-mrna-19422, nbis-mrna-2596, nbis-mrna-3701, nbis-mrna-6716
+OG0000243	nbis-mrna-6051, nbis-mrna-6789, nbis-mrna-8684, nbis-mrna-9235, nbis-mrna-9668
+OG0000249	nbis-mrna-7961, nbis-mrna-9814
+OG0000254	nbis-mrna-10060, nbis-mrna-10062, nbis-mrna-10065, nbis-mrna-1076, nbis-mrna-11590, nbis-mrna-12388, nbis-mrna-12389, nbis-mrna-12391, nbis-mrna-12394, nbis-mrna-12396, nbis-mrna-14311, nbis-mrna-17798, nbis-mrna-17914, nbis-mrna-19725, nbis-mrna-3712, nbis-mrna-3713, nbis-mrna-7024, nbis-mrna-7371
+OG0000256	
+OG0000260	nbis-mrna-12448, nbis-mrna-15415, nbis-mrna-19360
+OG0000272	nbis-mrna-10185, nbis-mrna-1501, nbis-mrna-1502, nbis-mrna-1503, nbis-mrna-5898, nbis-mrna-8038, nbis-mrna-8039, nbis-mrna-8041
+OG0000273	
+OG0000275	nbis-mrna-20672
+OG0000276	nbis-mrna-10868, nbis-mrna-12157, nbis-mrna-15010, nbis-mrna-4720, nbis-mrna-4824, nbis-mrna-7106, nbis-mrna-8585
+OG0000287	nbis-mrna-10023
+OG0000289	nbis-mrna-1043, nbis-mrna-15459, nbis-mrna-21726, nbis-mrna-3096, nbis-mrna-6368
+OG0000292	nbis-mrna-13153, nbis-mrna-14210, nbis-mrna-15481, nbis-mrna-16293, nbis-mrna-18520, nbis-mrna-2841, nbis-mrna-2842, nbis-mrna-3400, nbis-mrna-4071, nbis-mrna-8057
+OG0000299	nbis-mrna-10089, nbis-mrna-1073, nbis-mrna-10900, nbis-mrna-12820, nbis-mrna-12993, nbis-mrna-1572, nbis-mrna-16604, nbis-mrna-18741, nbis-mrna-20211, nbis-mrna-22501, nbis-mrna-3361, nbis-mrna-7287, nbis-mrna-7480, nbis-mrna-9061, nbis-mrna-9782
+OG0000308	nbis-mrna-4898
+OG0000309	nbis-mrna-12618, nbis-mrna-21256, nbis-mrna-5924
+OG0000313	nbis-mrna-16783, nbis-mrna-17531, nbis-mrna-21667, nbis-mrna-2369, nbis-mrna-2811, nbis-mrna-2813, nbis-mrna-3781, nbis-mrna-7027
+OG0000314	
+OG0000315	
+OG0000323	nbis-mrna-10820, nbis-mrna-11278, nbis-mrna-12609, nbis-mrna-13667, nbis-mrna-15682, nbis-mrna-15683, nbis-mrna-15684, nbis-mrna-15685, nbis-mrna-16798, nbis-mrna-20288, nbis-mrna-20291, nbis-mrna-7662
+OG0000325	nbis-mrna-12375, nbis-mrna-14933, nbis-mrna-17545, nbis-mrna-17701, nbis-mrna-18058, nbis-mrna-18062, nbis-mrna-18064, nbis-mrna-18586, nbis-mrna-2099, nbis-mrna-2779, nbis-mrna-4169, nbis-mrna-5350, nbis-mrna-5351, nbis-mrna-6247, nbis-mrna-9443
+OG0000326	
+OG0000336	
+OG0000338	nbis-mrna-6040, nbis-mrna-607, nbis-mrna-9938
+OG0000342	nbis-mrna-11302, nbis-mrna-13110, nbis-mrna-13112, nbis-mrna-1459, nbis-mrna-1906, nbis-mrna-1907, nbis-mrna-21410, nbis-mrna-2244, nbis-mrna-2620, nbis-mrna-4548, nbis-mrna-4549, nbis-mrna-4550, nbis-mrna-5910, nbis-mrna-5912, nbis-mrna-5913, nbis-mrna-6144, nbis-mrna-7034, nbis-mrna-7035, nbis-mrna-7036
+OG0000345	nbis-mrna-10218, nbis-mrna-11504, nbis-mrna-22411, nbis-mrna-5465
+OG0000350	nbis-mrna-14483, nbis-mrna-15764, nbis-mrna-352, nbis-mrna-3640, nbis-mrna-7181, nbis-mrna-9837, nbis-mrna-9841
+OG0000356	nbis-mrna-8987
+OG0000361	nbis-mrna-10678, nbis-mrna-20493, nbis-mrna-2193, nbis-mrna-2195, nbis-mrna-490, nbis-mrna-8214, nbis-mrna-9127
+OG0000367	nbis-mrna-10166
+OG0000385	nbis-mrna-17511, nbis-mrna-19414, nbis-mrna-20055, nbis-mrna-773
+OG0000391	nbis-mrna-12263, nbis-mrna-1458, nbis-mrna-20564, nbis-mrna-4063, nbis-mrna-4748
+OG0000393	nbis-mrna-17693, nbis-mrna-3225
+OG0000398	nbis-mrna-15867, nbis-mrna-22105
+OG0000404	nbis-mrna-2115
+OG0000406	nbis-mrna-16634, nbis-mrna-16821, nbis-mrna-3147
+OG0000412	
+OG0000416	nbis-mrna-12944
+OG0000423	nbis-mrna-12248, nbis-mrna-12251, nbis-mrna-13076, nbis-mrna-2066, nbis-mrna-542, nbis-mrna-559, nbis-mrna-8629
+OG0000426	nbis-mrna-2719
+OG0000430	nbis-mrna-10721
+OG0000432	nbis-mrna-16257, nbis-mrna-4347
+OG0000440	
+OG0000441	nbis-mrna-1510, nbis-mrna-16362, nbis-mrna-16364, nbis-mrna-16365, nbis-mrna-16367, nbis-mrna-16711, nbis-mrna-17117, nbis-mrna-17118
+OG0000453	nbis-mrna-2820
+OG0000458	nbis-mrna-10464, nbis-mrna-19207, nbis-mrna-9319, nbis-mrna-9323, nbis-mrna-9324, nbis-mrna-9325, nbis-mrna-9326, nbis-mrna-9327, nbis-mrna-9329, nbis-mrna-9330
+OG0000459	
+OG0000467	nbis-mrna-10952, nbis-mrna-10953
+OG0000468	nbis-mrna-1045, nbis-mrna-1046, nbis-mrna-15596, nbis-mrna-623, nbis-mrna-624, nbis-mrna-627
+OG0000473	nbis-mrna-16680
+OG0000477	
+OG0000484	nbis-mrna-1674, nbis-mrna-18722, nbis-mrna-20143, nbis-mrna-7359, nbis-mrna-7385, nbis-mrna-7534
+OG0000485	nbis-mrna-15540, nbis-mrna-16864, nbis-mrna-5089, nbis-mrna-7255
+OG0000490	nbis-mrna-10221, nbis-mrna-10222, nbis-mrna-12931, nbis-mrna-13234, nbis-mrna-13235, nbis-mrna-13236, nbis-mrna-13895, nbis-mrna-13897, nbis-mrna-13898, nbis-mrna-14614, nbis-mrna-15951, nbis-mrna-20166, nbis-mrna-3608, nbis-mrna-3659, nbis-mrna-3660, nbis-mrna-3661, nbis-mrna-5047, nbis-mrna-5420, nbis-mrna-5440, nbis-mrna-5442, nbis-mrna-5443, nbis-mrna-7870, nbis-mrna-9176, nbis-mrna-9244
+OG0000495	nbis-mrna-776
+OG0000527	
+OG0000528	nbis-mrna-14770, nbis-mrna-3322
+OG0000529	
+OG0000537	nbis-mrna-16193, nbis-mrna-18808, nbis-mrna-20537, nbis-mrna-3812
+OG0000541	nbis-mrna-19967, nbis-mrna-20016, nbis-mrna-22108, nbis-mrna-6389
+OG0000547	nbis-mrna-7603
+OG0000548	nbis-mrna-1723
+OG0000561	nbis-mrna-10294, nbis-mrna-4032
+OG0000564	nbis-mrna-10712, nbis-mrna-14636, nbis-mrna-14637, nbis-mrna-14638, nbis-mrna-14640, nbis-mrna-18916
+OG0000565	nbis-mrna-1341, nbis-mrna-2934, nbis-mrna-5703
+OG0000589	
+OG0000595	nbis-mrna-14773, nbis-mrna-16490, nbis-mrna-22128, nbis-mrna-8024, nbis-mrna-8506
+OG0000599	
+OG0000606	nbis-mrna-12415, nbis-mrna-12750, nbis-mrna-12791, nbis-mrna-15732, nbis-mrna-16530, nbis-mrna-18245, nbis-mrna-20279, nbis-mrna-20280, nbis-mrna-20348, nbis-mrna-20624, nbis-mrna-20625, nbis-mrna-3534, nbis-mrna-4003, nbis-mrna-4004, nbis-mrna-4005, nbis-mrna-6569, nbis-mrna-6571, nbis-mrna-8746, nbis-mrna-9701
+OG0000607	nbis-mrna-10432, nbis-mrna-1060, nbis-mrna-1061, nbis-mrna-1064, nbis-mrna-13988, nbis-mrna-16902, nbis-mrna-20821, nbis-mrna-20822, nbis-mrna-3229, nbis-mrna-5304, nbis-mrna-5305, nbis-mrna-5965, nbis-mrna-708, nbis-mrna-711, nbis-mrna-8492, nbis-mrna-8493
+OG0000609	nbis-mrna-16684
+OG0000622	nbis-mrna-10598, nbis-mrna-19173, nbis-mrna-21276, nbis-mrna-7059, nbis-mrna-7061
+OG0000627	nbis-mrna-22341, nbis-mrna-5635
+OG0000631	
+OG0000633	nbis-mrna-19130, nbis-mrna-5588
+OG0000638	nbis-mrna-10492, nbis-mrna-10493, nbis-mrna-10875, nbis-mrna-10878, nbis-mrna-14846, nbis-mrna-3929, nbis-mrna-5207, nbis-mrna-5208, nbis-mrna-561, nbis-mrna-5708, nbis-mrna-7193, nbis-mrna-9796
+OG0000647	nbis-mrna-14589, nbis-mrna-18333, nbis-mrna-3312
+OG0000653	nbis-mrna-4375, nbis-mrna-4378, nbis-mrna-8004
+OG0000655	nbis-mrna-20568
+OG0000656	
+OG0000657	nbis-mrna-13180, nbis-mrna-15272, nbis-mrna-16222, nbis-mrna-1683, nbis-mrna-1713, nbis-mrna-18957, nbis-mrna-2350, nbis-mrna-3190, nbis-mrna-9193
+OG0000667	nbis-mrna-6828, nbis-mrna-6830, nbis-mrna-6831, nbis-mrna-8864
+OG0000673	nbis-mrna-16000, nbis-mrna-20005, nbis-mrna-21484, nbis-mrna-21485, nbis-mrna-21486, nbis-mrna-21488, nbis-mrna-2824, nbis-mrna-5739, nbis-mrna-7257
+OG0000682	nbis-mrna-13640, nbis-mrna-13642, nbis-mrna-2209, nbis-mrna-8613
+OG0000690	nbis-mrna-20853
+OG0000704	nbis-mrna-12824, nbis-mrna-8769
+OG0000709	nbis-mrna-12211, nbis-mrna-12212, nbis-mrna-12515, nbis-mrna-14325, nbis-mrna-15391, nbis-mrna-15392, nbis-mrna-19787
+OG0000711	
+OG0000713	
+OG0000716	nbis-mrna-11408
+OG0000717	nbis-mrna-5777
+OG0000724	
+OG0000726	
+OG0000735	nbis-mrna-17960
+OG0000737	nbis-mrna-1107, nbis-mrna-1108, nbis-mrna-11347, nbis-mrna-14086, nbis-mrna-16730, nbis-mrna-19719, nbis-mrna-19720, nbis-mrna-21763, nbis-mrna-21765, nbis-mrna-21766, nbis-mrna-2425, nbis-mrna-6313, nbis-mrna-6654, nbis-mrna-6655, nbis-mrna-876, nbis-mrna-877, nbis-mrna-878, nbis-mrna-879, nbis-mrna-9946, nbis-mrna-9947, nbis-mrna-9948
+OG0000744	nbis-mrna-12887, nbis-mrna-20702, nbis-mrna-9705
+OG0000747	nbis-mrna-10268, nbis-mrna-1098, nbis-mrna-13238, nbis-mrna-1816, nbis-mrna-4163, nbis-mrna-5040, nbis-mrna-5838, nbis-mrna-6036, nbis-mrna-8481
+OG0000749	nbis-mrna-14517, nbis-mrna-20423, nbis-mrna-3262
+OG0000760	nbis-mrna-1162
+OG0000762	
+OG0000764	
+OG0000765	nbis-mrna-12093, nbis-mrna-13286, nbis-mrna-145, nbis-mrna-16366, nbis-mrna-16510, nbis-mrna-1851, nbis-mrna-3392, nbis-mrna-6394, nbis-mrna-9276, nbis-mrna-9844
+OG0000766	
+OG0000767	
+OG0000769	nbis-mrna-1090, nbis-mrna-11017, nbis-mrna-16909, nbis-mrna-16910, nbis-mrna-19, nbis-mrna-19041, nbis-mrna-4761, nbis-mrna-4949, nbis-mrna-5057, nbis-mrna-5184, nbis-mrna-5185, nbis-mrna-5186
+OG0000771	nbis-mrna-11586, nbis-mrna-12531, nbis-mrna-14487, nbis-mrna-14488, nbis-mrna-14939, nbis-mrna-14941, nbis-mrna-17376, nbis-mrna-17377, nbis-mrna-17378, nbis-mrna-2305
+OG0000772	nbis-mrna-13031
+OG0000775	nbis-mrna-21881, nbis-mrna-2518
+OG0000776	nbis-mrna-13222, nbis-mrna-13482, nbis-mrna-14561, nbis-mrna-16485, nbis-mrna-16489, nbis-mrna-20674, nbis-mrna-9452, nbis-mrna-9455, nbis-mrna-9458
+OG0000777	nbis-mrna-17337, nbis-mrna-5976
+OG0000787	
+OG0000792	nbis-mrna-20373
+OG0000799	nbis-mrna-5534
+OG0000801	
+OG0000808	nbis-mrna-12921, nbis-mrna-13181, nbis-mrna-13372, nbis-mrna-13373, nbis-mrna-13382, nbis-mrna-13383, nbis-mrna-13387, nbis-mrna-13389, nbis-mrna-13390, nbis-mrna-15328, nbis-mrna-18535, nbis-mrna-19749, nbis-mrna-20121, nbis-mrna-2062, nbis-mrna-20794, nbis-mrna-20795, nbis-mrna-21094, nbis-mrna-21246, nbis-mrna-21248, nbis-mrna-21252, nbis-mrna-21259, nbis-mrna-21261, nbis-mrna-21650, nbis-mrna-21656, nbis-mrna-21661, nbis-mrna-21662, nbis-mrna-2598, nbis-mrna-2600, nbis-mrna-3170, nbis-mrna-3729, nbis-mrna-4636, nbis-mrna-4752, nbis-mrna-4844, nbis-mrna-902
+OG0000811	nbis-mrna-13088, nbis-mrna-13089, nbis-mrna-13091, nbis-mrna-16699
+OG0000822	nbis-mrna-11412, nbis-mrna-11415, nbis-mrna-11416, nbis-mrna-11417, nbis-mrna-11418, nbis-mrna-11419, nbis-mrna-12795, nbis-mrna-1498, nbis-mrna-1499, nbis-mrna-1500, nbis-mrna-19618, nbis-mrna-4995, nbis-mrna-5093, nbis-mrna-5094, nbis-mrna-5388, nbis-mrna-7584, nbis-mrna-7586, nbis-mrna-7587, nbis-mrna-7591
+OG0000823	nbis-mrna-11364, nbis-mrna-11368
+OG0000824	nbis-mrna-20077, nbis-mrna-21072, nbis-mrna-21074, nbis-mrna-21075, nbis-mrna-21076, nbis-mrna-21077
+OG0000830	
+OG0000845	nbis-mrna-11873, nbis-mrna-15501, nbis-mrna-15502
+OG0000846	nbis-mrna-1066, nbis-mrna-4536, nbis-mrna-4537, nbis-mrna-9012, nbis-mrna-9013
+OG0000850	nbis-mrna-11480, nbis-mrna-14542, nbis-mrna-7595
+OG0000853	
+OG0000876	nbis-mrna-22461
+OG0000882	nbis-mrna-22565, nbis-mrna-4209
+OG0000883	
+OG0000890	nbis-mrna-10540, nbis-mrna-1949, nbis-mrna-1951, nbis-mrna-9780, nbis-mrna-9781
+OG0000908	nbis-mrna-2185, nbis-mrna-7366
+OG0000909	
+OG0000910	nbis-mrna-5967
+OG0000917	
+OG0000928	
+OG0000930	nbis-mrna-20592, nbis-mrna-22229
+OG0000937	nbis-mrna-10385, nbis-mrna-11279, nbis-mrna-12681, nbis-mrna-18638, nbis-mrna-19897, nbis-mrna-20416, nbis-mrna-2229, nbis-mrna-2292, nbis-mrna-2606, nbis-mrna-4023, nbis-mrna-6477, nbis-mrna-7333, nbis-mrna-82
+OG0000943	nbis-mrna-326, nbis-mrna-3407, nbis-mrna-7288, nbis-mrna-7305
+OG0000947	nbis-mrna-1710, nbis-mrna-2995, nbis-mrna-8556
+OG0000948	nbis-mrna-363
+OG0000951	nbis-mrna-10846, nbis-mrna-152, nbis-mrna-22006, nbis-mrna-22098, nbis-mrna-22252, nbis-mrna-22471, nbis-mrna-6599, nbis-mrna-9293
+OG0000954	
+OG0000958	nbis-mrna-13400, nbis-mrna-4233, nbis-mrna-4235, nbis-mrna-4236, nbis-mrna-4237, nbis-mrna-4238
+OG0000967	nbis-mrna-12949
+OG0000971	nbis-mrna-5589
+OG0000974	nbis-mrna-15873, nbis-mrna-1752, nbis-mrna-1847, nbis-mrna-19456, nbis-mrna-19640, nbis-mrna-20010, nbis-mrna-8893
+OG0000975	nbis-mrna-11210, nbis-mrna-11690, nbis-mrna-19296, nbis-mrna-21309, nbis-mrna-583
+OG0000988	nbis-mrna-10309, nbis-mrna-15746, nbis-mrna-18301, nbis-mrna-18453, nbis-mrna-19469, nbis-mrna-22392, nbis-mrna-22393, nbis-mrna-22395
+OG0000989	nbis-mrna-15209, nbis-mrna-7500
+OG0001003	
+OG0001008	
+OG0001010	
+OG0001011	nbis-mrna-11458, nbis-mrna-19538
+OG0001026	nbis-mrna-14463
+OG0001033	
+OG0001041	
+OG0001050	nbis-mrna-19075
+OG0001065	nbis-mrna-2541, nbis-mrna-2831
+OG0001067	nbis-mrna-10905, nbis-mrna-12154, nbis-mrna-15405, nbis-mrna-4878, nbis-mrna-68
+OG0001073	nbis-mrna-15277, nbis-mrna-8702
+OG0001078	
+OG0001080	nbis-mrna-10126, nbis-mrna-13576, nbis-mrna-19129, nbis-mrna-20792, nbis-mrna-257, nbis-mrna-7202, nbis-mrna-7346
+OG0001091	nbis-mrna-14975
+OG0001101	nbis-mrna-14893, nbis-mrna-14896
+OG0001105	nbis-mrna-1702, nbis-mrna-21366, nbis-mrna-22420, nbis-mrna-3039
+OG0001107	nbis-mrna-1217
+OG0001156	
+OG0001158	nbis-mrna-8353
+OG0001181	
+OG0001185	nbis-mrna-2884, nbis-mrna-5696, nbis-mrna-6064
+OG0001189	
+OG0001193	
+OG0001195	nbis-mrna-1353, nbis-mrna-887
+OG0001207	nbis-mrna-10741
+OG0001212	nbis-mrna-5681
+OG0001213	nbis-mrna-11692, nbis-mrna-14200, nbis-mrna-19359, nbis-mrna-20649, nbis-mrna-4225
+OG0001224	
+OG0001228	nbis-mrna-13458, nbis-mrna-1354, nbis-mrna-6887, nbis-mrna-6889
+OG0001235	nbis-mrna-12588, nbis-mrna-21504
+OG0001261	nbis-mrna-11270, nbis-mrna-11272, nbis-mrna-5119
+OG0001269	nbis-mrna-2956, nbis-mrna-3940
+OG0001277	nbis-mrna-20772
+OG0001278	nbis-mrna-7554
+OG0001311	nbis-mrna-20782
+OG0001312	nbis-mrna-7241
+OG0001324	nbis-mrna-1380, nbis-mrna-1381, nbis-mrna-13854, nbis-mrna-20892, nbis-mrna-20893
+OG0001329	
+OG0001336	nbis-mrna-13723, nbis-mrna-5213
+OG0001338	nbis-mrna-18855, nbis-mrna-7431
+OG0001362	
+OG0001373	nbis-mrna-15479, nbis-mrna-15715, nbis-mrna-3784, nbis-mrna-3785
+OG0001375	nbis-mrna-14599, nbis-mrna-5034, nbis-mrna-5585
+OG0001376	nbis-mrna-15616
+OG0001379	nbis-mrna-1518
+OG0001416	
+OG0001421	
+OG0001426	nbis-mrna-7743
+OG0001427	nbis-mrna-15943, nbis-mrna-15944
+OG0001438	nbis-mrna-15444, nbis-mrna-16148
+OG0001441	nbis-mrna-20750
+OG0001446	nbis-mrna-10847, nbis-mrna-10848, nbis-mrna-10849, nbis-mrna-14779, nbis-mrna-7251
+OG0001456	nbis-mrna-662, nbis-mrna-7482
+OG0001459	nbis-mrna-15160
+OG0001461	nbis-mrna-11599, nbis-mrna-1273, nbis-mrna-17119, nbis-mrna-18263, nbis-mrna-4459, nbis-mrna-478, nbis-mrna-5464, nbis-mrna-6553, nbis-mrna-7099, nbis-mrna-8122, nbis-mrna-8436, nbis-mrna-9131
+OG0001468	nbis-mrna-13284
+OG0001475	nbis-mrna-19174
+OG0001479	nbis-mrna-10684
+OG0001496	
+OG0001517	nbis-mrna-15456
+OG0001528	nbis-mrna-10925
+OG0001533	nbis-mrna-11669, nbis-mrna-15180, nbis-mrna-19275, nbis-mrna-19276, nbis-mrna-20913, nbis-mrna-6410
+OG0001541	
+OG0001546	nbis-mrna-17403, nbis-mrna-19154, nbis-mrna-4335, nbis-mrna-4574, nbis-mrna-4740, nbis-mrna-4742, nbis-mrna-4743
+OG0001560	nbis-mrna-1378, nbis-mrna-17386, nbis-mrna-19212
+OG0001563	nbis-mrna-9405
+OG0001571	
+OG0001574	
+OG0001580	
+OG0001584	nbis-mrna-1670, nbis-mrna-16906, nbis-mrna-21755
+OG0001588	nbis-mrna-17326, nbis-mrna-7420
+OG0001593	nbis-mrna-20806
+OG0001599	nbis-mrna-18663
+OG0001603	nbis-mrna-18280
+OG0001606	nbis-mrna-21327
+OG0001608	
+OG0001609	nbis-mrna-15598, nbis-mrna-4090, nbis-mrna-8420
+OG0001621	nbis-mrna-10092, nbis-mrna-10096
+OG0001635	
+OG0001640	
+OG0001650	nbis-mrna-22022
+OG0001652	nbis-mrna-3683
+OG0001658	nbis-mrna-12302, nbis-mrna-20452, nbis-mrna-21324, nbis-mrna-4040, nbis-mrna-6178, nbis-mrna-6179, nbis-mrna-65, nbis-mrna-8374, nbis-mrna-8375, nbis-mrna-8379
+OG0001662	
+OG0001682	nbis-mrna-4998
+OG0001687	nbis-mrna-2257, nbis-mrna-2593, nbis-mrna-563
+OG0001699	nbis-mrna-19957
+OG0001705	nbis-mrna-13521, nbis-mrna-16987, nbis-mrna-16988, nbis-mrna-18019, nbis-mrna-9196
+OG0001708	nbis-mrna-12306, nbis-mrna-12307, nbis-mrna-12309, nbis-mrna-16993
+OG0001727	nbis-mrna-18430
+OG0001740	nbis-mrna-639
+OG0001744	
+OG0001748	
+OG0001751	nbis-mrna-13033
+OG0001755	nbis-mrna-11534, nbis-mrna-12262, nbis-mrna-2770, nbis-mrna-8150
+OG0001764	nbis-mrna-20637, nbis-mrna-620
+OG0001770	nbis-mrna-1328, nbis-mrna-19909
+OG0001772	nbis-mrna-11151
+OG0001779	nbis-mrna-5677
+OG0001782	nbis-mrna-2117
+OG0001795	nbis-mrna-11136
+OG0001818	
+OG0001820	nbis-mrna-17593, nbis-mrna-20459, nbis-mrna-20460
+OG0001822	nbis-mrna-22386, nbis-mrna-22387, nbis-mrna-8082, nbis-mrna-8083
+OG0001823	
+OG0001839	
+OG0001841	nbis-mrna-18607
+OG0001855	nbis-mrna-11541, nbis-mrna-13492, nbis-mrna-8610, nbis-mrna-9277, nbis-mrna-9278, nbis-mrna-9279
+OG0001864	nbis-mrna-11560, nbis-mrna-9125, nbis-mrna-9975
+OG0001867	
+OG0001886	nbis-mrna-5067
+OG0001887	nbis-mrna-1592, nbis-mrna-5679
+OG0001890	nbis-mrna-14562, nbis-mrna-16129, nbis-mrna-16130, nbis-mrna-16132, nbis-mrna-325, nbis-mrna-8882
+OG0001893	
+OG0001900	nbis-mrna-10196, nbis-mrna-11757
+OG0001907	
+OG0001910	nbis-mrna-5649, nbis-mrna-5650, nbis-mrna-70, nbis-mrna-890
+OG0001919	nbis-mrna-1577
+OG0001920	nbis-mrna-11314
+OG0001925	nbis-mrna-17722
+OG0001930	nbis-mrna-1396
+OG0001947	nbis-mrna-8241, nbis-mrna-8242
+OG0001950	nbis-mrna-207, nbis-mrna-21103
+OG0001956	nbis-mrna-2280
+OG0001960	nbis-mrna-522
+OG0001966	nbis-mrna-11362
+OG0001971	nbis-mrna-21770
+OG0001986	
+OG0001988	nbis-mrna-13638, nbis-mrna-13645, nbis-mrna-13646, nbis-mrna-1801, nbis-mrna-2208, nbis-mrna-8611
+OG0001989	nbis-mrna-10811, nbis-mrna-10812, nbis-mrna-10813, nbis-mrna-11642, nbis-mrna-11643, nbis-mrna-11644, nbis-mrna-11645, nbis-mrna-11646, nbis-mrna-7671, nbis-mrna-7672, nbis-mrna-866
+OG0002000	nbis-mrna-22317
+OG0002005	nbis-mrna-11612
+OG0002016	nbis-mrna-18952
+OG0002033	nbis-mrna-13420, nbis-mrna-20654
+OG0002038	nbis-mrna-7430
+OG0002039	nbis-mrna-5506
+OG0002074	nbis-mrna-11809, nbis-mrna-11810, nbis-mrna-14547, nbis-mrna-2337, nbis-mrna-2483
+OG0002077	nbis-mrna-13980, nbis-mrna-21294
+OG0002083	
+OG0002090	
+OG0002092	nbis-mrna-14237, nbis-mrna-19588, nbis-mrna-20494, nbis-mrna-21107, nbis-mrna-21919, nbis-mrna-21921, nbis-mrna-22600, nbis-mrna-22601, nbis-mrna-5399, nbis-mrna-7109, nbis-mrna-9010, nbis-mrna-9128, nbis-mrna-9246
+OG0002128	nbis-mrna-16483
+OG0002138	
+OG0002164	
+OG0002171	nbis-mrna-9051
+OG0002181	nbis-mrna-4741
+OG0002193	nbis-mrna-8151
+OG0002194	
+OG0002196	nbis-mrna-22640, nbis-mrna-4395
+OG0002200	nbis-mrna-11273
+OG0002206	
+OG0002211	nbis-mrna-1018, nbis-mrna-10239, nbis-mrna-11158, nbis-mrna-11184, nbis-mrna-11679, nbis-mrna-12432, nbis-mrna-13431, nbis-mrna-13503, nbis-mrna-14760, nbis-mrna-14841, nbis-mrna-15165, nbis-mrna-15385, nbis-mrna-15470, nbis-mrna-16131, nbis-mrna-16354, nbis-mrna-16563, nbis-mrna-16627, nbis-mrna-16964, nbis-mrna-17313, nbis-mrna-17491, nbis-mrna-18294, nbis-mrna-18300, nbis-mrna-18469, nbis-mrna-19852, nbis-mrna-20086, nbis-mrna-202, nbis-mrna-20465, nbis-mrna-20817, nbis-mrna-21985, nbis-mrna-22076, nbis-mrna-2213, nbis-mrna-2472, nbis-mrna-2591, nbis-mrna-3592, nbis-mrna-6011, nbis-mrna-6798, nbis-mrna-709, nbis-mrna-9155, nbis-mrna-9305, nbis-mrna-9393, nbis-mrna-942, nbis-mrna-9760, nbis-mrna-9978
+OG0002217	nbis-mrna-21966
+OG0002230	
+OG0002236	nbis-mrna-2974
+OG0002237	nbis-mrna-21722, nbis-mrna-3343
+OG0002242	nbis-mrna-6328, nbis-mrna-6670, nbis-mrna-6672, nbis-mrna-6674
+OG0002250	
+OG0002251	nbis-mrna-21571
+OG0002257	nbis-mrna-14395
+OG0002276	
+OG0002286	nbis-mrna-9704
+OG0002291	nbis-mrna-20097
+OG0002293	
+OG0002301	nbis-mrna-6559
+OG0002306	nbis-mrna-15519, nbis-mrna-3453
+OG0002307	nbis-mrna-17607
+OG0002308	
+OG0002324	
+OG0002327	nbis-mrna-13974
+OG0002331	nbis-mrna-5038
+OG0002335	
+OG0002339	nbis-mrna-8337, nbis-mrna-934, nbis-mrna-935, nbis-mrna-937, nbis-mrna-938, nbis-mrna-939
+OG0002340	nbis-mrna-14066, nbis-mrna-14070, nbis-mrna-14071, nbis-mrna-14765, nbis-mrna-18835, nbis-mrna-20860, nbis-mrna-20861, nbis-mrna-4463
+OG0002346	
+OG0002351	nbis-mrna-16376, nbis-mrna-18340
+OG0002365	nbis-mrna-3069
+OG0002369	nbis-mrna-17031, nbis-mrna-6536, nbis-mrna-9783
+OG0002373	nbis-mrna-14451, nbis-mrna-1757, nbis-mrna-1758, nbis-mrna-20744, nbis-mrna-6360, nbis-mrna-6361
+OG0002376	nbis-mrna-18001
+OG0002378	nbis-mrna-18068
+OG0002390	nbis-mrna-1899, nbis-mrna-9853
+OG0002391	nbis-mrna-9655
+OG0002397	
+OG0002411	nbis-mrna-12050
+OG0002418	
+OG0002427	nbis-mrna-20986
+OG0002440	nbis-mrna-10599, nbis-mrna-10600, nbis-mrna-10601
+OG0002448	
+OG0002452	
+OG0002455	nbis-mrna-11219, nbis-mrna-11790, nbis-mrna-12086, nbis-mrna-13277, nbis-mrna-15060, nbis-mrna-15176, nbis-mrna-16841, nbis-mrna-16842, nbis-mrna-16845, nbis-mrna-16846, nbis-mrna-16849, nbis-mrna-16850, nbis-mrna-16851, nbis-mrna-20665, nbis-mrna-2072, nbis-mrna-22129, nbis-mrna-22161, nbis-mrna-3133, nbis-mrna-3135, nbis-mrna-3137, nbis-mrna-4506, nbis-mrna-6796, nbis-mrna-6801, nbis-mrna-7275, nbis-mrna-7808, nbis-mrna-8485, nbis-mrna-8488, nbis-mrna-8489, nbis-mrna-8490
+OG0002469	nbis-mrna-21546
+OG0002476	nbis-mrna-11714
+OG0002485	nbis-mrna-7953
+OG0002491	
+OG0002499	nbis-mrna-841, nbis-mrna-842
+OG0002501	nbis-mrna-18601, nbis-mrna-21868
+OG0002510	nbis-mrna-21411
+OG0002522	nbis-mrna-5499
+OG0002535	nbis-mrna-8936
+OG0002539	nbis-mrna-5642
+OG0002548	nbis-mrna-18953, nbis-mrna-18955
+OG0002553	nbis-mrna-7803
+OG0002566	nbis-mrna-186
+OG0002570	nbis-mrna-654
+OG0002574	nbis-mrna-13086
+OG0002575	nbis-mrna-15210, nbis-mrna-3593, nbis-mrna-3594, nbis-mrna-5623
+OG0002584	nbis-mrna-13583, nbis-mrna-20717, nbis-mrna-22134
+OG0002586	
+OG0002589	nbis-mrna-20753
+OG0002614	nbis-mrna-10578, nbis-mrna-19913, nbis-mrna-644
+OG0002622	nbis-mrna-14738, nbis-mrna-14739
+OG0002642	nbis-mrna-19641
+OG0002643	
+OG0002664	nbis-mrna-3337
+OG0002676	nbis-mrna-1681
+OG0002680	nbis-mrna-14568, nbis-mrna-3500, nbis-mrna-6344
+OG0002690	nbis-mrna-7723
+OG0002693	nbis-mrna-11502
+OG0002695	nbis-mrna-15285
+OG0002698	nbis-mrna-11095, nbis-mrna-19135, nbis-mrna-19137
+OG0002705	nbis-mrna-20761
+OG0002708	nbis-mrna-5794
+OG0002710	
+OG0002715	nbis-mrna-3990
+OG0002724	nbis-mrna-17867, nbis-mrna-19730
+OG0002730	nbis-mrna-4794
+OG0002735	
+OG0002745	nbis-mrna-1485
+OG0002749	nbis-mrna-5548
+OG0002752	nbis-mrna-9834
+OG0002758	nbis-mrna-10299, nbis-mrna-12022, nbis-mrna-12032, nbis-mrna-1386, nbis-mrna-14523, nbis-mrna-15809, nbis-mrna-16539, nbis-mrna-19240, nbis-mrna-1933, nbis-mrna-20034, nbis-mrna-20811, nbis-mrna-5095
+OG0002763	nbis-mrna-19474
+OG0002771	nbis-mrna-11908, nbis-mrna-11909, nbis-mrna-12602, nbis-mrna-13909, nbis-mrna-5024, nbis-mrna-5609, nbis-mrna-5610, nbis-mrna-9037
+OG0002790	nbis-mrna-16099
+OG0002805	nbis-mrna-10714, nbis-mrna-10715
+OG0002815	
+OG0002819	nbis-mrna-10612
+OG0002823	nbis-mrna-3235
+OG0002824	nbis-mrna-11503
+OG0002830	nbis-mrna-10256, nbis-mrna-10257, nbis-mrna-10258
+OG0002839	nbis-mrna-4678
+OG0002848	
+OG0002869	nbis-mrna-14780
+OG0002896	nbis-mrna-19102, nbis-mrna-20278, nbis-mrna-2100
+OG0002912	nbis-mrna-1392
+OG0002927	nbis-mrna-21391
+OG0002941	nbis-mrna-10059, nbis-mrna-10227, nbis-mrna-10320, nbis-mrna-10608, nbis-mrna-10814, nbis-mrna-11540, nbis-mrna-12844, nbis-mrna-13216, nbis-mrna-13849, nbis-mrna-14236, nbis-mrna-17416, nbis-mrna-17609, nbis-mrna-19443, nbis-mrna-19768, nbis-mrna-19971, nbis-mrna-20583, nbis-mrna-2074, nbis-mrna-21749, nbis-mrna-2452, nbis-mrna-3718, nbis-mrna-3924, nbis-mrna-4234, nbis-mrna-6307, nbis-mrna-7364, nbis-mrna-7609, nbis-mrna-8205, nbis-mrna-8964
+OG0002946	nbis-mrna-1819, nbis-mrna-20474, nbis-mrna-20476, nbis-mrna-2088
+OG0002952	nbis-mrna-10072, nbis-mrna-11769, nbis-mrna-13756, nbis-mrna-13757, nbis-mrna-17517, nbis-mrna-17520, nbis-mrna-17521, nbis-mrna-19825, nbis-mrna-5312, nbis-mrna-9808, nbis-mrna-9809, nbis-mrna-9810
+OG0002967	nbis-mrna-21201
+OG0002975	nbis-mrna-10698, nbis-mrna-7075
+OG0002977	
+OG0002987	nbis-mrna-12454
+OG0002995	nbis-mrna-6807
+OG0002998	nbis-mrna-19996, nbis-mrna-8169
+OG0003006	
+OG0003014	
+OG0003026	nbis-mrna-21378
+OG0003035	nbis-mrna-21089
+OG0003052	nbis-mrna-13871, nbis-mrna-5737
+OG0003092	nbis-mrna-20964, nbis-mrna-20965
+OG0003099	nbis-mrna-7415
+OG0003103	nbis-mrna-873
+OG0003110	
+OG0003112	nbis-mrna-6603
+OG0003133	nbis-mrna-5691
+OG0003135	nbis-mrna-1276, nbis-mrna-1277, nbis-mrna-15963, nbis-mrna-15964
+OG0003140	nbis-mrna-21055
+OG0003142	nbis-mrna-3242
+OG0003179	
+OG0003183	nbis-mrna-13124, nbis-mrna-18809, nbis-mrna-18810
+OG0003185	nbis-mrna-21370, nbis-mrna-5553
+OG0003203	nbis-mrna-425, nbis-mrna-426
+OG0003205	nbis-mrna-7267
+OG0003209	nbis-mrna-7472
+OG0003245	nbis-mrna-6397
+OG0003257	nbis-mrna-22300
+OG0003279	nbis-mrna-21744
+OG0003283	nbis-mrna-9138, nbis-mrna-9139
+OG0003299	nbis-mrna-20217
+OG0003301	nbis-mrna-10324, nbis-mrna-380, nbis-mrna-5009
+OG0003313	nbis-mrna-7549
+OG0003316	nbis-mrna-2109, nbis-mrna-21912
+OG0003319	nbis-mrna-14734
+OG0003325	nbis-mrna-661
+OG0003335	nbis-mrna-18387, nbis-mrna-8203
+OG0003336	nbis-mrna-10240, nbis-mrna-11914, nbis-mrna-11918
+OG0003337	nbis-mrna-14736
+OG0003396	nbis-mrna-15152
+OG0003400	
+OG0003405	nbis-mrna-10246, nbis-mrna-11880
+OG0003411	nbis-mrna-8948
+OG0003427	nbis-mrna-13639, nbis-mrna-1800
+OG0003440	nbis-mrna-19800
+OG0003460	
+OG0003466	nbis-mrna-10171, nbis-mrna-12223, nbis-mrna-1254, nbis-mrna-12826, nbis-mrna-16388, nbis-mrna-9019, nbis-mrna-903, nbis-mrna-904
+OG0003479	
+OG0003481	nbis-mrna-17255
+OG0003512	nbis-mrna-9364
+OG0003517	nbis-mrna-21325
+OG0003518	nbis-mrna-8794
+OG0003524	
+OG0003525	nbis-mrna-9179
+OG0003526	
+OG0003538	nbis-mrna-15126
+OG0003540	nbis-mrna-16373
+OG0003548	nbis-mrna-12851, nbis-mrna-12853
+OG0003560	
+OG0003565	
+OG0003570	
+OG0003572	nbis-mrna-12497, nbis-mrna-20929
+OG0003583	nbis-mrna-11034, nbis-mrna-17564, nbis-mrna-5307
+OG0003601	nbis-mrna-9159
+OG0003620	nbis-mrna-13296
+OG0003623	
+OG0003634	nbis-mrna-3857
+OG0003674	
+OG0003677	nbis-mrna-17557
+OG0003689	nbis-mrna-1049
+OG0003696	
+OG0003702	nbis-mrna-21502
+OG0003705	nbis-mrna-13441, nbis-mrna-13455, nbis-mrna-14985, nbis-mrna-19929, nbis-mrna-3253, nbis-mrna-3329, nbis-mrna-3833, nbis-mrna-4890, nbis-mrna-8061
+OG0003706	nbis-mrna-12049, nbis-mrna-1809, nbis-mrna-18805, nbis-mrna-22181, nbis-mrna-3642, nbis-mrna-412, nbis-mrna-413, nbis-mrna-6869
+OG0003709	nbis-mrna-10960, nbis-mrna-10962, nbis-mrna-14603, nbis-mrna-16170, nbis-mrna-22359, nbis-mrna-22360, nbis-mrna-4859, nbis-mrna-5264, nbis-mrna-5754, nbis-mrna-5755, nbis-mrna-5756
+OG0003721	nbis-mrna-8555
+OG0003724	nbis-mrna-1126, nbis-mrna-1127, nbis-mrna-19511, nbis-mrna-19512, nbis-mrna-19513, nbis-mrna-19514
+OG0003735	
+OG0003740	nbis-mrna-16700, nbis-mrna-19344
+OG0003751	nbis-mrna-8749
+OG0003766	
+OG0003774	
+OG0003787	nbis-mrna-19331, nbis-mrna-19332
+OG0003820	nbis-mrna-4767
+OG0003824	nbis-mrna-19186
+OG0003826	
+OG0003832	nbis-mrna-3652
+OG0003838	nbis-mrna-19379
+OG0003840	nbis-mrna-15533, nbis-mrna-15980
+OG0003854	nbis-mrna-19998
+OG0003857	nbis-mrna-10889, nbis-mrna-14375, nbis-mrna-8269
+OG0003865	nbis-mrna-17861
+OG0003867	nbis-mrna-4216
+OG0003883	nbis-mrna-3586
+OG0003915	nbis-mrna-16579
+OG0003925	nbis-mrna-16093
+OG0003926	nbis-mrna-1940
+OG0003939	nbis-mrna-21343
+OG0003953	
+OG0003964	nbis-mrna-18448
+OG0003968	nbis-mrna-15342
+OG0003975	nbis-mrna-21304
+OG0003978	nbis-mrna-21874
+OG0003984	nbis-mrna-14094
+OG0004009	nbis-mrna-13747
+OG0004013	nbis-mrna-13515, nbis-mrna-7583
+OG0004014	nbis-mrna-17159
+OG0004030	nbis-mrna-2583
+OG0004041	nbis-mrna-15506
+OG0004045	nbis-mrna-18183, nbis-mrna-19353, nbis-mrna-21813, nbis-mrna-21814, nbis-mrna-21815, nbis-mrna-9117
+OG0004054	nbis-mrna-17107, nbis-mrna-20072
+OG0004063	nbis-mrna-10993
+OG0004071	nbis-mrna-9372
+OG0004074	nbis-mrna-5280, nbis-mrna-5715, nbis-mrna-8470
+OG0004078	nbis-mrna-10528, nbis-mrna-241, nbis-mrna-5890
+OG0004081	
+OG0004083	nbis-mrna-12423, nbis-mrna-12651, nbis-mrna-16023, nbis-mrna-16895, nbis-mrna-18134, nbis-mrna-2809, nbis-mrna-5445, nbis-mrna-647, nbis-mrna-857, nbis-mrna-8776
+OG0004085	nbis-mrna-13071, nbis-mrna-13398, nbis-mrna-13522, nbis-mrna-14834, nbis-mrna-14835, nbis-mrna-18968, nbis-mrna-20379, nbis-mrna-20380, nbis-mrna-20381, nbis-mrna-20855, nbis-mrna-5738, nbis-mrna-6487, nbis-mrna-9476
+OG0004086	nbis-mrna-1641
+OG0004102	
+OG0004116	nbis-mrna-14660
+OG0004124	nbis-mrna-9466, nbis-mrna-9468, nbis-mrna-9469
+OG0004125	
+OG0004139	nbis-mrna-21034
+OG0004153	nbis-mrna-1270
+OG0004160	nbis-mrna-11351, nbis-mrna-11353
+OG0004169	nbis-mrna-11930, nbis-mrna-4215
+OG0004204	nbis-mrna-22455
+OG0004210	nbis-mrna-17527
+OG0004212	nbis-mrna-18342
+OG0004213	nbis-mrna-14998, nbis-mrna-15000
+OG0004226	nbis-mrna-10329
+OG0004237	nbis-mrna-3024
+OG0004243	nbis-mrna-19170
+OG0004246	nbis-mrna-10260, nbis-mrna-12812, nbis-mrna-13380, nbis-mrna-13700, nbis-mrna-14532, nbis-mrna-14768, nbis-mrna-15595, nbis-mrna-17105, nbis-mrna-18220, nbis-mrna-18372, nbis-mrna-20396, nbis-mrna-20397, nbis-mrna-21129, nbis-mrna-21521, nbis-mrna-22106, nbis-mrna-4086, nbis-mrna-4528, nbis-mrna-4653, nbis-mrna-5475, nbis-mrna-5647, nbis-mrna-5819, nbis-mrna-6534, nbis-mrna-6632, nbis-mrna-9322
+OG0004252	nbis-mrna-19132, nbis-mrna-22155
+OG0004255	nbis-mrna-18039
+OG0004265	nbis-mrna-8237
+OG0004266	nbis-mrna-140, nbis-mrna-15472
+OG0004270	nbis-mrna-3333
+OG0004279	nbis-mrna-16792
+OG0004286	nbis-mrna-5079
+OG0004294	nbis-mrna-8043
+OG0004326	nbis-mrna-162
+OG0004328	
+OG0004331	nbis-mrna-21875
+OG0004336	nbis-mrna-10451
+OG0004342	nbis-mrna-18790
+OG0004360	nbis-mrna-13004
+OG0004362	nbis-mrna-21317
+OG0004363	nbis-mrna-14093
+OG0004368	nbis-mrna-4136
+OG0004371	nbis-mrna-4508
+OG0004384	nbis-mrna-7043
+OG0004393	nbis-mrna-1393
+OG0004400	nbis-mrna-8048
+OG0004403	nbis-mrna-11301, nbis-mrna-12961
+OG0004427	nbis-mrna-11991
+OG0004446	nbis-mrna-1869
+OG0004452	
+OG0004454	
+OG0004463	nbis-mrna-20215, nbis-mrna-22059
+OG0004472	nbis-mrna-13166
+OG0004476	nbis-mrna-5501
+OG0004493	nbis-mrna-5325, nbis-mrna-7607
+OG0004499	nbis-mrna-18764, nbis-mrna-19982, nbis-mrna-6065, nbis-mrna-8634
+OG0004504	nbis-mrna-6453
+OG0004507	nbis-mrna-3864
+OG0004509	nbis-mrna-18123
+OG0004512	
+OG0004515	nbis-mrna-14220
+OG0004531	nbis-mrna-706
+OG0004533	nbis-mrna-14686
+OG0004544	
+OG0004577	nbis-mrna-20619, nbis-mrna-9560
+OG0004617	
+OG0004644	nbis-mrna-3488
+OG0004649	nbis-mrna-12352, nbis-mrna-17413
+OG0004717	
+OG0004719	nbis-mrna-1247
+OG0004722	nbis-mrna-21040
+OG0004743	nbis-mrna-17889
+OG0004744	
+OG0004752	nbis-mrna-13594, nbis-mrna-7352
+OG0004770	nbis-mrna-12156
+OG0004774	nbis-mrna-16681, nbis-mrna-2819
+OG0004786	nbis-mrna-21480
+OG0004791	nbis-mrna-12916
+OG0004812	nbis-mrna-11566
+OG0004828	nbis-mrna-17776
+OG0004892	nbis-mrna-21044, nbis-mrna-5108
+OG0004901	
+OG0004919	nbis-mrna-1266
+OG0004922	nbis-mrna-9868
+OG0004931	nbis-mrna-18307
+OG0004939	
+OG0004940	nbis-mrna-277
+OG0004950	
+OG0004952	nbis-mrna-18274, nbis-mrna-21578, nbis-mrna-5853, nbis-mrna-5970
+OG0004959	nbis-mrna-2184
+OG0004976	nbis-mrna-8121
+OG0004979	nbis-mrna-13313
+OG0004999	nbis-mrna-3723
+OG0005001	nbis-mrna-1403
+OG0005007	nbis-mrna-17306
+OG0005014	nbis-mrna-16445, nbis-mrna-231, nbis-mrna-5127
+OG0005016	nbis-mrna-14643
+OG0005017	nbis-mrna-21362, nbis-mrna-3630
+OG0005027	nbis-mrna-11761
+OG0005036	
+OG0005054	
+OG0005056	nbis-mrna-5991
+OG0005064	nbis-mrna-1119
+OG0005079	nbis-mrna-1102
+OG0005083	
+OG0005094	nbis-mrna-17729
+OG0005105	nbis-mrna-4829
+OG0005106	
+OG0005112	nbis-mrna-13889
+OG0005122	nbis-mrna-11245
+OG0005123	nbis-mrna-2572, nbis-mrna-2573
+OG0005125	nbis-mrna-22510
+OG0005130	nbis-mrna-8409
+OG0005135	
+OG0005142	nbis-mrna-3516
+OG0005145	nbis-mrna-17635
+OG0005158	nbis-mrna-21613
+OG0005163	nbis-mrna-13648, nbis-mrna-18093, nbis-mrna-2205, nbis-mrna-2206
+OG0005167	nbis-mrna-21206, nbis-mrna-5640
+OG0005172	nbis-mrna-529
+OG0005184	nbis-mrna-6425
+OG0005195	nbis-mrna-8886
+OG0005201	nbis-mrna-10175
+OG0005233	nbis-mrna-15817
+OG0005239	nbis-mrna-4346
+OG0005258	nbis-mrna-1707, nbis-mrna-18457
+OG0005276	
+OG0005283	nbis-mrna-6939
+OG0005284	nbis-mrna-8951
+OG0005316	nbis-mrna-17239, nbis-mrna-17240
+OG0005321	nbis-mrna-20993
+OG0005326	nbis-mrna-16714
+OG0005343	nbis-mrna-11879
+OG0005348	nbis-mrna-14525
+OG0005354	nbis-mrna-1394
+OG0005359	nbis-mrna-19603, nbis-mrna-22220
+OG0005365	
+OG0005368	
+OG0005375	nbis-mrna-12368
+OG0005408	
+OG0005409	
+OG0005422	nbis-mrna-1845
+OG0005435	nbis-mrna-4839
+OG0005436	nbis-mrna-4045, nbis-mrna-4046
+OG0005439	nbis-mrna-16519
+OG0005449	nbis-mrna-656
+OG0005461	nbis-mrna-9222, nbis-mrna-9223
+OG0005466	
+OG0005467	nbis-mrna-13626
+OG0005470	nbis-mrna-1438
+OG0005477	
+OG0005484	
+OG0005487	
+OG0005489	nbis-mrna-10230, nbis-mrna-15061, nbis-mrna-17810, nbis-mrna-18807, nbis-mrna-19083, nbis-mrna-20689, nbis-mrna-22608, nbis-mrna-2437, nbis-mrna-3127, nbis-mrna-4181, nbis-mrna-4614, nbis-mrna-6512, nbis-mrna-7457
+OG0005518	nbis-mrna-9069
+OG0005519	nbis-mrna-16984
+OG0005527	
+OG0005542	nbis-mrna-9214
+OG0005546	nbis-mrna-15135
+OG0005552	nbis-mrna-10966
+OG0005561	nbis-mrna-20369
+OG0005566	
+OG0005592	nbis-mrna-15617
+OG0005596	
+OG0005612	nbis-mrna-11573
+OG0005616	nbis-mrna-20903, nbis-mrna-8683
+OG0005617	nbis-mrna-5538
+OG0005619	nbis-mrna-21543, nbis-mrna-21545, nbis-mrna-21547
+OG0005623	nbis-mrna-12490
+OG0005625	nbis-mrna-9656
+OG0005632	nbis-mrna-1690, nbis-mrna-1691
+OG0005633	nbis-mrna-11051
+OG0005635	nbis-mrna-16337
+OG0005641	nbis-mrna-21570
+OG0005644	nbis-mrna-18556
+OG0005661	nbis-mrna-12243, nbis-mrna-12244
+OG0005672	nbis-mrna-15783
+OG0005694	nbis-mrna-8322
+OG0005705	nbis-mrna-2721
+OG0005715	
+OG0005723	nbis-mrna-22464
+OG0005741	nbis-mrna-10197, nbis-mrna-10198, nbis-mrna-1185, nbis-mrna-13549
+OG0005747	
+OG0005748	nbis-mrna-12611
+OG0005750	nbis-mrna-18987
+OG0005751	
+OG0005753	nbis-mrna-1222
+OG0005773	nbis-mrna-15323
+OG0005786	nbis-mrna-13348
+OG0005793	nbis-mrna-10673
+OG0005801	nbis-mrna-11390
+OG0005802	nbis-mrna-17719
+OG0005809	nbis-mrna-21908
+OG0005812	nbis-mrna-6119
+OG0005813	nbis-mrna-6269
+OG0005825	nbis-mrna-17436
+OG0005835	nbis-mrna-18151
+OG0005840	nbis-mrna-1285, nbis-mrna-20733
+OG0005848	nbis-mrna-1028
+OG0005851	nbis-mrna-20912
+OG0005865	nbis-mrna-8898
+OG0005866	nbis-mrna-22225
+OG0005882	
+OG0005897	nbis-mrna-3276
+OG0005920	nbis-mrna-2803
+OG0005921	nbis-mrna-14582
+OG0005925	nbis-mrna-13922
+OG0005949	nbis-mrna-19824
+OG0005957	nbis-mrna-15553
+OG0005963	nbis-mrna-21706
+OG0005965	nbis-mrna-18225
+OG0005979	nbis-mrna-21978
+OG0005984	nbis-mrna-4423
+OG0005988	
+OG0005992	
+OG0005999	nbis-mrna-3066
+OG0006001	nbis-mrna-14075
+OG0006002	
+OG0006004	nbis-mrna-14034
+OG0006008	nbis-mrna-1021
+OG0006015	nbis-mrna-2429
+OG0006016	
+OG0006024	nbis-mrna-18417
+OG0006031	nbis-mrna-17102, nbis-mrna-17103, nbis-mrna-17104, nbis-mrna-18084, nbis-mrna-18085, nbis-mrna-7022
+OG0006055	nbis-mrna-2876
+OG0006060	nbis-mrna-2925, nbis-mrna-2926
+OG0006062	nbis-mrna-11649
+OG0006069	nbis-mrna-21350
+OG0006075	nbis-mrna-885
+OG0006081	nbis-mrna-16040
+OG0006084	
+OG0006100	nbis-mrna-2706
+OG0006103	nbis-mrna-15381
+OG0006107	nbis-mrna-18831
+OG0006112	nbis-mrna-10904, nbis-mrna-15786, nbis-mrna-22003, nbis-mrna-3961, nbis-mrna-67, nbis-mrna-9907
+OG0006115	nbis-mrna-14205, nbis-mrna-3214
+OG0006125	nbis-mrna-4143
+OG0006131	nbis-mrna-4144
+OG0006146	nbis-mrna-14790
+OG0006160	nbis-mrna-1331
+OG0006162	
+OG0006166	nbis-mrna-12729, nbis-mrna-6217
+OG0006174	nbis-mrna-15216, nbis-mrna-6288
+OG0006223	nbis-mrna-22151
+OG0006225	
+OG0006229	nbis-mrna-7360
+OG0006232	nbis-mrna-4496
+OG0006239	
+OG0006245	
+OG0006247	nbis-mrna-6824
+OG0006257	nbis-mrna-7798
+OG0006261	nbis-mrna-14669
+OG0006266	nbis-mrna-10893, nbis-mrna-14149
+OG0006268	nbis-mrna-11409
+OG0006269	nbis-mrna-12555
+OG0006275	
+OG0006289	nbis-mrna-5563
+OG0006291	
+OG0006292	nbis-mrna-8993
+OG0006308	nbis-mrna-7448
+OG0006311	nbis-mrna-19681, nbis-mrna-19683, nbis-mrna-19689, nbis-mrna-19692
+OG0006321	nbis-mrna-3265
+OG0006331	nbis-mrna-20472
+OG0006332	nbis-mrna-3921
+OG0006340	
+OG0006356	nbis-mrna-17410
+OG0006367	
+OG0006369	nbis-mrna-9981
+OG0006383	
+OG0006387	nbis-mrna-19540
+OG0006399	nbis-mrna-18908
+OG0006407	
+OG0006416	nbis-mrna-4361
+OG0006424	nbis-mrna-12187, nbis-mrna-17959, nbis-mrna-18866, nbis-mrna-18867, nbis-mrna-21945
+OG0006429	nbis-mrna-2231
+OG0006437	nbis-mrna-9344
+OG0006438	nbis-mrna-1616, nbis-mrna-5266
+OG0006446	
+OG0006449	nbis-mrna-18896
+OG0006469	nbis-mrna-19980
+OG0006475	
+OG0006476	nbis-mrna-11711
+OG0006481	
+OG0006489	nbis-mrna-9896
+OG0006507	nbis-mrna-2058
+OG0006515	nbis-mrna-7894
+OG0006521	nbis-mrna-10438
+OG0006534	nbis-mrna-7082
+OG0006541	
+OG0006548	nbis-mrna-8622
+OG0006554	
+OG0006557	nbis-mrna-3722
+OG0006559	nbis-mrna-5936
+OG0006574	nbis-mrna-4289
+OG0006576	nbis-mrna-22147
+OG0006586	nbis-mrna-22270, nbis-mrna-6660
+OG0006589	
+OG0006592	nbis-mrna-11466, nbis-mrna-11468, nbis-mrna-1150, nbis-mrna-1151, nbis-mrna-1152, nbis-mrna-1156
+OG0006593	
+OG0006595	
+OG0006598	
+OG0006622	nbis-mrna-21635
+OG0006624	nbis-mrna-15001
+OG0006632	
+OG0006638	
+OG0006643	nbis-mrna-16124
+OG0006649	nbis-mrna-13894
+OG0006651	nbis-mrna-20192
+OG0006652	
+OG0006654	nbis-mrna-11138
+OG0006657	nbis-mrna-5406
+OG0006660	nbis-mrna-6194
+OG0006665	nbis-mrna-13589
+OG0006670	nbis-mrna-12294
+OG0006676	nbis-mrna-2435
+OG0006680	nbis-mrna-17528
+OG0006681	nbis-mrna-10134
+OG0006712	nbis-mrna-1147, nbis-mrna-327
+OG0006715	nbis-mrna-17050
+OG0006717	nbis-mrna-3897
+OG0006718	nbis-mrna-17072
+OG0006722	nbis-mrna-10391
+OG0006734	nbis-mrna-1319
+OG0006737	nbis-mrna-12508, nbis-mrna-12509, nbis-mrna-2474, nbis-mrna-5084
+OG0006740	nbis-mrna-2611
+OG0006742	nbis-mrna-8192
+OG0006751	nbis-mrna-13995
+OG0006755	nbis-mrna-16934
+OG0006757	nbis-mrna-606
+OG0006759	nbis-mrna-8744
+OG0006765	nbis-mrna-8934
+OG0006774	nbis-mrna-14502
+OG0006779	nbis-mrna-3456
+OG0006782	nbis-mrna-16088, nbis-mrna-6212
+OG0006784	nbis-mrna-19571
+OG0006788	nbis-mrna-12985
+OG0006794	nbis-mrna-1523
+OG0006839	nbis-mrna-16284
+OG0006841	nbis-mrna-16436
+OG0006846	nbis-mrna-9162
+OG0006847	
+OG0006850	nbis-mrna-2031
+OG0006856	nbis-mrna-5940
+OG0006857	nbis-mrna-20579, nbis-mrna-3110
+OG0006863	nbis-mrna-9369
+OG0006866	
+OG0006894	
+OG0006909	nbis-mrna-5013
+OG0006915	nbis-mrna-4657
+OG0006926	nbis-mrna-20897
+OG0006931	nbis-mrna-6799
+OG0006934	nbis-mrna-7146, nbis-mrna-8797
+OG0006943	nbis-mrna-19080, nbis-mrna-4354
+OG0006944	nbis-mrna-8680
+OG0006966	nbis-mrna-9778
+OG0006969	nbis-mrna-5257
+OG0006970	nbis-mrna-22381
+OG0006986	nbis-mrna-3254
+OG0007019	nbis-mrna-3876
+OG0007057	
+OG0007059	nbis-mrna-1445, nbis-mrna-17203
+OG0007064	nbis-mrna-5169
+OG0007067	nbis-mrna-22171
+OG0007069	nbis-mrna-11895
+OG0007075	nbis-mrna-16677
+OG0007086	nbis-mrna-1543, nbis-mrna-16292, nbis-mrna-17263, nbis-mrna-17360, nbis-mrna-22029, nbis-mrna-4453, nbis-mrna-6893
+OG0007090	nbis-mrna-7422
+OG0007091	nbis-mrna-3251
+OG0007095	nbis-mrna-12951, nbis-mrna-8202
+OG0007103	nbis-mrna-13704, nbis-mrna-18177
+OG0007116	nbis-mrna-10210, nbis-mrna-13984, nbis-mrna-17095, nbis-mrna-17881, nbis-mrna-22061, nbis-mrna-22561, nbis-mrna-7968
+OG0007117	nbis-mrna-13279, nbis-mrna-13280, nbis-mrna-13283, nbis-mrna-17423
+OG0007118	
+OG0007136	nbis-mrna-12299, nbis-mrna-18408, nbis-mrna-21986, nbis-mrna-4362, nbis-mrna-5278
+OG0007137	
+OG0007157	nbis-mrna-13916
+OG0007166	nbis-mrna-20245, nbis-mrna-3207
+OG0007167	nbis-mrna-7496
+OG0007181	nbis-mrna-16038
+OG0007184	nbis-mrna-4034, nbis-mrna-4036
+OG0007192	nbis-mrna-6191
+OG0007193	nbis-mrna-19628
+OG0007194	nbis-mrna-10511
+OG0007197	nbis-mrna-20483
+OG0007205	nbis-mrna-2433
+OG0007209	nbis-mrna-11384
+OG0007212	
+OG0007216	nbis-mrna-16084
+OG0007217	nbis-mrna-7625
+OG0007219	
+OG0007229	nbis-mrna-15637, nbis-mrna-20229
+OG0007232	nbis-mrna-14376
+OG0007233	
+OG0007240	nbis-mrna-10917
+OG0007245	nbis-mrna-6681
+OG0007251	nbis-mrna-2787
+OG0007252	nbis-mrna-14424, nbis-mrna-17465
+OG0007262	nbis-mrna-13214
+OG0007263	nbis-mrna-21185
+OG0007268	nbis-mrna-4911
+OG0007271	nbis-mrna-2309
+OG0007274	nbis-mrna-19649
+OG0007282	nbis-mrna-10666
+OG0007284	nbis-mrna-4288
+OG0007291	nbis-mrna-134
+OG0007310	nbis-mrna-12053
+OG0007316	nbis-mrna-14673
+OG0007319	
+OG0007326	nbis-mrna-8212
+OG0007339	nbis-mrna-20840
+OG0007341	
+OG0007356	nbis-mrna-7832
+OG0007364	nbis-mrna-20715
+OG0007370	nbis-mrna-12727
+OG0007373	nbis-mrna-4164
+OG0007376	nbis-mrna-7002
+OG0007384	nbis-mrna-10445
+OG0007386	nbis-mrna-19086
+OG0007389	nbis-mrna-7506
+OG0007416	nbis-mrna-10604
+OG0007425	nbis-mrna-22269
+OG0007435	nbis-mrna-4379
+OG0007441	nbis-mrna-8073
+OG0007447	nbis-mrna-6146
+OG0007465	nbis-mrna-12846, nbis-mrna-12848
+OG0007466	nbis-mrna-2790
+OG0007472	nbis-mrna-18491
+OG0007504	nbis-mrna-7319
+OG0007509	nbis-mrna-1248
+OG0007510	nbis-mrna-5960, nbis-mrna-8871
+OG0007528	nbis-mrna-12978, nbis-mrna-5592
+OG0007530	nbis-mrna-21424
+OG0007536	nbis-mrna-2050
+OG0007537	nbis-mrna-21709
+OG0007540	nbis-mrna-993
+OG0007546	nbis-mrna-16005
+OG0007561	nbis-mrna-19309
+OG0007562	
+OG0007569	
+OG0007574	nbis-mrna-21085, nbis-mrna-6026
+OG0007582	nbis-mrna-1415
+OG0007583	
+OG0007587	nbis-mrna-18827
+OG0007589	nbis-mrna-3716
+OG0007591	nbis-mrna-18355, nbis-mrna-4996
+OG0007593	
+OG0007595	nbis-mrna-4855
+OG0007644	nbis-mrna-10730
+OG0007646	nbis-mrna-10487, nbis-mrna-20943
+OG0007648	
+OG0007652	
+OG0007654	nbis-mrna-20383, nbis-mrna-22482
+OG0007657	nbis-mrna-4021
+OG0007663	nbis-mrna-8927
+OG0007671	
+OG0007673	nbis-mrna-17871
+OG0007682	
+OG0007692	nbis-mrna-196, nbis-mrna-4247
+OG0007693	nbis-mrna-14340
+OG0007698	nbis-mrna-17826
+OG0007700	nbis-mrna-20382
+OG0007705	nbis-mrna-7436
+OG0007708	nbis-mrna-19806
+OG0007713	nbis-mrna-21591, nbis-mrna-21594
+OG0007714	nbis-mrna-989
+OG0007715	nbis-mrna-8914
+OG0007719	nbis-mrna-1771, nbis-mrna-3568
+OG0007720	
+OG0007722	nbis-mrna-18661
+OG0007724	nbis-mrna-3572
+OG0007739	nbis-mrna-20933
+OG0007741	nbis-mrna-61
+OG0007748	nbis-mrna-3490
+OG0007752	
+OG0007756	nbis-mrna-2548
+OG0007770	
+OG0007780	nbis-mrna-1390
+OG0007782	nbis-mrna-14390
+OG0007786	
+OG0007789	nbis-mrna-9345
+OG0007790	nbis-mrna-13675
+OG0007792	nbis-mrna-8012, nbis-mrna-9298
+OG0007795	nbis-mrna-1324
+OG0007800	nbis-mrna-17938
+OG0007803	nbis-mrna-7621, nbis-mrna-7622
+OG0007807	
+OG0007812	
+OG0007816	nbis-mrna-14366
+OG0007822	
+OG0007838	nbis-mrna-18173
+OG0007839	nbis-mrna-15630
+OG0007840	nbis-mrna-14518
+OG0007841	nbis-mrna-9931
+OG0007844	nbis-mrna-22295
+OG0007846	nbis-mrna-20941
+OG0007848	nbis-mrna-17578
+OG0007851	nbis-mrna-11385
+OG0007856	nbis-mrna-10998, nbis-mrna-10999
+OG0007868	nbis-mrna-16572
+OG0007874	nbis-mrna-19230
+OG0007877	
+OG0007881	nbis-mrna-18635
+OG0007890	
+OG0007898	nbis-mrna-609
+OG0007901	nbis-mrna-20480
+OG0007903	
+OG0007904	nbis-mrna-12632
+OG0007917	nbis-mrna-12977
+OG0007918	
+OG0007919	nbis-mrna-15806
+OG0007928	nbis-mrna-6979
+OG0007929	nbis-mrna-5860
+OG0007930	nbis-mrna-13888
+OG0007936	nbis-mrna-2675
+OG0007944	nbis-mrna-14902
+OG0007945	nbis-mrna-18576
+OG0007948	nbis-mrna-5268, nbis-mrna-5270, nbis-mrna-725
+OG0007951	nbis-mrna-1149
+OG0007953	nbis-mrna-17910
+OG0007956	nbis-mrna-19195
+OG0007958	nbis-mrna-7766
+OG0007960	nbis-mrna-6066
+OG0007962	nbis-mrna-12246, nbis-mrna-19666
+OG0007963	nbis-mrna-19295, nbis-mrna-8281
+OG0007972	nbis-mrna-8727
+OG0007976	nbis-mrna-75
+OG0007978	
+OG0007981	nbis-mrna-14553
+OG0007982	nbis-mrna-22383, nbis-mrna-5568
+OG0007987	
+OG0007995	nbis-mrna-10891
+OG0007999	nbis-mrna-2444
+OG0008003	nbis-mrna-14539, nbis-mrna-17145
+OG0008006	nbis-mrna-19528, nbis-mrna-19529
+OG0008011	nbis-mrna-11281, nbis-mrna-1623, nbis-mrna-16950, nbis-mrna-3074, nbis-mrna-4524
+OG0008013	
+OG0008015	nbis-mrna-3403
+OG0008016	nbis-mrna-4193, nbis-mrna-4194
+OG0008017	nbis-mrna-15349
+OG0008021	
+OG0008044	nbis-mrna-15355
+OG0008052	nbis-mrna-6099
+OG0008056	nbis-mrna-10987
+OG0008057	
+OG0008060	nbis-mrna-10541
+OG0008064	nbis-mrna-14771
+OG0008067	nbis-mrna-5243
+OG0008076	nbis-mrna-8180
+OG0008077	nbis-mrna-8182
+OG0008081	nbis-mrna-15086
+OG0008088	nbis-mrna-6936
+OG0008100	
+OG0008101	
+OG0008102	nbis-mrna-5039
+OG0008103	nbis-mrna-10332, nbis-mrna-16268
+OG0008105	nbis-mrna-15007
+OG0008110	nbis-mrna-14676, nbis-mrna-14678
+OG0008118	nbis-mrna-10803
+OG0008121	nbis-mrna-16789
+OG0008125	nbis-mrna-8138
+OG0008128	nbis-mrna-2293
+OG0008138	nbis-mrna-4974
+OG0008143	nbis-mrna-6927
+OG0008145	
+OG0008151	nbis-mrna-18270
+OG0008154	nbis-mrna-13175
+OG0008158	
+OG0008160	nbis-mrna-13218
+OG0008162	nbis-mrna-16109
+OG0008164	nbis-mrna-3896
+OG0008168	nbis-mrna-6951
+OG0008172	nbis-mrna-7542
+OG0008173	nbis-mrna-10833
+OG0008177	
+OG0008187	nbis-mrna-12716
+OG0008188	
+OG0008190	nbis-mrna-13973
+OG0008192	nbis-mrna-13158
+OG0008195	
+OG0008196	nbis-mrna-5831
+OG0008199	nbis-mrna-9578
+OG0008201	nbis-mrna-15897
+OG0008208	nbis-mrna-2957
+OG0008214	nbis-mrna-18747
+OG0008216	nbis-mrna-7087
+OG0008219	nbis-mrna-8175
+OG0008226	
+OG0008227	nbis-mrna-5858
+OG0008238	nbis-mrna-21142
+OG0008241	nbis-mrna-4852
+OG0008242	nbis-mrna-3883
+OG0008244	nbis-mrna-20091
+OG0008248	nbis-mrna-17135
+OG0008256	
+OG0008258	nbis-mrna-13322
+OG0008262	
+OG0008268	nbis-mrna-3284
+OG0008270	nbis-mrna-15631, nbis-mrna-17696
+OG0008272	nbis-mrna-10265, nbis-mrna-103, nbis-mrna-10548, nbis-mrna-12837, nbis-mrna-17998, nbis-mrna-3084, nbis-mrna-3085, nbis-mrna-7246, nbis-mrna-8149, nbis-mrna-9147
+OG0008278	nbis-mrna-2969
+OG0008281	nbis-mrna-13960
+OG0008285	nbis-mrna-6332
+OG0008287	nbis-mrna-20475
+OG0008290	nbis-mrna-15425
+OG0008293	nbis-mrna-2537
+OG0008294	nbis-mrna-11053
+OG0008297	nbis-mrna-18876, nbis-mrna-21060
+OG0008299	nbis-mrna-20756
+OG0008302	
+OG0008309	nbis-mrna-6892
+OG0008310	nbis-mrna-184
+OG0008312	
+OG0008313	nbis-mrna-872
+OG0008316	nbis-mrna-15074
+OG0008317	nbis-mrna-20837
+OG0008335	
+OG0008343	
+OG0008354	nbis-mrna-19650
+OG0008356	nbis-mrna-847
+OG0008359	nbis-mrna-8670
+OG0008366	
+OG0008371	nbis-mrna-17789, nbis-mrna-5078
+OG0008378	nbis-mrna-1443
+OG0008386	
+OG0008388	nbis-mrna-19445, nbis-mrna-8578, nbis-mrna-8580
+OG0008404	nbis-mrna-1105, nbis-mrna-12414, nbis-mrna-12440, nbis-mrna-12745, nbis-mrna-1385, nbis-mrna-13937, nbis-mrna-15332, nbis-mrna-15983, nbis-mrna-16980, nbis-mrna-20629, nbis-mrna-21513, nbis-mrna-21871, nbis-mrna-22233, nbis-mrna-4382, nbis-mrna-4529, nbis-mrna-4896, nbis-mrna-4923, nbis-mrna-5527, nbis-mrna-5674, nbis-mrna-7809, nbis-mrna-8013, nbis-mrna-8191, nbis-mrna-8801, nbis-mrna-9120, nbis-mrna-9687
+OG0008409	nbis-mrna-15454
+OG0008415	nbis-mrna-19686, nbis-mrna-19688, nbis-mrna-19690, nbis-mrna-19691
+OG0008423	
+OG0008431	
+OG0008447	nbis-mrna-20285
+OG0008448	
+OG0008449	
+OG0008450	nbis-mrna-13342
+OG0008454	
+OG0008456	nbis-mrna-11551, nbis-mrna-1584, nbis-mrna-4773
+OG0008466	nbis-mrna-10422, nbis-mrna-7416
+OG0008467	nbis-mrna-18443
+OG0008470	nbis-mrna-18510
+OG0008471	nbis-mrna-5411
+OG0008474	nbis-mrna-17364
+OG0008487	nbis-mrna-18880
+OG0008489	nbis-mrna-1436
+OG0008490	nbis-mrna-7044
+OG0008493	nbis-mrna-956, nbis-mrna-957
+OG0008499	nbis-mrna-2909
+OG0008502	nbis-mrna-17754
+OG0008510	nbis-mrna-3491
+OG0008514	nbis-mrna-251
+OG0008515	nbis-mrna-17371, nbis-mrna-17372
+OG0008518	nbis-mrna-14387, nbis-mrna-3787
+OG0008519	nbis-mrna-1406
+OG0008522	nbis-mrna-5427
+OG0008523	nbis-mrna-21580
+OG0008526	nbis-mrna-540
+OG0008527	nbis-mrna-13540
+OG0008530	nbis-mrna-15002
+OG0008538	
+OG0008542	nbis-mrna-15329
+OG0008546	nbis-mrna-2699
+OG0008548	nbis-mrna-18004
+OG0008549	nbis-mrna-3107
+OG0008553	nbis-mrna-20882
+OG0008554	nbis-mrna-22557, nbis-mrna-22558
+OG0008555	nbis-mrna-6121
+OG0008556	nbis-mrna-19213
+OG0008559	nbis-mrna-11794
+OG0008560	nbis-mrna-11774
+OG0008567	
+OG0008569	nbis-mrna-100
+OG0008574	nbis-mrna-17287
+OG0008578	
+OG0008579	nbis-mrna-6918
+OG0008581	nbis-mrna-8363
+OG0008582	nbis-mrna-3043, nbis-mrna-4047
+OG0008584	nbis-mrna-11602
+OG0008586	nbis-mrna-19079
+OG0008588	nbis-mrna-7190
+OG0008592	
+OG0008598	nbis-mrna-10777
+OG0008599	nbis-mrna-1865
+OG0008603	nbis-mrna-13726
+OG0008605	
+OG0008607	
+OG0008620	nbis-mrna-1087
+OG0008625	nbis-mrna-10505, nbis-mrna-19631
+OG0008627	nbis-mrna-20437
+OG0008632	nbis-mrna-13092
+OG0008635	nbis-mrna-17268
+OG0008639	
+OG0008641	nbis-mrna-17033
+OG0008643	nbis-mrna-3532, nbis-mrna-6335
+OG0008647	nbis-mrna-10242, nbis-mrna-20789
+OG0008650	nbis-mrna-4631
+OG0008651	nbis-mrna-20037
+OG0008653	nbis-mrna-21071
+OG0008668	
+OG0008670	nbis-mrna-12514, nbis-mrna-9862
+OG0008686	nbis-mrna-17676
+OG0008687	nbis-mrna-9320
+OG0008692	nbis-mrna-1740
+OG0008696	nbis-mrna-15283
+OG0008706	nbis-mrna-17656
+OG0008712	nbis-mrna-21787
+OG0008716	nbis-mrna-14464
+OG0008717	nbis-mrna-12642
+OG0008718	nbis-mrna-11842
+OG0008720	
+OG0008736	
+OG0008746	
+OG0008752	nbis-mrna-17257, nbis-mrna-17258, nbis-mrna-20714
+OG0008755	
+OG0008778	nbis-mrna-14999
+OG0008779	nbis-mrna-8837
+OG0008780	nbis-mrna-15357
+OG0008781	nbis-mrna-14141, nbis-mrna-16967
+OG0008783	
+OG0008784	nbis-mrna-13787
+OG0008785	nbis-mrna-21297
+OG0008786	
+OG0008792	nbis-mrna-6929
+OG0008797	nbis-mrna-3596
+OG0008799	nbis-mrna-13606
+OG0008802	
+OG0008805	nbis-mrna-17879
+OG0008806	nbis-mrna-15443
+OG0008810	nbis-mrna-4010
+OG0008813	nbis-mrna-21719
+OG0008816	nbis-mrna-13113
+OG0008820	nbis-mrna-21624
+OG0008822	nbis-mrna-8912
+OG0008823	nbis-mrna-4426
+OG0008824	nbis-mrna-3974
+OG0008827	nbis-mrna-14177
+OG0008832	nbis-mrna-11198
+OG0008834	
+OG0008837	nbis-mrna-17911
+OG0008839	nbis-mrna-5405
+OG0008842	
+OG0008843	
+OG0008846	nbis-mrna-22638
+OG0008848	nbis-mrna-15700
+OG0008849	
+OG0008860	nbis-mrna-10933
+OG0008866	nbis-mrna-18391
+OG0008870	nbis-mrna-8904
+OG0008874	
+OG0008875	nbis-mrna-14445
+OG0008876	nbis-mrna-22574
+OG0008877	nbis-mrna-17546
+OG0008881	
+OG0008885	nbis-mrna-2807
+OG0008890	nbis-mrna-1215
+OG0008895	nbis-mrna-3585
+OG0008896	nbis-mrna-20328, nbis-mrna-5386
+OG0008898	nbis-mrna-894
+OG0008899	
+OG0008904	nbis-mrna-16737
+OG0008906	
+OG0008908	nbis-mrna-986
+OG0008910	nbis-mrna-21284
+OG0008911	
+OG0008916	nbis-mrna-20543
+OG0008919	nbis-mrna-21269
+OG0008920	nbis-mrna-19415
+OG0008922	
+OG0008926	nbis-mrna-1440, nbis-mrna-14876
+OG0008928	nbis-mrna-11483
+OG0008930	
+OG0008932	nbis-mrna-14152
+OG0008936	nbis-mrna-20826
+OG0008941	nbis-mrna-15360
+OG0008944	nbis-mrna-17986
+OG0008946	nbis-mrna-3902
+OG0008947	nbis-mrna-14167
+OG0008951	
+OG0008952	nbis-mrna-1078
+OG0008954	nbis-mrna-19970
+OG0008962	
+OG0008964	nbis-mrna-18490
+OG0008966	nbis-mrna-5454
+OG0008969	nbis-mrna-22429
+OG0008970	nbis-mrna-20524
+OG0008972	nbis-mrna-19429
+OG0008974	nbis-mrna-9408
+OG0008976	nbis-mrna-17234
+OG0008977	
+OG0008983	nbis-mrna-4156
+OG0008987	nbis-mrna-9002
+OG0008992	nbis-mrna-11520
+OG0008994	nbis-mrna-12400, nbis-mrna-14692, nbis-mrna-9724
+OG0008996	
+OG0008999	
+OG0009001	nbis-mrna-15052, nbis-mrna-15614, nbis-mrna-16182, nbis-mrna-7904
+OG0009003	
+OG0009006	nbis-mrna-15410
+OG0009008	nbis-mrna-8870
+OG0009015	
+OG0009017	nbis-mrna-13943, nbis-mrna-14328, nbis-mrna-3070
+OG0009018	nbis-mrna-18985
+OG0009019	
+OG0009021	nbis-mrna-3795
+OG0009026	nbis-mrna-14333
+OG0009036	
+OG0009041	nbis-mrna-8453, nbis-mrna-8455, nbis-mrna-8457
+OG0009042	nbis-mrna-11916, nbis-mrna-21800
+OG0009044	nbis-mrna-18221, nbis-mrna-9063
+OG0009048	
+OG0009049	nbis-mrna-12304, nbis-mrna-13495, nbis-mrna-13904, nbis-mrna-14884, nbis-mrna-15359, nbis-mrna-15464, nbis-mrna-19906, nbis-mrna-22055, nbis-mrna-22526, nbis-mrna-4134, nbis-mrna-6832, nbis-mrna-696, nbis-mrna-7258, nbis-mrna-762, nbis-mrna-7646
+OG0009053	
+OG0009079	
+OG0009096	nbis-mrna-11651
+OG0009097	nbis-mrna-17350
+OG0009098	nbis-mrna-6304
+OG0009099	nbis-mrna-5526
+OG0009100	nbis-mrna-3148
+OG0009101	
+OG0009102	nbis-mrna-3688
+OG0009103	nbis-mrna-1745
+OG0009104	nbis-mrna-22065
+OG0009105	nbis-mrna-11506
+OG0009114	nbis-mrna-14335, nbis-mrna-6228
+OG0009116	nbis-mrna-18893
+OG0009122	nbis-mrna-9996
+OG0009125	nbis-mrna-1082
+OG0009126	nbis-mrna-15549, nbis-mrna-18129
+OG0009127	nbis-mrna-21597
+OG0009128	nbis-mrna-2364
+OG0009130	nbis-mrna-1258, nbis-mrna-6684
+OG0009133	nbis-mrna-8071
+OG0009134	nbis-mrna-799
+OG0009137	nbis-mrna-13340
+OG0009145	
+OG0009146	nbis-mrna-14690
+OG0009147	
+OG0009156	nbis-mrna-4553
+OG0009157	nbis-mrna-10783
+OG0009158	nbis-mrna-3327
+OG0009164	nbis-mrna-19600
+OG0009165	nbis-mrna-15794
+OG0009167	nbis-mrna-13924, nbis-mrna-13926
+OG0009169	nbis-mrna-11257
+OG0009173	nbis-mrna-22026
+OG0009177	nbis-mrna-3927
+OG0009178	nbis-mrna-10725
+OG0009179	nbis-mrna-13198
+OG0009186	nbis-mrna-21440
+OG0009193	
+OG0009205	nbis-mrna-2808
+OG0009206	nbis-mrna-17070
+OG0009207	nbis-mrna-4078
+OG0009209	nbis-mrna-12191
+OG0009210	nbis-mrna-14755
+OG0009211	nbis-mrna-17828
+OG0009212	
+OG0009213	nbis-mrna-20406
+OG0009216	nbis-mrna-13951
+OG0009218	nbis-mrna-7254
+OG0009220	nbis-mrna-12863
+OG0009221	
+OG0009224	nbis-mrna-3320, nbis-mrna-9467
+OG0009227	nbis-mrna-8438
+OG0009229	nbis-mrna-221
+OG0009231	nbis-mrna-2102
+OG0009232	nbis-mrna-671
+OG0009237	nbis-mrna-16238
+OG0009240	nbis-mrna-9725
+OG0009241	nbis-mrna-14919
+OG0009242	nbis-mrna-11851, nbis-mrna-12971, nbis-mrna-14345, nbis-mrna-14346, nbis-mrna-15111, nbis-mrna-15811, nbis-mrna-18647, nbis-mrna-18783, nbis-mrna-18784, nbis-mrna-18785, nbis-mrna-18787, nbis-mrna-8600
+OG0009244	nbis-mrna-21617
+OG0009246	nbis-mrna-7666
+OG0009249	nbis-mrna-19239
+OG0009253	nbis-mrna-12356
+OG0009255	nbis-mrna-13572
+OG0009256	nbis-mrna-10742
+OG0009258	nbis-mrna-11391
+OG0009259	nbis-mrna-8092
+OG0009265	nbis-mrna-5123
+OG0009274	nbis-mrna-19722
+OG0009279	nbis-mrna-1856, nbis-mrna-1857, nbis-mrna-4429, nbis-mrna-4573
+OG0009280	nbis-mrna-10012
+OG0009284	nbis-mrna-22085
+OG0009287	
+OG0009288	nbis-mrna-7336, nbis-mrna-7337
+OG0009291	nbis-mrna-1337, nbis-mrna-18627
+OG0009292	nbis-mrna-20551
+OG0009294	nbis-mrna-15431, nbis-mrna-2385, nbis-mrna-5760
+OG0009295	nbis-mrna-14594
+OG0009296	
+OG0009297	nbis-mrna-17370
+OG0009298	nbis-mrna-21576
+OG0009306	nbis-mrna-12121
+OG0009309	nbis-mrna-6728, nbis-mrna-6735
+OG0009327	
+OG0009328	nbis-mrna-10135, nbis-mrna-1036, nbis-mrna-12626, nbis-mrna-20139, nbis-mrna-523
+OG0009331	nbis-mrna-13036, nbis-mrna-17426, nbis-mrna-7720, nbis-mrna-9143
+OG0009335	nbis-mrna-10410, nbis-mrna-10754, nbis-mrna-10805, nbis-mrna-11623, nbis-mrna-12410, nbis-mrna-13580, nbis-mrna-15985, nbis-mrna-16057, nbis-mrna-17363, nbis-mrna-17581, nbis-mrna-19205, nbis-mrna-21262, nbis-mrna-3038, nbis-mrna-4352, nbis-mrna-7884, nbis-mrna-7910, nbis-mrna-8068
+OG0009336	
+OG0009343	
+OG0009344	
+OG0009353	
+OG0009354	
+OG0009355	
+OG0009376	nbis-mrna-21668
+OG0009377	nbis-mrna-443
+OG0009385	
+OG0009386	nbis-mrna-21998
+OG0009387	
+OG0009388	nbis-mrna-5458
+OG0009389	
+OG0009392	
+OG0009393	nbis-mrna-13952, nbis-mrna-16935, nbis-mrna-3053
+OG0009394	nbis-mrna-13808
+OG0009407	nbis-mrna-19478
+OG0009410	
+OG0009411	nbis-mrna-13847
+OG0009412	nbis-mrna-1818
+OG0009415	
+OG0009417	nbis-mrna-4028
+OG0009421	nbis-mrna-1117
+OG0009422	
+OG0009428	nbis-mrna-2727
+OG0009431	
+OG0009434	
+OG0009440	nbis-mrna-12134
+OG0009443	nbis-mrna-3183
+OG0009447	
+OG0009448	
+OG0009449	nbis-mrna-575
+OG0009453	nbis-mrna-1398, nbis-mrna-1399
+OG0009456	
+OG0009457	nbis-mrna-18165
+OG0009458	nbis-mrna-2507
+OG0009460	nbis-mrna-9373
+OG0009461	nbis-mrna-4406, nbis-mrna-4407, nbis-mrna-4408
+OG0009464	
+OG0009470	nbis-mrna-9854, nbis-mrna-9855
+OG0009472	nbis-mrna-6976
+OG0009473	
+OG0009474	nbis-mrna-11727
+OG0009484	nbis-mrna-7126
+OG0009485	nbis-mrna-3169, nbis-mrna-6656
+OG0009488	nbis-mrna-13138
+OG0009489	
+OG0009490	nbis-mrna-9491
+OG0009494	nbis-mrna-5259
+OG0009495	nbis-mrna-21616
+OG0009496	nbis-mrna-4621
+OG0009498	nbis-mrna-18096
+OG0009500	nbis-mrna-5504
+OG0009502	nbis-mrna-1492
+OG0009509	nbis-mrna-10681
+OG0009511	nbis-mrna-18107, nbis-mrna-18108, nbis-mrna-21186, nbis-mrna-5935
+OG0009513	nbis-mrna-397
+OG0009514	nbis-mrna-17790
+OG0009515	nbis-mrna-14092
+OG0009519	nbis-mrna-21005
+OG0009521	nbis-mrna-1400
+OG0009523	nbis-mrna-12013
+OG0009525	nbis-mrna-4665
+OG0009526	nbis-mrna-21383
+OG0009528	nbis-mrna-10082
+OG0009532	nbis-mrna-11629
+OG0009533	nbis-mrna-13242
+OG0009535	
+OG0009536	
+OG0009538	nbis-mrna-3162
+OG0009544	
+OG0009549	nbis-mrna-6037
+OG0009557	nbis-mrna-12946
+OG0009567	nbis-mrna-13708
+OG0009574	nbis-mrna-5004
+OG0009576	nbis-mrna-20076
+OG0009579	nbis-mrna-6189
+OG0009582	nbis-mrna-15181, nbis-mrna-15184, nbis-mrna-19274, nbis-mrna-2994
+OG0009584	nbis-mrna-16192
+OG0009586	
+OG0009587	nbis-mrna-13311
+OG0009589	nbis-mrna-1742
+OG0009590	nbis-mrna-9492
+OG0009594	nbis-mrna-2264
+OG0009595	
+OG0009603	nbis-mrna-5353
+OG0009608	
+OG0009615	nbis-mrna-4242
+OG0009617	nbis-mrna-778
+OG0009619	
+OG0009620	nbis-mrna-9672
+OG0009625	
+OG0009629	nbis-mrna-17181
+OG0009640	
+OG0009643	
+OG0009645	nbis-mrna-22434
+OG0009653	nbis-mrna-10719, nbis-mrna-19661, nbis-mrna-19662, nbis-mrna-4714, nbis-mrna-4715
+OG0009680	nbis-mrna-11089
+OG0009685	nbis-mrna-12672
+OG0009686	
+OG0009694	nbis-mrna-11719
+OG0009695	
+OG0009696	nbis-mrna-2892
+OG0009699	nbis-mrna-15935
+OG0009701	nbis-mrna-2503
+OG0009706	
+OG0009709	
+OG0009712	nbis-mrna-22101
+OG0009714	nbis-mrna-16103
+OG0009718	nbis-mrna-20253
+OG0009722	
+OG0009726	nbis-mrna-21737
+OG0009727	
+OG0009728	nbis-mrna-7851
+OG0009729	
+OG0009730	
+OG0009734	
+OG0009735	nbis-mrna-16313
+OG0009736	nbis-mrna-12905
+OG0009737	nbis-mrna-11402
+OG0009738	nbis-mrna-16749, nbis-mrna-18231
+OG0009740	
+OG0009743	
+OG0009744	
+OG0009747	nbis-mrna-5530
+OG0009748	
+OG0009750	nbis-mrna-17592
+OG0009751	nbis-mrna-16946
+OG0009752	
+OG0009753	nbis-mrna-12014
+OG0009755	nbis-mrna-13137
+OG0009759	nbis-mrna-13270, nbis-mrna-22159, nbis-mrna-4570
+OG0009761	nbis-mrna-13315
+OG0009762	nbis-mrna-10383
+OG0009763	nbis-mrna-1002, nbis-mrna-10536
+OG0009765	nbis-mrna-7321
+OG0009766	nbis-mrna-7887
+OG0009767	nbis-mrna-5939
+OG0009769	nbis-mrna-3633
+OG0009770	nbis-mrna-18251
+OG0009774	nbis-mrna-22405
+OG0009776	nbis-mrna-19438
+OG0009782	nbis-mrna-589
+OG0009784	
+OG0009790	nbis-mrna-4818
+OG0009791	nbis-mrna-21161
+OG0009792	
+OG0009793	
+OG0009794	nbis-mrna-19266
+OG0009796	nbis-mrna-13556
+OG0009798	
+OG0009799	nbis-mrna-19263
+OG0009806	nbis-mrna-19926
+OG0009807	nbis-mrna-17111
+OG0009808	
+OG0009811	nbis-mrna-13099
+OG0009812	nbis-mrna-11438
+OG0009814	nbis-mrna-17613
+OG0009815	
+OG0009822	nbis-mrna-10016
+OG0009825	nbis-mrna-21360
+OG0009826	
+OG0009830	nbis-mrna-21377
+OG0009838	
+OG0009839	nbis-mrna-992
+OG0009840	nbis-mrna-10921
+OG0009845	nbis-mrna-4417
+OG0009846	nbis-mrna-7320
+OG0009848	
+OG0009849	nbis-mrna-9905
+OG0009850	
+OG0009854	
+OG0009866	nbis-mrna-20445, nbis-mrna-4817
+OG0009875	nbis-mrna-21724
+OG0009876	nbis-mrna-11614
+OG0009883	
+OG0009891	
+OG0009893	nbis-mrna-15419
+OG0009895	nbis-mrna-10008, nbis-mrna-4416
+OG0009897	nbis-mrna-20655
+OG0009900	nbis-mrna-4356
+OG0009905	nbis-mrna-18537
+OG0009906	nbis-mrna-2467
+OG0009918	nbis-mrna-22494
+OG0009920	nbis-mrna-21784
+OG0009923	
+OG0009924	
+OG0009925	nbis-mrna-14408
+OG0009926	nbis-mrna-3898
+OG0009934	nbis-mrna-21512
+OG0009936	
+OG0009938	
+OG0009942	
+OG0009943	
+OG0009944	
+OG0009945	nbis-mrna-11055
+OG0009946	
+OG0009952	
+OG0009954	
+OG0009968	
+OG0009969	nbis-mrna-10565, nbis-mrna-17342, nbis-mrna-8444, nbis-mrna-9927
+OG0009975	
+OG0010008	
+OG0010015	
+OG0010020	nbis-mrna-8428
+OG0010021	nbis-mrna-5105
+OG0010023	nbis-mrna-13403
+OG0010029	
+OG0010031	nbis-mrna-2459
+OG0010032	nbis-mrna-13850, nbis-mrna-13851, nbis-mrna-13852
+OG0010033	
+OG0010037	
+OG0010040	nbis-mrna-18467
+OG0010043	nbis-mrna-7831
+OG0010044	nbis-mrna-14681
+OG0010045	nbis-mrna-13258
+OG0010047	nbis-mrna-20492
+OG0010048	nbis-mrna-22158, nbis-mrna-6876
+OG0010050	nbis-mrna-11575
+OG0010055	nbis-mrna-11965
+OG0010064	nbis-mrna-1315
+OG0010065	nbis-mrna-19118
+OG0010067	
+OG0010069	
+OG0010071	
+OG0010074	
+OG0010075	nbis-mrna-4158
+OG0010077	nbis-mrna-3269
+OG0010080	
+OG0010081	nbis-mrna-10228
+OG0010084	nbis-mrna-5709
+OG0010085	nbis-mrna-7227
+OG0010086	nbis-mrna-2416, nbis-mrna-8131
+OG0010089	
+OG0010093	nbis-mrna-20632
+OG0010095	nbis-mrna-6001
+OG0010097	
+OG0010098	nbis-mrna-6627
+OG0010099	nbis-mrna-4262
+OG0010100	nbis-mrna-2417
+OG0010101	nbis-mrna-6499
+OG0010104	nbis-mrna-21458
+OG0010106	nbis-mrna-6180
+OG0010111	nbis-mrna-22476
+OG0010112	nbis-mrna-6175
+OG0010115	nbis-mrna-6143
+OG0010116	
+OG0010118	nbis-mrna-519
+OG0010119	nbis-mrna-14282, nbis-mrna-14283
+OG0010120	nbis-mrna-9044
+OG0010121	nbis-mrna-6130
+OG0010123	
+OG0010124	
+OG0010127	nbis-mrna-17952
+OG0010129	nbis-mrna-12359
+OG0010131	nbis-mrna-21197
+OG0010136	nbis-mrna-1694
+OG0010139	nbis-mrna-8763
+OG0010140	nbis-mrna-1402
+OG0010141	nbis-mrna-5934
+OG0010142	nbis-mrna-509
+OG0010143	nbis-mrna-17012
+OG0010144	
+OG0010146	nbis-mrna-13966
+OG0010147	nbis-mrna-17518
+OG0010150	
+OG0010162	
+OG0010166	nbis-mrna-9211
+OG0010170	nbis-mrna-13872, nbis-mrna-14399
+OG0010175	nbis-mrna-17802
+OG0010182	
+OG0010185	
+OG0010187	nbis-mrna-9548
+OG0010191	nbis-mrna-19563
+OG0010193	nbis-mrna-5423
+OG0010194	
+OG0010199	nbis-mrna-21847
+OG0010202	
+OG0010203	
+OG0010206	
+OG0010215	
+OG0010216	nbis-mrna-19115, nbis-mrna-19116, nbis-mrna-19117
+OG0010217	nbis-mrna-21049
+OG0010219	
+OG0010222	nbis-mrna-8434
+OG0010226	nbis-mrna-3401
+OG0010227	nbis-mrna-6519, nbis-mrna-6520, nbis-mrna-6521
+OG0010229	nbis-mrna-18672, nbis-mrna-18674
+OG0010232	
+OG0010239	nbis-mrna-10555, nbis-mrna-16015, nbis-mrna-20327
+OG0010244	
+OG0010247	
+OG0010254	
+OG0010301	nbis-mrna-14702
+OG0010304	nbis-mrna-5884
+OG0010308	
+OG0010309	nbis-mrna-12190
+OG0010311	nbis-mrna-3002
+OG0010312	
+OG0010313	nbis-mrna-19809
+OG0010314	nbis-mrna-12364
+OG0010317	nbis-mrna-2590
+OG0010325	nbis-mrna-9248
+OG0010328	nbis-mrna-21607
+OG0010330	nbis-mrna-11796
+OG0010331	nbis-mrna-8442
+OG0010334	nbis-mrna-6021
+OG0010336	
+OG0010337	nbis-mrna-2561
+OG0010344	
+OG0010345	nbis-mrna-8527
+OG0010351	nbis-mrna-19981
+OG0010353	nbis-mrna-12995
+OG0010354	nbis-mrna-10355
+OG0010356	nbis-mrna-16413
+OG0010360	nbis-mrna-18219, nbis-mrna-19030, nbis-mrna-79
+OG0010365	nbis-mrna-14444
+OG0010368	nbis-mrna-9824
+OG0010374	nbis-mrna-12470, nbis-mrna-15904, nbis-mrna-15997, nbis-mrna-4415, nbis-mrna-7028
+OG0010376	nbis-mrna-12850
+OG0010378	nbis-mrna-10665
+OG0010382	nbis-mrna-8986
+OG0010383	nbis-mrna-21830
+OG0010385	
+OG0010386	
+OG0010388	nbis-mrna-693
+OG0010392	nbis-mrna-396
+OG0010415	nbis-mrna-18116
+OG0010421	nbis-mrna-15365
+OG0010423	nbis-mrna-1785
+OG0010426	nbis-mrna-8384
+OG0010430	nbis-mrna-21528
+OG0010431	
+OG0010434	nbis-mrna-9249
+OG0010436	nbis-mrna-4760
+OG0010439	
+OG0010441	nbis-mrna-8347, nbis-mrna-8348
+OG0010443	
+OG0010447	nbis-mrna-2586
+OG0010449	
+OG0010450	nbis-mrna-4545, nbis-mrna-8671
+OG0010452	nbis-mrna-3504, nbis-mrna-8623
+OG0010454	
+OG0010456	
+OG0010460	nbis-mrna-16691
+OG0010462	nbis-mrna-14806
+OG0010464	
+OG0010466	nbis-mrna-21618
+OG0010473	
+OG0010476	nbis-mrna-20922, nbis-mrna-20923
+OG0010482	
+OG0010483	nbis-mrna-15211
+OG0010484	nbis-mrna-3680
+OG0010489	nbis-mrna-10753, nbis-mrna-1083, nbis-mrna-10898, nbis-mrna-11220, nbis-mrna-21953, nbis-mrna-2370, nbis-mrna-6187, nbis-mrna-7, nbis-mrna-7351, nbis-mrna-8, nbis-mrna-9
+OG0010491	nbis-mrna-12800
+OG0010492	nbis-mrna-15082, nbis-mrna-15083, nbis-mrna-15085
+OG0010494	nbis-mrna-8088
+OG0010495	
+OG0010499	nbis-mrna-14645, nbis-mrna-14646, nbis-mrna-14647
+OG0010514	nbis-mrna-2919
+OG0010530	nbis-mrna-16270, nbis-mrna-4965
+OG0010573	nbis-mrna-1263
+OG0010578	nbis-mrna-7958
+OG0010580	nbis-mrna-16173
+OG0010581	nbis-mrna-5816
+OG0010585	nbis-mrna-9528
+OG0010588	nbis-mrna-16813
+OG0010591	nbis-mrna-15350
+OG0010592	
+OG0010593	nbis-mrna-3909, nbis-mrna-3910
+OG0010597	
+OG0010598	nbis-mrna-10376
+OG0010600	nbis-mrna-8171
+OG0010604	nbis-mrna-4885
+OG0010606	nbis-mrna-14352
+OG0010620	nbis-mrna-12567, nbis-mrna-15522, nbis-mrna-5358, nbis-mrna-5772, nbis-mrna-8045, nbis-mrna-8076, nbis-mrna-8477, nbis-mrna-9764
+OG0010625	nbis-mrna-3188
+OG0010632	nbis-mrna-19959
+OG0010634	
+OG0010636	nbis-mrna-15913
+OG0010637	
+OG0010639	nbis-mrna-3339
+OG0010644	
+OG0010646	
+OG0010647	
+OG0010649	nbis-mrna-12574
+OG0010652	nbis-mrna-21693
+OG0010656	nbis-mrna-19860
+OG0010657	
+OG0010659	
+OG0010660	
+OG0010662	
+OG0010664	nbis-mrna-203
+OG0010666	nbis-mrna-15325, nbis-mrna-9375
+OG0010667	nbis-mrna-19569
+OG0010670	
+OG0010674	nbis-mrna-3003
+OG0010677	nbis-mrna-3240
+OG0010680	
+OG0010683	nbis-mrna-10876, nbis-mrna-10877, nbis-mrna-14847, nbis-mrna-9797
+OG0010684	nbis-mrna-185
+OG0010685	nbis-mrna-21532
+OG0010686	
+OG0010689	nbis-mrna-18473
+OG0010691	nbis-mrna-15361
+OG0010692	nbis-mrna-21426
+OG0010696	nbis-mrna-20388
+OG0010706	nbis-mrna-13789
+OG0010708	
+OG0010718	nbis-mrna-22067, nbis-mrna-9712
+OG0010725	nbis-mrna-1115
+OG0010729	
+OG0010730	nbis-mrna-17327
+OG0010734	nbis-mrna-15950
+OG0010736	nbis-mrna-4380
+OG0010738	nbis-mrna-21097
+OG0010739	nbis-mrna-20377
+OG0010744	nbis-mrna-22153
+OG0010746	nbis-mrna-18381
+OG0010749	
+OG0010751	nbis-mrna-21465
+OG0010752	nbis-mrna-3280
+OG0010753	
+OG0010757	nbis-mrna-7189
+OG0010758	
+OG0010759	
+OG0010760	nbis-mrna-14388
+OG0010763	nbis-mrna-21708
+OG0010767	nbis-mrna-14470
+OG0010768	nbis-mrna-1920
+OG0010769	nbis-mrna-6125
+OG0010778	
+OG0010787	
+OG0010790	nbis-mrna-8135
+OG0010797	nbis-mrna-10990, nbis-mrna-15296, nbis-mrna-15298, nbis-mrna-15301, nbis-mrna-19283, nbis-mrna-20414, nbis-mrna-6551
+OG0010798	
+OG0010799	nbis-mrna-10851
+OG0010807	
+OG0010816	nbis-mrna-11925, nbis-mrna-11927
+OG0010821	nbis-mrna-688
+OG0010826	nbis-mrna-17174
+OG0010828	
+OG0010838	nbis-mrna-18316
+OG0010874	nbis-mrna-7679
+OG0010877	nbis-mrna-14962, nbis-mrna-1939
+OG0010878	
+OG0010879	
+OG0010883	
+OG0010887	
+OG0010888	
+OG0010891	nbis-mrna-9365
+OG0010895	nbis-mrna-21564
+OG0010897	nbis-mrna-2401
+OG0010910	
+OG0010917	
+OG0010920	nbis-mrna-9340
+OG0010923	nbis-mrna-1109, nbis-mrna-11498, nbis-mrna-12665, nbis-mrna-12710, nbis-mrna-13433, nbis-mrna-14882, nbis-mrna-17144, nbis-mrna-18888, nbis-mrna-20019, nbis-mrna-21582, nbis-mrna-22051, nbis-mrna-2728, nbis-mrna-296, nbis-mrna-384, nbis-mrna-471, nbis-mrna-7519
+OG0010926	nbis-mrna-7843
+OG0010927	nbis-mrna-12065, nbis-mrna-17630, nbis-mrna-18583, nbis-mrna-21549, nbis-mrna-21551, nbis-mrna-21552, nbis-mrna-4606, nbis-mrna-8583, nbis-mrna-8584, nbis-mrna-8586
+OG0010931	nbis-mrna-7613
+OG0010932	
+OG0010934	
+OG0010938	nbis-mrna-19127
+OG0010944	
+OG0010946	
+OG0010950	
+OG0010951	nbis-mrna-11366
+OG0010953	
+OG0010957	
+OG0010961	
+OG0010963	
+OG0010965	nbis-mrna-12878
+OG0010968	nbis-mrna-11996
+OG0010969	
+OG0010971	
+OG0010972	
+OG0010973	nbis-mrna-21916, nbis-mrna-21917, nbis-mrna-9126
+OG0010980	nbis-mrna-17899, nbis-mrna-5827, nbis-mrna-7259
+OG0010981	
+OG0010985	nbis-mrna-17277
+OG0010987	nbis-mrna-5575
+OG0010990	
+OG0010991	nbis-mrna-18796
+OG0010992	
+OG0010995	nbis-mrna-11951
+OG0010996	nbis-mrna-7123
+OG0010997	nbis-mrna-6628
+OG0011005	nbis-mrna-2315
+OG0011007	nbis-mrna-15142
+OG0011008	
+OG0011010	nbis-mrna-14107
+OG0011012	nbis-mrna-11843
+OG0011013	nbis-mrna-10981, nbis-mrna-15819
+OG0011014	nbis-mrna-19921
+OG0011016	
+OG0011019	
+OG0011021	nbis-mrna-14469
+OG0011023	nbis-mrna-20708
+OG0011025	nbis-mrna-10550, nbis-mrna-12988
+OG0011026	nbis-mrna-20716
+OG0011028	
+OG0011031	nbis-mrna-17454
+OG0011032	
+OG0011033	nbis-mrna-8721
+OG0011034	
+OG0011035	nbis-mrna-12366
+OG0011036	nbis-mrna-19458
+OG0011037	nbis-mrna-1051
+OG0011038	nbis-mrna-987
+OG0011040	nbis-mrna-18902
+OG0011041	nbis-mrna-10852, nbis-mrna-11005
+OG0011043	nbis-mrna-15974
+OG0011049	
+OG0011051	
+OG0011052	
+OG0011054	
+OG0011056	
+OG0011063	nbis-mrna-12008
+OG0011064	nbis-mrna-1294, nbis-mrna-14894
+OG0011071	nbis-mrna-5429
+OG0011072	nbis-mrna-20000
+OG0011084	nbis-mrna-22582
+OG0011098	nbis-mrna-12647
+OG0011099	
+OG0011126	nbis-mrna-11077, nbis-mrna-13297, nbis-mrna-13512, nbis-mrna-13735, nbis-mrna-18138, nbis-mrna-20015, nbis-mrna-5008, nbis-mrna-7853, nbis-mrna-8627
+OG0011177	
+OG0011182	nbis-mrna-17551
+OG0011194	
+OG0011195	
+OG0011197	nbis-mrna-10191
+OG0011199	
+OG0011200	nbis-mrna-1143, nbis-mrna-21577
+OG0011201	nbis-mrna-6809
+OG0011202	nbis-mrna-20058
+OG0011203	nbis-mrna-10844
+OG0011205	
+OG0011212	
+OG0011215	
+OG0011216	
+OG0011220	nbis-mrna-18035
+OG0011231	nbis-mrna-1481
+OG0011233	nbis-mrna-22403
+OG0011234	nbis-mrna-15508
+OG0011238	nbis-mrna-9387
+OG0011240	nbis-mrna-18432
+OG0011241	
+OG0011242	
+OG0011244	nbis-mrna-5368
+OG0011245	nbis-mrna-11524, nbis-mrna-1199, nbis-mrna-13030, nbis-mrna-13263, nbis-mrna-15477, nbis-mrna-15840, nbis-mrna-16525, nbis-mrna-17660, nbis-mrna-18373, nbis-mrna-1839, nbis-mrna-3087
+OG0011247	
+OG0011251	
+OG0011252	nbis-mrna-14727
+OG0011254	nbis-mrna-6387
+OG0011255	
+OG0011258	nbis-mrna-13836
+OG0011261	nbis-mrna-7281
+OG0011265	nbis-mrna-15143
+OG0011272	nbis-mrna-7312
+OG0011278	
+OG0011282	
+OG0011288	nbis-mrna-7721
+OG0011289	nbis-mrna-7344
+OG0011291	
+OG0011295	
+OG0011296	nbis-mrna-13881
+OG0011297	nbis-mrna-14791
+OG0011302	
+OG0011305	
+OG0011311	nbis-mrna-9984
+OG0011312	nbis-mrna-13451
+OG0011314	nbis-mrna-8023
+OG0011322	
+OG0011324	nbis-mrna-17295
+OG0011328	
+OG0011330	nbis-mrna-5542
+OG0011331	nbis-mrna-18551, nbis-mrna-2509
+OG0011340	nbis-mrna-10740, nbis-mrna-22537, nbis-mrna-2446, nbis-mrna-5473, nbis-mrna-760
+OG0011346	
+OG0011349	
+OG0011350	nbis-mrna-18487
+OG0011352	nbis-mrna-8717
+OG0011354	nbis-mrna-18772
+OG0011356	
+OG0011357	nbis-mrna-11960, nbis-mrna-17750, nbis-mrna-3364
+OG0011361	nbis-mrna-17286
+OG0011362	nbis-mrna-9266
+OG0011365	
+OG0011366	
+OG0011384	nbis-mrna-18502
+OG0011387	
+OG0011390	
+OG0011401	
+OG0011422	
+OG0011424	
+OG0011440	nbis-mrna-8937
+OG0011495	nbis-mrna-4214
+OG0011498	
+OG0011500	
+OG0011509	nbis-mrna-5023
+OG0011515	nbis-mrna-4405
+OG0011520	nbis-mrna-14863, nbis-mrna-5069
+OG0011524	
+OG0011529	
+OG0011535	nbis-mrna-12731
+OG0011543	nbis-mrna-15699
+OG0011550	nbis-mrna-339
+OG0011551	nbis-mrna-16886
+OG0011562	
+OG0011564	nbis-mrna-9863
+OG0011565	
+OG0011566	
+OG0011568	
+OG0011569	
+OG0011571	
+OG0011578	nbis-mrna-407
+OG0011580	
+OG0011593	nbis-mrna-8504
+OG0011594	
+OG0011599	nbis-mrna-6576
+OG0011612	
+OG0011613	nbis-mrna-4148
+OG0011616	
+OG0011617	nbis-mrna-8505
+OG0011623	nbis-mrna-11340, nbis-mrna-5401
+OG0011624	
+OG0011627	
+OG0011629	nbis-mrna-8401
+OG0011630	nbis-mrna-14045
+OG0011633	nbis-mrna-11521
+OG0011634	
+OG0011636	
+OG0011647	
+OG0011652	nbis-mrna-10547, nbis-mrna-18378, nbis-mrna-4480, nbis-mrna-4699, nbis-mrna-5958, nbis-mrna-736, nbis-mrna-7747, nbis-mrna-8703, nbis-mrna-9148
+OG0011653	
+OG0011654	
+OG0011656	
+OG0011657	nbis-mrna-9085
+OG0011663	
+OG0011668	
+OG0011671	
+OG0011676	nbis-mrna-9652
+OG0011680	nbis-mrna-7885
+OG0011681	nbis-mrna-4929
+OG0011682	
+OG0011685	
+OG0011687	
+OG0011690	nbis-mrna-7151
+OG0011692	nbis-mrna-2667
+OG0011694	
+OG0011723	
+OG0011725	
+OG0011731	
+OG0011749	nbis-mrna-11805, nbis-mrna-14319, nbis-mrna-14320, nbis-mrna-18246, nbis-mrna-20813, nbis-mrna-21482, nbis-mrna-22560, nbis-mrna-3509, nbis-mrna-3746, nbis-mrna-3818, nbis-mrna-9078, nbis-mrna-9753, nbis-mrna-9879
+OG0011750	nbis-mrna-22084, nbis-mrna-4080
+OG0011751	
+OG0011754	nbis-mrna-11165, nbis-mrna-15528, nbis-mrna-18265, nbis-mrna-18990, nbis-mrna-19369, nbis-mrna-20002, nbis-mrna-2828, nbis-mrna-4460, nbis-mrna-481, nbis-mrna-5225
+OG0011758	nbis-mrna-13376, nbis-mrna-13690, nbis-mrna-14119, nbis-mrna-15691, nbis-mrna-20313, nbis-mrna-21247, nbis-mrna-21250, nbis-mrna-21254, nbis-mrna-3171, nbis-mrna-4303, nbis-mrna-4635, nbis-mrna-905
+OG0011760	nbis-mrna-7156
+OG0011766	
+OG0011835	nbis-mrna-17720
+OG0011838	
+OG0011840	
+OG0011842	nbis-mrna-20100, nbis-mrna-6934
+OG0011850	nbis-mrna-10091
+OG0011852	
+OG0011859	nbis-mrna-7574
+OG0011863	nbis-mrna-4718
+OG0011867	nbis-mrna-19826
+OG0011869	nbis-mrna-17702
+OG0011871	
+OG0011873	
+OG0011880	nbis-mrna-19673
+OG0011881	
+OG0011882	
+OG0011883	nbis-mrna-4854
+OG0011887	
+OG0011899	nbis-mrna-1075, nbis-mrna-1614, nbis-mrna-17003
+OG0011903	nbis-mrna-13317
+OG0011905	
+OG0011908	
+OG0011918	nbis-mrna-329
+OG0011923	
+OG0011940	
+OG0011942	
+OG0011950	
+OG0011957	
+OG0011958	nbis-mrna-12145
+OG0011961	
+OG0011963	
+OG0011966	nbis-mrna-2455
+OG0011967	
+OG0011970	nbis-mrna-18688
+OG0011972	nbis-mrna-19868
+OG0011973	
+OG0011976	
+OG0011978	
+OG0011979	
+OG0011980	
+OG0011984	
+OG0011985	nbis-mrna-3522
+OG0011986	nbis-mrna-9545
+OG0011988	
+OG0011990	nbis-mrna-16629
+OG0011993	nbis-mrna-13274
+OG0012001	
+OG0012002	
+OG0012006	nbis-mrna-12620
+OG0012008	nbis-mrna-4027, nbis-mrna-4029
+OG0012023	
+OG0012027	nbis-mrna-8451
+OG0012029	
+OG0012031	
+OG0012036	
+OG0012037	nbis-mrna-7950
+OG0012039	
+OG0012041	
+OG0012045	nbis-mrna-17974
+OG0012048	
+OG0012052	nbis-mrna-3025
+OG0012055	nbis-mrna-11992
+OG0012062	nbis-mrna-3448
+OG0012070	nbis-mrna-22160, nbis-mrna-5636
+OG0012072	
+OG0012075	nbis-mrna-10787
+OG0012083	nbis-mrna-15648
+OG0012095	nbis-mrna-11779
+OG0012119	nbis-mrna-17509, nbis-mrna-17510, nbis-mrna-5582
+OG0012121	nbis-mrna-2059
+OG0012129	
+OG0012134	nbis-mrna-14100
+OG0012135	nbis-mrna-1286, nbis-mrna-16548, nbis-mrna-18010, nbis-mrna-18269, nbis-mrna-20461, nbis-mrna-20462, nbis-mrna-21396, nbis-mrna-5016, nbis-mrna-5134, nbis-mrna-5389, nbis-mrna-6787
+OG0012150	
+OG0012212	
+OG0012220	nbis-mrna-19484, nbis-mrna-3880, nbis-mrna-3881
+OG0012224	
+OG0012228	nbis-mrna-20075
+OG0012231	nbis-mrna-918
+OG0012233	nbis-mrna-13126
+OG0012234	
+OG0012238	nbis-mrna-11712, nbis-mrna-14784, nbis-mrna-14786, nbis-mrna-21505, nbis-mrna-7191, nbis-mrna-7192, nbis-mrna-7458
+OG0012241	nbis-mrna-19271
+OG0012253	nbis-mrna-19235
+OG0012254	nbis-mrna-5249
+OG0012269	
+OG0012270	nbis-mrna-9359
+OG0012276	nbis-mrna-15835
+OG0012289	
+OG0012295	nbis-mrna-3969
+OG0012300	nbis-mrna-1026, nbis-mrna-7546
+OG0012302	
+OG0012305	
+OG0012307	nbis-mrna-20608
+OG0012310	
+OG0012315	
+OG0012317	
+OG0012318	nbis-mrna-20974
+OG0012337	
+OG0012348	nbis-mrna-7779
+OG0012354	
+OG0012357	
+OG0012359	nbis-mrna-3782
+OG0012360	
+OG0012364	nbis-mrna-1244
+OG0012366	nbis-mrna-6943
+OG0012367	
+OG0012368	
+OG0012369	nbis-mrna-15047
+OG0012372	nbis-mrna-7890
+OG0012374	nbis-mrna-539
+OG0012376	nbis-mrna-20643
+OG0012381	nbis-mrna-6245
+OG0012388	nbis-mrna-11958, nbis-mrna-9332
+OG0012389	
+OG0012391	nbis-mrna-11491
+OG0012395	nbis-mrna-1552
+OG0012400	
+OG0012401	nbis-mrna-21769
+OG0012404	nbis-mrna-15300, nbis-mrna-16887, nbis-mrna-8978
+OG0012407	nbis-mrna-11819
+OG0012418	
+OG0012419	nbis-mrna-5536
+OG0012420	nbis-mrna-11338
+OG0012421	
+OG0012422	nbis-mrna-6573
+OG0012424	nbis-mrna-10142, nbis-mrna-13829
+OG0012430	
+OG0012439	nbis-mrna-8533
+OG0012442	nbis-mrna-15147
+OG0012445	nbis-mrna-22230
+OG0012447	
+OG0012453	nbis-mrna-16721
+OG0012454	
+OG0012458	nbis-mrna-12200, nbis-mrna-12913, nbis-mrna-12914, nbis-mrna-12915, nbis-mrna-8518
+OG0012460	nbis-mrna-20538, nbis-mrna-20539
+OG0012466	nbis-mrna-11022, nbis-mrna-5081
+OG0012471	nbis-mrna-10424
+OG0012473	nbis-mrna-15652, nbis-mrna-16762, nbis-mrna-20814, nbis-mrna-3793, nbis-mrna-4117, nbis-mrna-9083
+OG0012478	
+OG0012479	nbis-mrna-21867
+OG0012482	
+OG0012483	nbis-mrna-10630, nbis-mrna-14979
+OG0012484	nbis-mrna-22038, nbis-mrna-22039, nbis-mrna-22040
+OG0012490	
+OG0012509	nbis-mrna-14854, nbis-mrna-14855, nbis-mrna-245
+OG0012515	
+OG0012526	
+OG0012527	
+OG0012551	
+OG0012556	
+OG0012570	nbis-mrna-21392, nbis-mrna-21394
+OG0012571	nbis-mrna-16429, nbis-mrna-8476
+OG0012579	nbis-mrna-15390, nbis-mrna-6314, nbis-mrna-6315, nbis-mrna-6316
+OG0012681	nbis-mrna-18032
+OG0012684	nbis-mrna-4958
+OG0012696	nbis-mrna-12488
+OG0012703	nbis-mrna-365
+OG0012713	nbis-mrna-11657
+OG0012716	
+OG0012734	
+OG0012735	
+OG0012738	
+OG0012741	
+OG0012752	nbis-mrna-21143
+OG0012757	nbis-mrna-18185
+OG0012764	
+OG0012767	
+OG0012775	nbis-mrna-17218
+OG0012778	nbis-mrna-10928
+OG0012780	
+OG0012806	
+OG0012808	
+OG0012823	
+OG0012825	nbis-mrna-99
+OG0012830	
+OG0012831	nbis-mrna-8279
+OG0012842	
+OG0012849	
+OG0012850	
+OG0012858	nbis-mrna-17084
+OG0012863	nbis-mrna-14314
+OG0012872	
+OG0012874	nbis-mrna-16290
+OG0012880	
+OG0012881	nbis-mrna-2923
+OG0012883	nbis-mrna-9097, nbis-mrna-9099
+OG0012890	nbis-mrna-14190, nbis-mrna-14193
+OG0012895	nbis-mrna-7762
+OG0012896	
+OG0012906	
+OG0012907	nbis-mrna-13873
+OG0012913	nbis-mrna-19679
+OG0012923	nbis-mrna-18654
+OG0012929	nbis-mrna-9785
+OG0012933	nbis-mrna-10193
+OG0012934	nbis-mrna-9144
+OG0012936	nbis-mrna-4547
+OG0012937	nbis-mrna-9260
+OG0012938	nbis-mrna-5403
+OG0012940	
+OG0012944	nbis-mrna-4428
+OG0012945	nbis-mrna-895
+OG0012947	nbis-mrna-7249
+OG0012952	
+OG0012957	nbis-mrna-14641
+OG0012960	nbis-mrna-11625
+OG0012968	nbis-mrna-11241
+OG0012969	
+OG0012976	nbis-mrna-200, nbis-mrna-3802
+OG0012980	nbis-mrna-12827, nbis-mrna-22581, nbis-mrna-8025
+OG0012982	
+OG0012989	
+OG0012996	nbis-mrna-9109
+OG0013001	nbis-mrna-13449
+OG0013003	nbis-mrna-22002
+OG0013004	
+OG0013009	
+OG0013035	
+OG0013047	
+OG0013063	
+OG0013064	
+OG0013072	nbis-mrna-10143, nbis-mrna-13761, nbis-mrna-17275, nbis-mrna-3747, nbis-mrna-71, nbis-mrna-9723
+OG0013073	
+OG0013079	nbis-mrna-17045, nbis-mrna-17047, nbis-mrna-9429
+OG0013084	nbis-mrna-21785, nbis-mrna-9354
+OG0013086	
+OG0013087	nbis-mrna-8967
+OG0013088	nbis-mrna-970
+OG0013090	nbis-mrna-12219, nbis-mrna-12962, nbis-mrna-17501, nbis-mrna-9446
+OG0013096	
+OG0013213	
+OG0013215	
+OG0013217	
+OG0013232	
+OG0013239	
+OG0013241	nbis-mrna-6326
+OG0013249	nbis-mrna-14471
+OG0013259	
+OG0013268	
+OG0013286	nbis-mrna-12476
+OG0013294	nbis-mrna-10201
+OG0013298	
+OG0013300	
+OG0013302	
+OG0013304	
+OG0013309	nbis-mrna-16867
+OG0013311	
+OG0013318	
+OG0013323	nbis-mrna-12034, nbis-mrna-9575
+OG0013328	nbis-mrna-7001
+OG0013329	nbis-mrna-11252
+OG0013333	
+OG0013336	
+OG0013337	nbis-mrna-5768
+OG0013338	
+OG0013371	
+OG0013380	
+OG0013386	nbis-mrna-1124
+OG0013395	
+OG0013397	
+OG0013399	
+OG0013400	nbis-mrna-13965
+OG0013402	nbis-mrna-9431
+OG0013406	
+OG0013407	
+OG0013410	nbis-mrna-6062
+OG0013411	nbis-mrna-14458
+OG0013412	nbis-mrna-451
+OG0013415	nbis-mrna-9333
+OG0013419	nbis-mrna-5990
+OG0013423	nbis-mrna-13014
+OG0013425	
+OG0013428	
+OG0013430	
+OG0013431	nbis-mrna-1372
+OG0013443	nbis-mrna-6415
+OG0013451	
+OG0013454	
+OG0013456	
+OG0013458	nbis-mrna-2130, nbis-mrna-2131, nbis-mrna-4571, nbis-mrna-4572
+OG0013459	
+OG0013461	nbis-mrna-6959
+OG0013462	
+OG0013463	
+OG0013472	
+OG0013482	nbis-mrna-22048
+OG0013483	nbis-mrna-21796, nbis-mrna-3, nbis-mrna-6914
+OG0013487	nbis-mrna-14474
+OG0013489	nbis-mrna-11788
+OG0013492	nbis-mrna-21529
+OG0013493	
+OG0013505	nbis-mrna-6556
+OG0013511	nbis-mrna-10327
+OG0013514	
+OG0013515	
+OG0013517	nbis-mrna-13194, nbis-mrna-404
+OG0013519	
+OG0013520	nbis-mrna-11536, nbis-mrna-12532
+OG0013525	
+OG0013526	nbis-mrna-13136
+OG0013532	nbis-mrna-2918
+OG0013533	nbis-mrna-13425, nbis-mrna-14383
+OG0013534	
+OG0013535	nbis-mrna-15576
+OG0013536	nbis-mrna-19594
+OG0013537	
+OG0013540	
+OG0013558	nbis-mrna-17973
+OG0013563	
+OG0013564	nbis-mrna-3877
+OG0013567	nbis-mrna-16952
+OG0013570	
+OG0013579	nbis-mrna-20729
+OG0013581	
+OG0013582	
+OG0013592	
+OG0013594	nbis-mrna-9748
+OG0013600	nbis-mrna-9406
+OG0013605	nbis-mrna-10571, nbis-mrna-19544
+OG0013607	
+OG0013610	nbis-mrna-10433, nbis-mrna-3359, nbis-mrna-8495
+OG0013617	
+OG0013618	
+OG0013627	
+OG0013660	nbis-mrna-5279, nbis-mrna-5281, nbis-mrna-8471
+OG0013672	nbis-mrna-20691, nbis-mrna-21644
+OG0013675	
+OG0013685	nbis-mrna-16071, nbis-mrna-22254, nbis-mrna-4640, nbis-mrna-5748, nbis-mrna-9914
+OG0013688	nbis-mrna-13043, nbis-mrna-2703
+OG0013707	
+OG0013712	
+OG0013722	
+OG0013723	nbis-mrna-17966
+OG0013731	nbis-mrna-7773
+OG0013761	nbis-mrna-12576, nbis-mrna-14485, nbis-mrna-17716, nbis-mrna-20299, nbis-mrna-20300, nbis-mrna-20301, nbis-mrna-2480, nbis-mrna-6693, nbis-mrna-9729
+OG0013765	
+OG0013827	
+OG0013889	nbis-mrna-11283
+OG0013901	nbis-mrna-780
+OG0013907	
+OG0013910	nbis-mrna-12222
+OG0013928	
+OG0013930	
+OG0013931	
+OG0013938	
+OG0013940	nbis-mrna-21463
+OG0013962	nbis-mrna-21299
+OG0013963	
+OG0013966	
+OG0013973	nbis-mrna-1010, nbis-mrna-12314, nbis-mrna-14127
+OG0013979	nbis-mrna-9784
+OG0013980	nbis-mrna-7818
+OG0013981	
+OG0013994	
+OG0014000	nbis-mrna-3873, nbis-mrna-6738
+OG0014003	nbis-mrna-17284, nbis-mrna-18585, nbis-mrna-5759
+OG0014012	
+OG0014016	
+OG0014039	
+OG0014041	
+OG0014044	nbis-mrna-15330
+OG0014050	
+OG0014059	
+OG0014062	
+OG0014065	
+OG0014074	
+OG0014075	
+OG0014092	
+OG0014093	
+OG0014097	
+OG0014101	
+OG0014102	
+OG0014104	nbis-mrna-1032, nbis-mrna-11481
+OG0014105	
+OG0014108	
+OG0014109	
+OG0014110	
+OG0014111	
+OG0014112	
+OG0014116	
+OG0014120	
+OG0014122	nbis-mrna-14188
+OG0014132	nbis-mrna-2000
+OG0014150	nbis-mrna-12627
+OG0014153	nbis-mrna-7204
+OG0014157	
+OG0014168	nbis-mrna-2783
+OG0014174	
+OG0014175	nbis-mrna-5885
+OG0014178	nbis-mrna-17446
+OG0014183	nbis-mrna-10307
+OG0014185	nbis-mrna-13421
+OG0014193	nbis-mrna-12929
+OG0014197	
+OG0014204	
+OG0014210	
+OG0014214	nbis-mrna-2189, nbis-mrna-5787
+OG0014215	
+OG0014217	nbis-mrna-6223
+OG0014223	
+OG0014225	nbis-mrna-547, nbis-mrna-8418
+OG0014230	
+OG0014231	
+OG0014232	
+OG0014234	nbis-mrna-4943
+OG0014241	nbis-mrna-14186, nbis-mrna-14187
+OG0014243	nbis-mrna-11855
+OG0014251	
+OG0014252	
+OG0014259	nbis-mrna-7967
+OG0014265	
+OG0014266	
+OG0014268	
+OG0014274	nbis-mrna-9498
+OG0014276	
+OG0014286	nbis-mrna-7537
+OG0014289	nbis-mrna-16316
+OG0014293	nbis-mrna-6367
+OG0014295	
+OG0014306	
+OG0014317	nbis-mrna-5131
+OG0014318	
+OG0014333	nbis-mrna-5203
+OG0014336	nbis-mrna-11083
+OG0014337	
+OG0014341	nbis-mrna-4732
+OG0014368	
+OG0014381	nbis-mrna-15717, nbis-mrna-4909
+OG0014395	
+OG0014398	nbis-mrna-16573
+OG0014399	
+OG0014405	nbis-mrna-9034
+OG0014408	nbis-mrna-2993
+OG0014409	
+OG0014411	
+OG0014417	nbis-mrna-22294
+OG0014423	
+OG0014429	
+OG0014430	
+OG0014447	
+OG0014456	nbis-mrna-1463, nbis-mrna-5271, nbis-mrna-9308
+OG0014473	
+OG0014489	
+OG0014541	
+OG0014666	
+OG0014680	nbis-mrna-22110
+OG0014689	
+OG0014690	
+OG0014696	nbis-mrna-11457
+OG0014700	nbis-mrna-4756
+OG0014717	
+OG0014723	nbis-mrna-18766, nbis-mrna-4768
+OG0014725	
+OG0014727	nbis-mrna-11202
+OG0014731	nbis-mrna-19457
+OG0014738	
+OG0014757	
+OG0014759	nbis-mrna-4124
+OG0014761	nbis-mrna-5701
+OG0014782	nbis-mrna-8238
+OG0014788	nbis-mrna-10043, nbis-mrna-1387
+OG0014794	
+OG0014801	nbis-mrna-21579
+OG0014804	
+OG0014805	
+OG0014806	nbis-mrna-4792
+OG0014808	
+OG0014831	
+OG0014844	
+OG0014855	
+OG0014858	
+OG0014873	nbis-mrna-6378
+OG0014886	
+OG0014898	nbis-mrna-15594, nbis-mrna-880
+OG0014900	
+OG0014903	nbis-mrna-22167
+OG0014906	
+OG0014909	
+OG0014912	
+OG0014921	
+OG0014923	
+OG0014925	
+OG0014927	nbis-mrna-13326
+OG0014934	
+OG0014938	nbis-mrna-15871
+OG0014939	
+OG0014941	nbis-mrna-19441
+OG0014942	
+OG0014968	nbis-mrna-19103
+OG0014975	
+OG0014976	nbis-mrna-22292
+OG0014978	nbis-mrna-22527, nbis-mrna-9439, nbis-mrna-9440
+OG0014982	
+OG0014983	
+OG0014987	
+OG0014989	
+OG0014993	nbis-mrna-4501
+OG0014994	nbis-mrna-20173
+OG0015000	nbis-mrna-9312
+OG0015003	
+OG0015009	nbis-mrna-15292
+OG0015010	nbis-mrna-2077
+OG0015011	nbis-mrna-10496
+OG0015014	nbis-mrna-13555
+OG0015021	nbis-mrna-14224
+OG0015023	
+OG0015026	nbis-mrna-17532
+OG0015031	nbis-mrna-19087
+OG0015033	nbis-mrna-13314
+OG0015038	nbis-mrna-5824
+OG0015040	nbis-mrna-14617
+OG0015043	nbis-mrna-15855
+OG0015047	nbis-mrna-17968, nbis-mrna-8995
+OG0015048	
+OG0015050	
+OG0015052	
+OG0015055	nbis-mrna-16033
+OG0015056	nbis-mrna-13051, nbis-mrna-1650, nbis-mrna-21127, nbis-mrna-9271
+OG0015057	
+OG0015061	
+OG0015066	nbis-mrna-14519
+OG0015067	
+OG0015070	nbis-mrna-5251
+OG0015072	nbis-mrna-6696
+OG0015073	nbis-mrna-5714
+OG0015074	
+OG0015075	nbis-mrna-3217
+OG0015079	nbis-mrna-5021
+OG0015083	nbis-mrna-11036
+OG0015086	nbis-mrna-331
+OG0015088	nbis-mrna-10479
+OG0015090	
+OG0015092	nbis-mrna-14253
+OG0015094	
+OG0015097	nbis-mrna-18620
+OG0015098	nbis-mrna-3203
+OG0015099	nbis-mrna-17942
+OG0015100	nbis-mrna-11872
+OG0015102	nbis-mrna-11358
+OG0015107	
+OG0015109	nbis-mrna-14608
+OG0015112	
+OG0015120	
+OG0015121	
+OG0015125	
+OG0015129	nbis-mrna-16917, nbis-mrna-6501
+OG0015133	
+OG0015136	
+OG0015143	
+OG0015150	
+OG0015153	
+OG0015154	nbis-mrna-14062, nbis-mrna-16371, nbis-mrna-18380, nbis-mrna-19163, nbis-mrna-3501, nbis-mrna-3810, nbis-mrna-7178
+OG0015169	
+OG0015171	nbis-mrna-14530
+OG0015177	
+OG0015183	
+OG0015186	nbis-mrna-13303
+OG0015196	nbis-mrna-11446
+OG0015211	
+OG0015216	
+OG0015222	nbis-mrna-5390
+OG0015229	
+OG0015237	nbis-mrna-12085
+OG0015296	
+OG0015299	
+OG0015300	
+OG0015301	nbis-mrna-8909
+OG0015313	nbis-mrna-4585, nbis-mrna-4588, nbis-mrna-4590
+OG0015319	
+OG0015322	
+OG0015339	
+OG0015351	nbis-mrna-11585
+OG0015353	
+OG0015356	
+OG0015362	
+OG0015364	
+OG0015369	nbis-mrna-11207, nbis-mrna-14461, nbis-mrna-16514, nbis-mrna-303
+OG0015377	nbis-mrna-9234
+OG0015378	nbis-mrna-13001
+OG0015383	nbis-mrna-11753
+OG0015389	
+OG0015395	nbis-mrna-18121, nbis-mrna-18299, nbis-mrna-9088
+OG0015396	nbis-mrna-2443
+OG0015398	
+OG0015400	
+OG0015401	nbis-mrna-13129
+OG0015403	
+OG0015443	
+OG0015510	nbis-mrna-17497, nbis-mrna-9691, nbis-mrna-9692, nbis-mrna-9693, nbis-mrna-9694, nbis-mrna-9695, nbis-mrna-9696, nbis-mrna-9697
+OG0015562	
+OG0015655	nbis-mrna-323
+OG0015679	nbis-mrna-2356
+OG0015681	nbis-mrna-4151
+OG0015691	
+OG0015696	
+OG0015700	
+OG0015721	nbis-mrna-9777
+OG0015726	nbis-mrna-3377
+OG0015727	
+OG0015734	
+OG0015736	
+OG0015747	
+OG0015774	nbis-mrna-19020
+OG0015776	
+OG0015779	
+OG0015789	
+OG0015792	nbis-mrna-4587, nbis-mrna-4591
+OG0015793	nbis-mrna-20880
+OG0015801	nbis-mrna-9233
+OG0015804	
+OG0015809	nbis-mrna-14290
+OG0015815	nbis-mrna-1537
+OG0015833	
+OG0015852	
+OG0015856	
+OG0015857	
+OG0015858	nbis-mrna-3033
+OG0015889	
+OG0015893	
+OG0015910	
+OG0015912	nbis-mrna-18484
+OG0015926	nbis-mrna-2304
+OG0015928	
+OG0015939	nbis-mrna-579
+OG0015941	
+OG0015945	
+OG0015946	
+OG0015947	nbis-mrna-14232, nbis-mrna-9516
+OG0015953	nbis-mrna-4692
+OG0015955	nbis-mrna-3894
+OG0015961	
+OG0015964	
+OG0015968	nbis-mrna-7916
+OG0015972	
+OG0016002	nbis-mrna-1948, nbis-mrna-1950
+OG0016006	
+OG0016007	
+OG0016013	
+OG0016014	
+OG0016016	
+OG0016022	
+OG0016023	nbis-mrna-11668, nbis-mrna-7866
+OG0016033	
+OG0016035	nbis-mrna-2340
+OG0016043	
+OG0016048	
+OG0016049	nbis-mrna-11236
+OG0016052	nbis-mrna-12467
+OG0016055	nbis-mrna-4513
+OG0016057	
+OG0016058	nbis-mrna-20818, nbis-mrna-643
+OG0016061	nbis-mrna-435
+OG0016068	
+OG0016071	nbis-mrna-4116
+OG0016076	nbis-mrna-6379
+OG0016078	nbis-mrna-19001
+OG0016083	
+OG0016085	
+OG0016086	
+OG0016088	
+OG0016092	nbis-mrna-17620
+OG0016094	nbis-mrna-11098
+OG0016096	
+OG0016098	nbis-mrna-8207
+OG0016104	
+OG0016107	nbis-mrna-1850
+OG0016109	nbis-mrna-1778
+OG0016114	nbis-mrna-13468
+OG0016115	
+OG0016118	nbis-mrna-2284
+OG0016123	
+OG0016132	nbis-mrna-2688
+OG0016134	nbis-mrna-18351
+OG0016138	nbis-mrna-14613
+OG0016141	
+OG0016142	nbis-mrna-11499
+OG0016144	
+OG0016146	
+OG0016148	nbis-mrna-2144
+OG0016153	nbis-mrna-20092
+OG0016156	nbis-mrna-15885, nbis-mrna-21682
+OG0016157	
+OG0016159	nbis-mrna-13106
+OG0016160	nbis-mrna-9815
+OG0016161	
+OG0016164	
+OG0016165	nbis-mrna-21977
+OG0016172	
+OG0016174	
+OG0016179	nbis-mrna-1112, nbis-mrna-13432, nbis-mrna-2082, nbis-mrna-2730, nbis-mrna-387, nbis-mrna-7544
+OG0016187	nbis-mrna-2190
+OG0016191	nbis-mrna-14708
+OG0016194	
+OG0016196	
+OG0016198	nbis-mrna-1835
+OG0016204	nbis-mrna-6690
+OG0016209	
+OG0016216	
+OG0016222	nbis-mrna-20694
+OG0016232	nbis-mrna-15896
+OG0016233	nbis-mrna-2610
+OG0016236	nbis-mrna-8402, nbis-mrna-8403
+OG0016241	nbis-mrna-10181
+OG0016243	
+OG0016244	
+OG0016247	
+OG0016248	nbis-mrna-21222
+OG0016249	
+OG0016251	nbis-mrna-15749, nbis-mrna-15750
+OG0016252	nbis-mrna-21341
+OG0016256	
+OG0016263	
+OG0016296	nbis-mrna-144, nbis-mrna-727
+OG0016305	
+OG0016323	
+OG0016324	
+OG0016329	nbis-mrna-21320
+OG0016330	nbis-mrna-3088
+OG0016331	nbis-mrna-3577
+OG0016338	
+OG0016345	
+OG0016351	nbis-mrna-14153
+OG0016382	nbis-mrna-21626
+OG0016388	
+OG0016401	
+OG0016423	
+OG0016444	nbis-mrna-10755, nbis-mrna-15208, nbis-mrna-22568, nbis-mrna-8737
+OG0016445	
+OG0016453	nbis-mrna-5725
+OG0016478	nbis-mrna-13320, nbis-mrna-15511
+OG0016481	nbis-mrna-7309
+OG0016488	nbis-mrna-16447
+OG0016495	
+OG0016499	nbis-mrna-13345, nbis-mrna-19017
+OG0016507	
+OG0016510	
+OG0016517	
+OG0016519	
+OG0016529	
+OG0016576	
+OG0016606	
+OG0016614	
+OG0016622	nbis-mrna-10003, nbis-mrna-11844, nbis-mrna-1347, nbis-mrna-16408, nbis-mrna-20318, nbis-mrna-22412, nbis-mrna-6629
+OG0016637	nbis-mrna-13794, nbis-mrna-5402
+OG0016672	nbis-mrna-21930
+OG0016863	
+OG0016869	
+OG0016888	
+OG0016918	nbis-mrna-10169
+OG0016930	
+OG0016932	
+OG0016939	
+OG0016944	
+OG0016953	
+OG0016956	nbis-mrna-10832
+OG0016967	
+OG0016969	
+OG0016971	
+OG0016973	
+OG0016983	
+OG0016985	
+OG0016993	
+OG0016997	
+OG0016999	
+OG0017010	nbis-mrna-10560, nbis-mrna-11578
+OG0017013	nbis-mrna-146
+OG0017017	
+OG0017021	
+OG0017023	
+OG0017026	
+OG0017029	nbis-mrna-2848
+OG0017030	
+OG0017032	
+OG0017036	nbis-mrna-22363
+OG0017044	
+OG0017045	nbis-mrna-6297
+OG0017053	
+OG0017079	nbis-mrna-18571
+OG0017087	
+OG0017097	
+OG0017136	
+OG0017161	
+OG0017178	
+OG0017180	
+OG0017183	
+OG0017188	nbis-mrna-3842, nbis-mrna-6883, nbis-mrna-8884
+OG0017189	
+OG0017193	nbis-mrna-19844, nbis-mrna-6034
+OG0017196	
+OG0017199	
+OG0017202	
+OG0017208	
+OG0017210	
+OG0017211	nbis-mrna-57
+OG0017212	
+OG0017219	
+OG0017225	
+OG0017231	nbis-mrna-18474
+OG0017232	nbis-mrna-19587, nbis-mrna-20495, nbis-mrna-21918
+OG0017238	
+OG0017243	
+OG0017244	
+OG0017246	nbis-mrna-7323
+OG0017251	
+OG0017252	
+OG0017259	
+OG0017260	nbis-mrna-15537
+OG0017265	
+OG0017266	nbis-mrna-11476, nbis-mrna-6417
+OG0017267	nbis-mrna-14848
+OG0017269	
+OG0017273	nbis-mrna-8132
+OG0017274	nbis-mrna-15496
+OG0017298	
+OG0017323	nbis-mrna-17956
+OG0017328	nbis-mrna-7454, nbis-mrna-7455
+OG0017331	nbis-mrna-8770
+OG0017336	
+OG0017340	
+OG0017341	nbis-mrna-11464
+OG0017347	nbis-mrna-9363
+OG0017351	
+OG0017353	
+OG0017355	
+OG0017359	nbis-mrna-13012
+OG0017360	nbis-mrna-18044
+OG0017367	nbis-mrna-4321
+OG0017370	nbis-mrna-670
+OG0017372	nbis-mrna-21901, nbis-mrna-8945
+OG0017377	nbis-mrna-14003
+OG0017378	
+OG0017380	nbis-mrna-14156
+OG0017383	nbis-mrna-7744
+OG0017385	nbis-mrna-648
+OG0017393	nbis-mrna-15655
+OG0017401	nbis-mrna-5129
+OG0017403	nbis-mrna-12768
+OG0017404	
+OG0017408	
+OG0017410	nbis-mrna-5053
+OG0017411	nbis-mrna-19812
+OG0017414	nbis-mrna-21100
+OG0017418	nbis-mrna-7111
+OG0017419	nbis-mrna-19226
+OG0017423	nbis-mrna-3415
+OG0017424	
+OG0017425	
+OG0017426	
+OG0017427	nbis-mrna-14048
+OG0017429	nbis-mrna-8252
+OG0017431	nbis-mrna-6958
+OG0017433	nbis-mrna-5874
+OG0017436	nbis-mrna-16870
+OG0017437	
+OG0017438	
+OG0017440	
+OG0017442	nbis-mrna-19807
+OG0017443	nbis-mrna-19088
+OG0017452	nbis-mrna-20575
+OG0017453	nbis-mrna-3299
+OG0017454	nbis-mrna-11886
+OG0017460	nbis-mrna-21088
+OG0017461	
+OG0017463	nbis-mrna-17158
+OG0017464	nbis-mrna-394
+OG0017465	nbis-mrna-16614
+OG0017466	
+OG0017467	
+OG0017471	
+OG0017474	
+OG0017475	nbis-mrna-9367
+OG0017477	
+OG0017480	nbis-mrna-15452
+OG0017482	
+OG0017484	
+OG0017486	
+OG0017487	
+OG0017488	
+OG0017493	nbis-mrna-2087
+OG0017498	
+OG0017509	nbis-mrna-10281, nbis-mrna-14025
+OG0017511	
+OG0017514	nbis-mrna-19423
+OG0017516	nbis-mrna-16307
+OG0017524	
+OG0017527	
+OG0017530	
+OG0017531	nbis-mrna-7363
+OG0017534	
+OG0017539	
+OG0017542	nbis-mrna-11339
+OG0017545	
+OG0017546	nbis-mrna-17028
+OG0017548	nbis-mrna-3067
+OG0017551	
+OG0017564	nbis-mrna-20703
+OG0017584	nbis-mrna-13635
+OG0017590	
+OG0017591	nbis-mrna-14632
+OG0017595	nbis-mrna-5296
+OG0017604	
+OG0017618	nbis-mrna-14255
+OG0017622	
+OG0017624	
+OG0017629	nbis-mrna-487
+OG0017630	
+OG0017635	nbis-mrna-12217, nbis-mrna-18582, nbis-mrna-4795, nbis-mrna-4800, nbis-mrna-8266
+OG0017644	
+OG0017660	
+OG0017667	nbis-mrna-14049
+OG0017668	
+OG0017669	
+OG0017670	nbis-mrna-11489
+OG0017672	nbis-mrna-16663
+OG0017683	
+OG0017692	
+OG0017694	nbis-mrna-262, nbis-mrna-3965, nbis-mrna-628, nbis-mrna-9661
+OG0017698	nbis-mrna-21903
+OG0017709	
+OG0017718	
+OG0017731	
+OG0017735	
+OG0017744	
+OG0017765	nbis-mrna-18882
+OG0017771	nbis-mrna-4493
+OG0017778	nbis-mrna-8699
+OG0017784	
+OG0017837	
+OG0017846	
+OG0017849	
+OG0017865	
+OG0017885	
+OG0017886	nbis-mrna-13535
+OG0017891	
+OG0017902	
+OG0017904	
+OG0017911	
+OG0017912	
+OG0017923	nbis-mrna-15575
+OG0017926	
+OG0017929	nbis-mrna-13760
+OG0017930	
+OG0017955	
+OG0017956	
+OG0017958	nbis-mrna-13011
+OG0017964	nbis-mrna-20398, nbis-mrna-2850
+OG0017970	
+OG0017993	nbis-mrna-3542
+OG0018006	
+OG0018014	
+OG0018016	
+OG0018017	nbis-mrna-18842
+OG0018018	
+OG0018020	nbis-mrna-21653
+OG0018025	
+OG0018034	nbis-mrna-10282, nbis-mrna-16067, nbis-mrna-22092, nbis-mrna-4639, nbis-mrna-4643
+OG0018069	
+OG0018152	
+OG0018197	
+OG0018227	
+OG0018228	
+OG0018322	nbis-mrna-13201, nbis-mrna-15151, nbis-mrna-21702, nbis-mrna-4098, nbis-mrna-5293, nbis-mrna-9151
+OG0018545	
+OG0018549	
+OG0018554	nbis-mrna-8010
+OG0018559	
+OG0018562	
+OG0018580	
+OG0018588	
+OG0018591	
+OG0018606	
+OG0018614	
+OG0018626	
+OG0018654	nbis-mrna-14720, nbis-mrna-5049
+OG0018659	
+OG0018662	nbis-mrna-20722
+OG0018664	
+OG0018668	
+OG0018681	nbis-mrna-8902
+OG0018691	
+OG0018707	nbis-mrna-1275
+OG0018710	nbis-mrna-10251, nbis-mrna-21155, nbis-mrna-6614
+OG0018719	nbis-mrna-17367
+OG0018722	nbis-mrna-2488
+OG0018730	nbis-mrna-18909
+OG0018752	nbis-mrna-2386
+OG0018753	
+OG0018757	
+OG0018759	
+OG0018760	
+OG0018761	
+OG0018765	
+OG0018770	
+OG0018775	
+OG0018777	
+OG0018783	
+OG0018787	
+OG0018789	
+OG0018790	
+OG0018816	
+OG0018826	
+OG0018868	
+OG0018884	
+OG0018902	
+OG0018946	
+OG0018965	nbis-mrna-4492
+OG0018968	nbis-mrna-15886, nbis-mrna-18256, nbis-mrna-5138, nbis-mrna-7902, nbis-mrna-8474
+OG0018971	nbis-mrna-22321
+OG0018985	
+OG0018996	
+OG0019006	
+OG0019009	nbis-mrna-16011, nbis-mrna-16966
+OG0019019	
+OG0019061	nbis-mrna-5393, nbis-mrna-6759
+OG0019103	
+OG0019108	
+OG0019160	
+OG0019165	nbis-mrna-21281
+OG0019166	
+OG0019171	
+OG0019174	nbis-mrna-11360, nbis-mrna-12297
+OG0019175	
+OG0019178	
+OG0019179	nbis-mrna-20242
+OG0019183	nbis-mrna-617
+OG0019185	nbis-mrna-3363
+OG0019187	nbis-mrna-4999
+OG0019191	nbis-mrna-2233
+OG0019194	nbis-mrna-16089
+OG0019196	
+OG0019199	
+OG0019201	
+OG0019205	
+OG0019209	nbis-mrna-8688
+OG0019210	nbis-mrna-4109
+OG0019211	
+OG0019213	
+OG0019215	
+OG0019217	nbis-mrna-19215
+OG0019221	nbis-mrna-11980
+OG0019229	nbis-mrna-20308
+OG0019230	
+OG0019231	nbis-mrna-11485
+OG0019233	
+OG0019234	
+OG0019243	nbis-mrna-11871
+OG0019245	
+OG0019247	nbis-mrna-20838
+OG0019255	
+OG0019257	
+OG0019258	nbis-mrna-11169
+OG0019259	
+OG0019262	nbis-mrna-12510
+OG0019264	nbis-mrna-9003
+OG0019266	
+OG0019270	
+OG0019275	
+OG0019277	nbis-mrna-9727, nbis-mrna-9728
+OG0019279	
+OG0019280	nbis-mrna-14212
+OG0019281	nbis-mrna-2847
+OG0019282	
+OG0019284	nbis-mrna-17492, nbis-mrna-21820
+OG0019289	nbis-mrna-20071
+OG0019291	nbis-mrna-8437
+OG0019297	nbis-mrna-5430
+OG0019303	nbis-mrna-7862
+OG0019306	nbis-mrna-975
+OG0019307	
+OG0019309	
+OG0019312	nbis-mrna-13933, nbis-mrna-13934
+OG0019313	nbis-mrna-19350
+OG0019314	
+OG0019315	
+OG0019317	nbis-mrna-2022
+OG0019319	
+OG0019320	nbis-mrna-3277
+OG0019325	nbis-mrna-5193
+OG0019326	
+OG0019329	nbis-mrna-139
+OG0019330	nbis-mrna-6676
+OG0019331	nbis-mrna-6139
+OG0019333	
+OG0019334	
+OG0019336	nbis-mrna-9598
+OG0019337	nbis-mrna-14674
+OG0019338	
+OG0019342	nbis-mrna-18048
+OG0019343	nbis-mrna-10809
+OG0019344	
+OG0019345	nbis-mrna-18658
+OG0019349	
+OG0019356	
+OG0019358	nbis-mrna-7447
+OG0019361	nbis-mrna-17885, nbis-mrna-17886
+OG0019362	
+OG0019363	nbis-mrna-232
+OG0019369	nbis-mrna-17976
+OG0019375	
+OG0019377	
+OG0019378	
+OG0019379	nbis-mrna-11891
+OG0019384	
+OG0019389	
+OG0019393	
+OG0019401	
+OG0019402	
+OG0019403	nbis-mrna-20027, nbis-mrna-22495
+OG0019405	nbis-mrna-5496
+OG0019406	
+OG0019415	
+OG0019421	
+OG0019429	nbis-mrna-22215
+OG0019430	
+OG0019435	nbis-mrna-14619
+OG0019437	
+OG0019441	
+OG0019442	nbis-mrna-518
+OG0019444	nbis-mrna-16822
+OG0019447	nbis-mrna-5654
+OG0019457	
+OG0019461	
+OG0019469	nbis-mrna-19680
+OG0019477	nbis-mrna-3372
+OG0019479	
+OG0019482	
+OG0019486	
+OG0019493	
+OG0019495	nbis-mrna-8137
+OG0019497	
+OG0019499	nbis-mrna-7329
+OG0019502	nbis-mrna-13077
+OG0019503	nbis-mrna-9616
+OG0019510	nbis-mrna-9684
+OG0019512	
+OG0019517	
+OG0019522	
+OG0019523	
+OG0019524	nbis-mrna-2895
+OG0019525	
+OG0019527	
+OG0019530	
+OG0019535	
+OG0019539	nbis-mrna-18982, nbis-mrna-19740
+OG0019554	
+OG0019557	
+OG0019558	
+OG0019561	
+OG0019575	
+OG0019579	
+OG0019580	
+OG0019614	
+OG0019617	
+OG0019692	
+OG0019714	nbis-mrna-10706, nbis-mrna-10707, nbis-mrna-20194, nbis-mrna-3752
+OG0019722	
+OG0019723	nbis-mrna-8429
+OG0019724	nbis-mrna-22145
+OG0019728	nbis-mrna-21287
+OG0019731	
+OG0019732	
+OG0019810	
+OG0019836	
+OG0019848	nbis-mrna-9825
+OG0019851	nbis-mrna-19715
+OG0019859	
+OG0019877	nbis-mrna-15280, nbis-mrna-16990
+OG0019905	
+OG0019909	
+OG0019917	nbis-mrna-8558
+OG0019919	
+OG0019922	
+OG0019923	
+OG0019928	
+OG0019937	nbis-mrna-8604
+OG0019947	
+OG0019962	nbis-mrna-11061
+OG0019969	
+OG0019970	
+OG0019977	nbis-mrna-19684
+OG0019984	
+OG0019986	nbis-mrna-17963
+OG0019992	nbis-mrna-19888
+OG0019994	
+OG0020000	nbis-mrna-11206
+OG0020025	
+OG0020026	nbis-mrna-16110
+OG0020030	nbis-mrna-11096
+OG0020033	
+OG0020043	
+OG0020071	
+OG0020085	
+OG0020101	
+OG0020102	nbis-mrna-7507
+OG0020105	nbis-mrna-1482
+OG0020107	
+OG0020120	nbis-mrna-15499
+OG0020123	
+OG0020134	
+OG0020139	nbis-mrna-20045
+OG0020145	
+OG0020148	
+OG0020152	nbis-mrna-11786
+OG0020265	
+OG0020298	nbis-mrna-2269
+OG0020346	
+OG0020359	
+OG0020374	
+OG0020376	
+OG0020384	
+OG0020392	
+OG0020395	
+OG0020398	
+OG0020418	
+OG0020585	
+OG0020866	
+OG0020907	
+OG0020909	nbis-mrna-2107
+OG0020916	
+OG0020924	
+OG0020926	
+OG0020927	
+OG0020962	
+OG0020978	
+OG0020985	
+OG0020986	
+OG0020989	
+OG0020992	
+OG0020995	
+OG0021022	
+OG0021030	nbis-mrna-13694
+OG0021034	
+OG0021062	
+OG0021069	
+OG0021072	
+OG0021075	
+OG0021079	nbis-mrna-1274, nbis-mrna-15966
+OG0021090	
+OG0021096	
+OG0021102	
+OG0021116	nbis-mrna-10364
+OG0021117	
+OG0021134	
+OG0021161	
+OG0021163	
+OG0021165	nbis-mrna-12019
+OG0021166	nbis-mrna-479
+OG0021168	nbis-mrna-15903, nbis-mrna-18425, nbis-mrna-7029, nbis-mrna-7030
+OG0021169	nbis-mrna-3383
+OG0021172	nbis-mrna-2830
+OG0021174	
+OG0021177	
+OG0021193	nbis-mrna-379
+OG0021197	
+OG0021212	
+OG0021223	
+OG0021277	
+OG0021278	
+OG0021300	nbis-mrna-1246
+OG0021331	
+OG0021338	
+OG0021347	
+OG0021379	
+OG0021382	
+OG0021394	
+OG0021420	
+OG0021429	
+OG0021443	nbis-mrna-20591
+OG0021444	nbis-mrna-18573
+OG0021445	nbis-mrna-19477
+OG0021470	nbis-mrna-14391
+OG0021471	
+OG0021485	
+OG0021491	
+OG0021494	nbis-mrna-517
+OG0021505	
+OG0021510	
+OG0021512	nbis-mrna-3845
+OG0021516	nbis-mrna-12980, nbis-mrna-19036
+OG0021550	
+OG0021554	
+OG0021558	
+OG0021559	
+OG0021563	
+OG0021573	
+OG0021576	
+OG0021600	
+OG0021610	
+OG0021627	nbis-mrna-10400
+OG0021640	
+OG0021660	
+OG0021670	
+OG0021673	
+OG0021678	nbis-mrna-19040
+OG0021684	nbis-mrna-18606
+OG0021686	nbis-mrna-15102
+OG0021699	nbis-mrna-15860, nbis-mrna-20282, nbis-mrna-6568
+OG0021700	
+OG0021703	nbis-mrna-476
+OG0021709	
+OG0021711	
+OG0021713	nbis-mrna-1144
+OG0021718	nbis-mrna-4230
+OG0021721	
+OG0021723	
+OG0021725	
+OG0021728	
+OG0021729	
+OG0021739	
+OG0021740	
+OG0021744	nbis-mrna-10853
+OG0021745	
+OG0021753	nbis-mrna-9983
+OG0021769	
+OG0021771	
+OG0021774	
+OG0021776	
+OG0021785	
+OG0021787	nbis-mrna-1781
+OG0021795	nbis-mrna-9604
+OG0021798	nbis-mrna-20577
+OG0021799	
+OG0021801	nbis-mrna-19695
+OG0021805	nbis-mrna-2128, nbis-mrna-4269
+OG0021809	nbis-mrna-17970
+OG0021811	
+OG0021814	
+OG0021819	nbis-mrna-1137
+OG0021821	nbis-mrna-8672
+OG0021824	nbis-mrna-18284
+OG0021827	nbis-mrna-7340
+OG0021830	
+OG0021841	nbis-mrna-11010, nbis-mrna-16412
+OG0021842	
+OG0021844	nbis-mrna-19225
+OG0021846	nbis-mrna-5795
+OG0021850	
+OG0021852	nbis-mrna-9355
+OG0021858	
+OG0021859	
+OG0021866	nbis-mrna-17598
+OG0021870	nbis-mrna-17816
+OG0021873	
+OG0021876	nbis-mrna-18325
+OG0021880	
+OG0021881	nbis-mrna-13913
+OG0021885	nbis-mrna-13341
+OG0021888	nbis-mrna-3151
+OG0021890	
+OG0021891	
+OG0021895	
+OG0021900	nbis-mrna-3758
+OG0021901	nbis-mrna-4691
+OG0021907	nbis-mrna-14995
+OG0021909	
+OG0021911	
+OG0021916	
+OG0021917	nbis-mrna-11554
+OG0021921	nbis-mrna-1597
+OG0021922	
+OG0021925	
+OG0021929	nbis-mrna-4790
+OG0021934	nbis-mrna-14723
+OG0021943	nbis-mrna-6500
+OG0021945	
+OG0021950	
+OG0021952	
+OG0021953	
+OG0021957	
+OG0021959	
+OG0021960	
+OG0021985	
+OG0021986	
+OG0021992	
+OG0021998	nbis-mrna-4140
+OG0022001	nbis-mrna-20998
+OG0022003	
+OG0022007	nbis-mrna-9104
+OG0022011	nbis-mrna-16560
+OG0022016	nbis-mrna-6115
+OG0022018	
+OG0022019	
+OG0022027	
+OG0022031	nbis-mrna-17228
+OG0022037	nbis-mrna-9100
+OG0022041	nbis-mrna-11306
+OG0022043	
+OG0022044	
+OG0022045	nbis-mrna-11949
+OG0022046	nbis-mrna-15056
+OG0022047	
+OG0022055	nbis-mrna-21806
+OG0022060	
+OG0022061	nbis-mrna-5669
+OG0022078	nbis-mrna-14096, nbis-mrna-17808
+OG0022080	nbis-mrna-14074
+OG0022098	
+OG0022102	nbis-mrna-21457
+OG0022104	nbis-mrna-4502, nbis-mrna-6409
+OG0022107	nbis-mrna-5505, nbis-mrna-5643
+OG0022108	
+OG0022117	nbis-mrna-17229
+OG0022120	nbis-mrna-16667
+OG0022125	
+OG0022132	
+OG0022136	nbis-mrna-19161
+OG0022139	nbis-mrna-4983
+OG0022155	nbis-mrna-20199, nbis-mrna-6882
+OG0022161	
+OG0022168	
+OG0022169	
+OG0022177	nbis-mrna-12645
+OG0022179	
+OG0022187	
+OG0022190	nbis-mrna-15183, nbis-mrna-17062
+OG0022194	
+OG0022195	
+OG0022196	nbis-mrna-9451, nbis-mrna-9456
+OG0022197	
+OG0022202	nbis-mrna-1230
+OG0022204	
+OG0022212	nbis-mrna-15274
+OG0022218	
+OG0022220	
+OG0022256	
+OG0022289	
+OG0022343	
+OG0022360	
+OG0022368	
+OG0022374	nbis-mrna-42
+OG0022380	nbis-mrna-681
+OG0022397	
+OG0022399	
+OG0022400	nbis-mrna-3648
+OG0022402	nbis-mrna-12918
+OG0022408	nbis-mrna-5372
+OG0022415	
+OG0022416	
+OG0022425	nbis-mrna-13469
+OG0022426	
+OG0022477	
+OG0022493	
+OG0022510	nbis-mrna-1370
+OG0022512	nbis-mrna-20721
+OG0022551	
+OG0022570	nbis-mrna-6450
+OG0022595	
+OG0022611	nbis-mrna-22075
+OG0022613	
+OG0022631	
+OG0022645	
+OG0022646	nbis-mrna-14874
+OG0022658	
+OG0022662	nbis-mrna-6393
+OG0022667	
+OG0022695	
+OG0022698	
+OG0022702	nbis-mrna-10664
+OG0022713	
+OG0022716	
+OG0022744	nbis-mrna-8804
+OG0022761	
+OG0022769	nbis-mrna-20576
+OG0022774	nbis-mrna-8066
+OG0022776	
+OG0022778	nbis-mrna-11818
+OG0022806	nbis-mrna-2972
+OG0022811	
+OG0022813	
+OG0022815	nbis-mrna-3686
+OG0022817	nbis-mrna-19391, nbis-mrna-5743
+OG0022823	
+OG0022834	
+OG0022841	nbis-mrna-7765
+OG0022843	
+OG0022852	
+OG0022863	nbis-mrna-13931
+OG0022866	
+OG0022868	
+OG0022869	
+OG0022877	
+OG0022882	nbis-mrna-8019
+OG0022896	
+OG0022899	nbis-mrna-13024
+OG0022901	
+OG0022902	nbis-mrna-5892
+OG0022907	nbis-mrna-7362
+OG0022922	
+OG0022925	nbis-mrna-12279
+OG0022938	nbis-mrna-14357
+OG0022964	
+OG0022965	nbis-mrna-18566
+OG0022976	nbis-mrna-13349
+OG0022984	
+OG0022988	nbis-mrna-13035
+OG0022997	
+OG0023002	
+OG0023003	
+OG0023008	nbis-mrna-17425
+OG0023017	
+OG0023028	
+OG0023051	
+OG0023066	
+OG0023083	nbis-mrna-19007
+OG0023088	
+OG0023094	
+OG0023096	
+OG0023104	
+OG0023105	
+OG0023113	
+OG0023115	nbis-mrna-7758
+OG0023128	
+OG0023130	nbis-mrna-11856
+OG0023249	
+OG0023366	
+OG0023385	nbis-mrna-7858
+OG0023414	
+OG0023417	nbis-mrna-18641, nbis-mrna-19728
+OG0023461	
+OG0023484	nbis-mrna-12325
+OG0023545	
+OG0023569	nbis-mrna-12421, nbis-mrna-2482
+OG0023575	
+OG0023760	nbis-mrna-1188
+OG0023820	
+OG0024218	
+OG0024229	
+OG0024280	
+OG0024310	
+OG0024313	nbis-mrna-1419
+OG0024336	
+OG0024358	
+OG0024387	
+OG0024390	
+OG0024414	
+OG0024445	
+OG0024480	
+OG0024488	
+OG0024497	
+OG0024518	nbis-mrna-18260
+OG0024529	
+OG0024550	
+OG0024554	
+OG0024581	nbis-mrna-5003
+OG0024590	
+OG0024600	
+OG0024606	nbis-mrna-9836
+OG0024608	
+OG0024609	
+OG0024610	
+OG0024613	
+OG0024614	
+OG0024641	
+OG0024692	
+OG0024713	nbis-mrna-11123
+OG0024738	nbis-mrna-3275
+OG0024758	nbis-mrna-12437
+OG0024762	
+OG0024784	
+OG0024809	
+OG0024848	
+OG0024874	
+OG0024886	
+OG0024894	
+OG0024911	
+OG0024922	nbis-mrna-2634
+OG0024943	
+OG0024961	
+OG0024982	
+OG0024988	
+OG0024999	
+OG0025024	
+OG0025040	
+OG0025064	
+OG0025076	
+OG0025082	
+OG0025099	
+OG0025106	nbis-mrna-14081
+OG0025107	
+OG0025113	
+OG0025114	
+OG0025259	
+OG0025260	
+OG0025288	
+OG0025300	
+OG0025316	nbis-mrna-13293
+OG0025322	
+OG0025328	
+OG0025329	nbis-mrna-7400
+OG0025342	
+OG0025353	nbis-mrna-21495
+OG0025374	nbis-mrna-15017
+OG0025376	
+OG0025394	
+OG0025402	nbis-mrna-10637
+OG0025404	
+OG0025413	
+OG0025418	
+OG0025429	
+OG0025433	
+OG0025436	
+OG0025440	
+OG0025454	
+OG0025461	
+OG0025468	
+OG0025483	
+OG0025486	
+OG0025487	
+OG0025493	
+OG0025497	
+OG0025505	
+OG0025521	
+OG0025535	
+OG0025539	
+OG0025544	
+OG0025547	
+OG0025550	
+OG0025567	
+OG0025568	
+OG0025571	
+OG0025573	
+OG0025575	
+OG0025577	
+OG0025580	
+OG0025583	
+OG0025596	
+OG0025597	
+OG0025606	
+OG0025611	
+OG0025613	
+OG0025614	nbis-mrna-20244
+OG0025615	
+OG0025620	
+OG0025622	
+OG0025623	
+OG0025627	
+OG0025628	
+OG0025636	
+OG0025646	nbis-mrna-11529, nbis-mrna-13484
+OG0025653	
+OG0025655	
+OG0025656	
+OG0025658	nbis-mrna-15149, nbis-mrna-16766, nbis-mrna-19780
+OG0025659	
+OG0025661	nbis-mrna-3156, nbis-mrna-4521
+OG0025664	nbis-mrna-19564
+OG0025665	
+OG0025666	
+OG0025667	
+OG0025678	
+OG0025689	
+OG0025700	
+OG0025709	
+OG0025722	
+OG0025730	
+OG0025746	
+OG0025756	
+OG0025757	
+OG0025759	
+OG0025767	
+OG0025777	
+OG0025782	
+OG0025786	
+OG0025789	
+OG0025805	
+OG0025820	
+OG0025824	
+OG0025829	
+OG0025831	
+OG0025839	
+OG0025841	
+OG0025848	
+OG0025852	
+OG0025854	
+OG0025859	nbis-mrna-11674
+OG0025863	
+OG0025876	
+OG0025885	
+OG0025898	
+OG0025900	
+OG0025905	
+OG0025915	
+OG0025918	
+OG0025939	
+OG0025940	
+OG0025942	
+OG0025960	nbis-mrna-514
+OG0025964	
+OG0025977	
+OG0025993	
+OG0026000	nbis-mrna-16815
+OG0026027	nbis-mrna-13115
+OG0026035	
+OG0026139	
+OG0026194	
+OG0026196	
+OG0026219	
+OG0026248	nbis-mrna-11947
+OG0026250	
+OG0026268	
+OG0026288	
+OG0026296	
+OG0026323	nbis-mrna-19424
+OG0026325	
+OG0026327	
+OG0026328	
+OG0026332	nbis-mrna-22112, nbis-mrna-22114
+OG0026470	nbis-mrna-21144, nbis-mrna-3044
+OG0026479	nbis-mrna-10160
+OG0026496	
+OG0026497	
+OG0026533	
+OG0026536	
+OG0026546	
+OG0026574	nbis-mrna-9084
+OG0026595	
+OG0026661	
+OG0026684	
+OG0026686	
+OG0026700	
+OG0026702	nbis-mrna-15877, nbis-mrna-7977
+OG0026710	
+OG0026729	nbis-mrna-13135, nbis-mrna-7112
+OG0026742	
+OG0026762	
+OG0026766	
+OG0026767	
+OG0026769	
+OG0026778	nbis-mrna-12556
+OG0026780	
+OG0026789	
+OG0026792	
+OG0026803	
+OG0026808	
+OG0026809	
+OG0026811	
+OG0026815	
+OG0026822	
+OG0026829	
+OG0026857	
+OG0026860	
+OG0026872	
+OG0026879	
+OG0026883	
+OG0026904	nbis-mrna-14268
+OG0026907	
+OG0026908	
+OG0026945	
+OG0026978	
+OG0026987	nbis-mrna-17766
+OG0027009	
+OG0027018	
+OG0027022	
+OG0027038	
+OG0027065	
+OG0027076	
+OG0027082	
+OG0027084	
+OG0027088	
+OG0027118	
+OG0027119	nbis-mrna-12446
+OG0027131	
+OG0027158	
+OG0027167	
+OG0027176	
+OG0027179	
+OG0027193	
+OG0027194	
+OG0027212	
+OG0027220	
+OG0027222	nbis-mrna-19210
+OG0027228	nbis-mrna-10939
+OG0027241	
+OG0027264	
+OG0027277	
+OG0027279	
+OG0027282	
+OG0027289	
+OG0027331	
+OG0027333	
+OG0027352	
+OG0027355	
+OG0027357	
+OG0027382	
+OG0027387	
+OG0027393	nbis-mrna-3186
+OG0027408	
+OG0027412	
+OG0027414	
+OG0027438	
+OG0027441	
+OG0027450	
+OG0027457	
+OG0027463	
+OG0027474	
+OG0027488	
+OG0027489	
+OG0027493	
+OG0027494	
+OG0027595	
+OG0027610	
+OG0027721	
+OG0027894	
+OG0027942	
+OG0028013	
+OG0028030	
+OG0028113	nbis-mrna-11434, nbis-mrna-19979
+OG0028116	
+OG0028135	
+OG0028141	
+OG0028196	
+OG0028208	
+OG0028219	
+OG0028240	nbis-mrna-10911
+OG0028543	nbis-mrna-8134
+OG0028586	nbis-mrna-17006, nbis-mrna-20440, nbis-mrna-6465
+OG0029393	nbis-mrna-10760
+OG0029421	
+OG0029454	
+OG0029492	
+OG0029510	nbis-mrna-13399
+OG0029520	
+OG0029542	nbis-mrna-18743
+OG0029556	
+OG0029572	
+OG0029589	
+OG0029591	
+OG0029620	nbis-mrna-18446
+OG0029664	
+OG0029688	
+OG0029691	
+OG0029692	nbis-mrna-5461
+OG0029723	nbis-mrna-5979
+OG0029747	
+OG0029751	
+OG0029779	
+OG0029801	
+OG0029817	
+OG0029875	
+OG0029879	nbis-mrna-4
+OG0029897	nbis-mrna-2989
+OG0029917	
+OG0029932	nbis-mrna-13252, nbis-mrna-20366
+OG0029939	
+OG0029943	nbis-mrna-10692
+OG0029949	
+OG0029958	
+OG0029961	
+OG0029973	nbis-mrna-18983
+OG0030042	
+OG0030110	
+OG0030138	nbis-mrna-20148
+OG0030163	
+OG0030286	nbis-mrna-3843
+OG0030298	
+OG0030331	
+OG0030352	
+OG0030354	
+OG0030374	
+OG0030451	nbis-mrna-9338
+OG0030470	nbis-mrna-4197
+OG0030516	
+OG0030547	
+OG0030604	
+OG0030609	
+OG0030631	nbis-mrna-1774
+OG0030742	
+OG0030750	
+OG0030814	
+OG0030839	
+OG0030873	
+OG0030908	nbis-mrna-17534
+OG0030971	
+OG0030972	nbis-mrna-16500, nbis-mrna-3928
+OG0030983	nbis-mrna-17913
+OG0031010	
+OG0031017	
+OG0031056	
+OG0031060	
+OG0031069	
+OG0031075	
+OG0031096	
+OG0031098	
+OG0031143	
+OG0031184	
+OG0031195	
+OG0031233	
+OG0031235	
+OG0031238	
+OG0031245	
+OG0031258	
+OG0031263	
+OG0031267	
+OG0031275	
+OG0031310	nbis-mrna-21861
+OG0031328	
+OG0031332	
+OG0031337	
+OG0031344	
+OG0031346	
+OG0031356	
+OG0031358	
+OG0031365	
+OG0031369	
+OG0031371	
+OG0031378	
+OG0031403	
+OG0031433	
+OG0031434	
+OG0031436	
+OG0031437	nbis-mrna-21002
+OG0031438	
+OG0031440	
+OG0031457	
+OG0031460	
+OG0031466	
+OG0031481	
+OG0031510	
+OG0031529	
+OG0031577	
+OG0031600	
+OG0031611	
+OG0031634	
+OG0031648	
+OG0031737	nbis-mrna-6396
+OG0031765	
+OG0031795	
+OG0031797	
+OG0031820	
+OG0031849	
+OG0031867	
+OG0031875	nbis-mrna-8136
+OG0031878	
+OG0031893	
+OG0031899	
+OG0031902	
+OG0031916	
+OG0031942	
+OG0031959	nbis-mrna-11799
+OG0031964	
+OG0031967	
+OG0031974	
+OG0031978	
+OG0031985	
+OG0031988	nbis-mrna-12452
+OG0031992	
+OG0031996	
+OG0031999	nbis-mrna-2799
+OG0032011	
+OG0032018	
+OG0032027	
+OG0032038	
+OG0032062	
+OG0032067	
+OG0032079	
+OG0032092	
+OG0032116	
+OG0032173	
+OG0032190	
+OG0032331	
+OG0032377	
+OG0032403	
+OG0032433	
+OG0032466	
+OG0032467	
+OG0032476	
+OG0032498	
+OG0032510	
+OG0032541	
+OG0032561	nbis-mrna-21759
+OG0032796	
+OG0032876	nbis-mrna-19447
+OG0032896	
+OG0032899	
+OG0032901	
+OG0032913	nbis-mrna-56
+OG0032929	
+OG0033094	
+OG0033118	
+OG0033183	
+OG0033192	
+OG0033211	
+OG0033255	
+OG0033265	
+OG0033295	
+OG0033315	
+OG0033345	
+OG0033348	
+OG0033363	nbis-mrna-9054
+OG0033383	
+OG0033384	
+OG0033404	
+OG0033412	
+OG0033439	
+OG0033446	
+OG0033449	
+OG0033524	
+OG0033557	
+OG0033567	
+OG0033649	
+OG0033699	
+OG0033717	
+OG0033734	
+OG0033781	
+OG0033803	
+OG0033813	
+OG0033832	
+OG0033849	
+OG0033865	
+OG0033870	
+OG0033881	
+OG0033882	
+OG0033914	
+OG0033951	
+OG0034002	
+OG0034010	
+OG0034050	nbis-mrna-22443
+OG0034053	
+OG0034076	
+OG0034081	nbis-mrna-19762
+OG0034091	
+OG0034107	
+OG0034112	
+OG0034125	
+OG0034130	
+OG0034131	
+OG0034145	
+OG0034146	
+OG0034151	
+OG0034163	
+OG0034186	
+OG0034188	
+OG0034215	
+OG0034248	
+OG0034251	
+OG0034261	
+OG0034270	
+OG0034275	
+OG0034284	
+OG0034314	
+OG0034315	
+OG0034329	
+OG0034340	
+OG0034347	
+OG0034385	
+OG0034394	
+OG0034400	
+OG0034402	
+OG0034416	
+OG0034570	nbis-mrna-16289
+OG0034606	nbis-mrna-3332
+OG0034821	nbis-mrna-541, nbis-mrna-6688
+OG0034883	
+OG0034945	
+OG0035261	
+OG0035302	
+OG0035344	
+OG0035364	
+OG0035500	
+OG0035553	
+OG0035554	
+OG0035571	nbis-mrna-12064
+OG0035577	
+OG0035584	
+OG0035699	
+OG0035750	
+OG0035808	
+OG0036399	nbis-mrna-11579, nbis-mrna-5515
+OG0037905	
+OG0037931	
+OG0038074	
+OG0038116	
+OG0038138	
+OG0038185	
+OG0038204	
+OG0038225	
+OG0038252	
+OG0038295	
+OG0038363	
+OG0038391	
+OG0038402	nbis-mrna-4511
+OG0038703	nbis-mrna-22602
+OG0038706	
+OG0038711	
+OG0038744	
+OG0038756	
+OG0038766	
+OG0038771	
+OG0038778	nbis-mrna-15150
+OG0038784	
+OG0038790	
+OG0038794	
+OG0039041	
+OG0039141	
+OG0039190	nbis-mrna-18146
+OG0039204	
+OG0039281	
+OG0039322	
+OG0039360	
+OG0039439	
+OG0039481	
+OG0039497	nbis-mrna-6098
+OG0039615	nbis-mrna-13470
+OG0039631	
+OG0039729	
+OG0039766	
+OG0040103	
+OG0040192	
+OG0040262	
+OG0040281	
+OG0040327	
+OG0040348	
+OG0040363	
+OG0040405	
+OG0040435	
+OG0040441	
+OG0040559	
+OG0040579	
+OG0040650	
+OG0040689	
+OG0040690	nbis-mrna-14
+OG0040806	
+OG0040814	
+OG0040828	
+OG0040841	
+OG0040853	
+OG0040865	
+OG0040897	
+OG0040999	
+OG0041058	nbis-mrna-5117
+OG0041063	
+OG0041075	
+OG0041082	nbis-mrna-19425
+OG0041086	
+OG0041127	
+OG0041152	
+OG0041163	
+OG0041170	
+OG0041173	
+OG0041245	
+OG0041373	
+OG0041462	
+OG0041506	
+OG0041545	nbis-mrna-21524
+OG0041759	nbis-mrna-8060
+OG0041870	
+OG0041973	
+OG0042008	
+OG0042012	
+OG0042017	nbis-mrna-1925
+OG0042019	
+OG0042072	
+OG0042082	
+OG0042084	
+OG0042131	
+OG0042157	nbis-mrna-10045
+OG0042201	
+OG0042215	
+OG0042250	
+OG0042267	
+OG0042321	
+OG0042527	
+OG0042974	
+OG0043096	
+OG0043145	
+OG0043155	
+OG0043213	
+OG0043214	
+OG0043226	
+OG0043263	
+OG0043271	
+OG0043272	
+OG0043280	
+OG0043310	
+OG0043311	
+OG0043314	
+OG0044157	
+OG0044455	
+OG0044628	
+OG0044634	
+OG0044959	
+OG0045281	
+OG0045315	nbis-mrna-13900
+OG0045344	
+OG0045350	
+OG0045420	
+OG0045588	
+OG0045636	
+OG0045651	
+OG0045659	
+OG0045731	
+OG0045742	
+OG0045743	
+OG0045816	
+OG0045835	
+OG0045914	
+OG0045921	
+OG0045957	
+OG0046039	
+OG0046051	
+OG0046120	
+OG0046129	
+OG0046133	
+OG0046138	
+OG0046173	
+OG0046174	
+OG0046186	
+OG0046237	
+OG0046254	
+OG0046265	
+OG0046272	
+OG0046295	
+OG0046330	
+OG0046347	
+OG0046355	
+OG0046359	
+OG0046388	
+OG0046455	
+OG0046530	
+OG0046561	
+OG0046563	
+OG0046574	
+OG0046593	
+OG0046657	
+OG0046672	
+OG0046680	
+OG0046682	
+OG0046683	
+OG0046700	
+OG0046732	
+OG0046741	
+OG0046742	
+OG0046749	
+OG0046810	
+OG0046838	
+OG0046839	
+OG0046851	
+OG0046861	
+OG0046865	
+OG0046964	nbis-mrna-1397
+OG0047194	nbis-mrna-8496
+OG0047604	
+OG0047620	
+OG0047793	
+OG0047796	
+OG0048044	nbis-mrna-18870
+OG0048300	
+OG0048585	
+OG0049050	
+OG0049056	nbis-mrna-8123
+OG0049095	
+OG0049170	
+OG0049177	
+OG0049347	
+OG0049475	
+OG0049539	nbis-mrna-1712
+OG0049542	nbis-mrna-6758
+OG0049543	nbis-mrna-13406
+OG0049562	
+OG0049589	
+OG0049947	
+OG0050111	
+OG0050258	
+OG0050832	
+OG0051292	
+OG0051309	nbis-mrna-4971
+OG0051481	
+OG0051538	nbis-mrna-22487
+OG0051696	nbis-mrna-8498
+OG0051924	
+OG0051941	
+OG0051974	
+OG0052099	
+OG0052112	

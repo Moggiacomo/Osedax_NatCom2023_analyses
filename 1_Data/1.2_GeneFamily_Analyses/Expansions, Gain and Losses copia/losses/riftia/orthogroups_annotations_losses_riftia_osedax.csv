@@ -1,0 +1,1170 @@
+OG0000043	osedax	.	.	.	OFRAG00000004296.1	SUBFAMILY NOT NAMED	
+OG0000061							
+OG0000062	osedax	GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity	GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity	GO:0003677^molecular_function^DNA binding`GO:0000786^cellular_component^nucleosome	OFRAG00000008894.1	HISTONE H2B	K11252
+OG0000062	osedax	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0003677^molecular_function^DNA binding`GO:0000786^cellular_component^nucleosome	OFRAG00000008895.1	HISTONE H2B TYPE 2-C-RELATED	K11252
+OG0000062	osedax	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0003677^molecular_function^DNA binding`GO:0000786^cellular_component^nucleosome	OFRAG00000008896.1	HISTONE H2B TYPE 2-C-RELATED	K11252
+OG0000062	osedax	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0005576^cellular_component^extracellular region`GO:0000786^cellular_component^nucleosome`GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046982^molecular_function^protein heterodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0050830^biological_process^defense response to Gram-positive bacterium	GO:0003677^molecular_function^DNA binding`GO:0000786^cellular_component^nucleosome`GO:0006352^biological_process^DNA-templated transcription initiation`GO:0005669^cellular_component^transcription factor TFIID complex	OFRAG00000015649.1	HISTONE H2B TYPE 2-C-RELATED	K11252
+OG0000107							
+OG0000123	osedax	.	.	.	OFRAG00000013780.1	SUBFAMILY NOT NAMED	
+OG0000138	osedax	.	.	.	OFRAG00000001319.1	SIMILAR TO ENSANGP00000010363	
+OG0000245	osedax	.	.	.	OFRAG00000003468.1	NO HIT
+OG0000256							
+OG0000299							
+OG0000313							
+OG0000314							
+OG0000315							
+OG0000316	osedax	.	.	.	OFRAG00000006473.1	CELL WALL ADHESIN EAP1	K09228
+OG0000326							
+OG0000350							
+OG0000446	osedax	GO:0005739^cellular_component^mitochondrion`GO:0003860^molecular_function^3-hydroxyisobutyryl-CoA hydrolase activity`GO:0006574^biological_process^valine catabolic process	GO:0005739^cellular_component^mitochondrion`GO:0003860^molecular_function^3-hydroxyisobutyryl-CoA hydrolase activity`GO:0006574^biological_process^valine catabolic process	.	OFRAG00000013949.1	3-HYDROXYISOBUTYRYL-COA HYDROLASE MITOCHONDRIAL	
+OG0000453							
+OG0000459							
+OG0000465	osedax	GO:0005887^cellular_component^integral component of plasma membrane`GO:0004991^molecular_function^parathyroid hormone receptor activity`GO:0017046^molecular_function^peptide hormone binding`GO:0042803^molecular_function^protein homodimerization activity`GO:0043621^molecular_function^protein self-association`GO:0007189^biological_process^adenylate cyclase-activating G protein-coupled receptor signaling pathway`GO:0007188^biological_process^adenylate cyclase-modulating G protein-coupled receptor signaling pathway`GO:0007166^biological_process^cell surface receptor signaling pathway	GO:0005887^cellular_component^integral component of plasma membrane`GO:0004991^molecular_function^parathyroid hormone receptor activity`GO:0017046^molecular_function^peptide hormone binding`GO:0042803^molecular_function^protein homodimerization activity`GO:0043621^molecular_function^protein self-association`GO:0007189^biological_process^adenylate cyclase-activating G protein-coupled receptor signaling pathway`GO:0007188^biological_process^adenylate cyclase-modulating G protein-coupled receptor signaling pathway`GO:0007166^biological_process^cell surface receptor signaling pathway	GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0016020^cellular_component^membrane`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0016021^cellular_component^integral component of membrane	OFRAG00000001464.1	PDF RECEPTOR-LIKE PROTEIN-RELATED	K04585
+OG0000497	osedax	.	.	GO:0003676^molecular_function^nucleic acid binding	OFRAG00000003336.1	AGAP007257-PA	
+OG0000528							
+OG0000548							
+OG0000599							
+OG0000631							
+OG0000655							
+OG0000717							
+OG0000765							
+OG0000767							
+OG0000814	osedax	GO:0005576^cellular_component^extracellular region`GO:0046872^molecular_function^metal ion binding`GO:0004623^molecular_function^phospholipase A2 activity`GO:0102567^molecular_function^phospholipase A2 activity (consuming 1 2-dipalmitoylphosphatidylcholine)`GO:0102568^molecular_function^phospholipase A2 activity consuming 1 2-dioleoylphosphatidylethanolamine)`GO:0050482^biological_process^arachidonic acid secretion`GO:0016042^biological_process^lipid catabolic process`GO:0006644^biological_process^phospholipid metabolic process	GO:0005576^cellular_component^extracellular region`GO:0046872^molecular_function^metal ion binding`GO:0004623^molecular_function^phospholipase A2 activity`GO:0102567^molecular_function^phospholipase A2 activity (consuming 1 2-dipalmitoylphosphatidylcholine)`GO:0102568^molecular_function^phospholipase A2 activity consuming 1 2-dioleoylphosphatidylethanolamine)`GO:0050482^biological_process^arachidonic acid secretion`GO:0016042^biological_process^lipid catabolic process`GO:0006644^biological_process^phospholipid metabolic process	GO:0004623^molecular_function^phospholipase A2 activity`GO:0006644^biological_process^phospholipid metabolic process`GO:0050482^biological_process^arachidonic acid secretion	OFRAG00000015978.1	RH14732P	K01047
+OG0000908							
+OG0000937							
+OG0001067							
+OG0001175	osedax	GO:0016021^cellular_component^integral component of membrane`GO:0008171^molecular_function^O-methyltransferase activity`GO:0008757^molecular_function^S-adenosylmethionine-dependent methyltransferase activity`GO:0032259^biological_process^methylation	GO:0016021^cellular_component^integral component of membrane`GO:0008171^molecular_function^O-methyltransferase activity`GO:0008757^molecular_function^S-adenosylmethionine-dependent methyltransferase activity`GO:0032259^biological_process^methylation	GO:0008171^molecular_function^O-methyltransferase activity	OFRAG00000015052.1	CATECHOL O-METHYLTRANSFERASE DOMAIN-CONTAINING PROTEIN 1	
+OG0001201	osedax	.	.	.	OFRAG00000000919.1	HOMEODOMAIN-LIKE SUPERFAMILY PROTEIN	
+OG0001201	osedax	.	.	.	OFRAG00000001750.1	SUBFAMILY NOT NAMED	
+OG0001201	osedax	.	.	.	OFRAG00000007530.1	NO HIT
+OG0001201	osedax	.	.	.	OFRAG00000017154.1	UNCHARACTERIZED	
+OG0001224							
+OG0001321	osedax	GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0003700^molecular_function^DNA-binding transcription factor activity`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0045087^biological_process^innate immune response`GO:0019216^biological_process^regulation of lipid metabolic process`GO:0006357^biological_process^regulation of transcription by RNA polymerase II	GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0003700^molecular_function^DNA-binding transcription factor activity`GO:0050829^biological_process^defense response to Gram-negative bacterium`GO:0045087^biological_process^innate immune response`GO:0019216^biological_process^regulation of lipid metabolic process`GO:0006357^biological_process^regulation of transcription by RNA polymerase II	GO:0003700^molecular_function^DNA-binding transcription factor activity`GO:0006355^biological_process^regulation of transcription DNA-templated	OFRAG00000005717.1	CCAAT/ENHANCER-BINDING PROTEIN GAMMA-LIKE PROTEIN	K10049
+OG0001321	osedax	GO:0000779^cellular_component^condensed chromosome centromeric region`GO:0005737^cellular_component^cytoplasm`GO:0016363^cellular_component^nuclear matrix`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0090575^cellular_component^RNA polymerase II transcription regulator complex`GO:0003682^molecular_function^chromatin binding`GO:0000987^molecular_function^cis-regulatory region sequence-specific DNA binding`GO:0001046^molecular_function^core promoter sequence-specific DNA binding`GO:0001228^molecular_function^DNA-binding transcription activator activity RNA polymerase II-specific`GO:0000981^molecular_function^DNA-binding transcription factor activity RNA polymerase II-specific`GO:0035035^molecular_function^histone acetyltransferase binding`GO:0042826^molecular_function^histone deacetylase binding`GO:0042802^molecular_function^identical protein binding`GO:0019900^molecular_function^kinase binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0000979^molecular_function^RNA polymerase II core promoter sequence-specific DNA binding`GO:0044389^molecular_function^ubiquitin-like protein ligase binding`GO:0071230^biological_process^cellular response to amino acid stimulus`GO:0042742^biological_process^defense response to bacterium`GO:0045444^biological_process^fat cell differentiation`GO:0072574^biological_process^hepatocyte proliferation`GO:0070059^biological_process^intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress`GO:0097421^biological_process^liver regeneration`GO:0043524^biological_process^negative regulation of neuron apoptotic process`GO:0042130^biological_process^negative regulation of T cell proliferation`GO:0045892^biological_process^negative regulation of transcription DNA-templated`GO:0030182^biological_process^neuron differentiation`GO:0001541^biological_process^ovarian follicle development`GO:0070169^biological_process^positive regulation of biomineral tissue development`GO:0120162^biological_process^positive regulation of cold-induced thermogenesis`GO:2000144^biological_process^positive regulation of DNA-templated transcription initiation`GO:0045600^biological_process^positive regulation of fat cell differentiation`GO:0010628^biological_process^positive regulation of gene expression`GO:2000617^biological_process^positive regulation of histone H3-K9 acetylation`GO:0050729^biological_process^positive regulation of inflammatory response`GO:0032753^biological_process^positive regulation of interleukin-4 production`GO:0045669^biological_process^positive regulation of osteoblast differentiation`GO:2000120^biological_process^positive regulation of sodium-dependent phosphate transport`GO:1990440^biological_process^positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress`GO:2001198^biological_process^regulation of dendritic cell differentiation`GO:0032675^biological_process^regulation of interleukin-6 production`GO:0045670^biological_process^regulation of osteoclast differentiation`GO:0060850^biological_process^obsolete regulation of transcription involved in cell fate commitment`GO:0032496^biological_process^response to lipopolysaccharide	GO:0000779^cellular_component^condensed chromosome centromeric region`GO:0005737^cellular_component^cytoplasm`GO:0016363^cellular_component^nuclear matrix`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0090575^cellular_component^RNA polymerase II transcription regulator complex`GO:0003682^molecular_function^chromatin binding`GO:0000987^molecular_function^cis-regulatory region sequence-specific DNA binding`GO:0001046^molecular_function^core promoter sequence-specific DNA binding`GO:0001228^molecular_function^DNA-binding transcription activator activity RNA polymerase II-specific`GO:0000981^molecular_function^DNA-binding transcription factor activity RNA polymerase II-specific`GO:0035035^molecular_function^histone acetyltransferase binding`GO:0042826^molecular_function^histone deacetylase binding`GO:0042802^molecular_function^identical protein binding`GO:0019900^molecular_function^kinase binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0000979^molecular_function^RNA polymerase II core promoter sequence-specific DNA binding`GO:0044389^molecular_function^ubiquitin-like protein ligase binding`GO:0071230^biological_process^cellular response to amino acid stimulus`GO:0042742^biological_process^defense response to bacterium`GO:0045444^biological_process^fat cell differentiation`GO:0072574^biological_process^hepatocyte proliferation`GO:0070059^biological_process^intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress`GO:0097421^biological_process^liver regeneration`GO:0043524^biological_process^negative regulation of neuron apoptotic process`GO:0042130^biological_process^negative regulation of T cell proliferation`GO:0045892^biological_process^negative regulation of transcription DNA-templated`GO:0030182^biological_process^neuron differentiation`GO:0001541^biological_process^ovarian follicle development`GO:0070169^biological_process^positive regulation of biomineral tissue development`GO:0120162^biological_process^positive regulation of cold-induced thermogenesis`GO:2000144^biological_process^positive regulation of DNA-templated transcription initiation`GO:0045600^biological_process^positive regulation of fat cell differentiation`GO:0010628^biological_process^positive regulation of gene expression`GO:2000617^biological_process^positive regulation of histone H3-K9 acetylation`GO:0050729^biological_process^positive regulation of inflammatory response`GO:0032753^biological_process^positive regulation of interleukin-4 production`GO:0045669^biological_process^positive regulation of osteoblast differentiation`GO:2000120^biological_process^positive regulation of sodium-dependent phosphate transport`GO:1990440^biological_process^positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress`GO:2001198^biological_process^regulation of dendritic cell differentiation`GO:0032675^biological_process^regulation of interleukin-6 production`GO:0045670^biological_process^regulation of osteoclast differentiation`GO:0060850^biological_process^obsolete regulation of transcription involved in cell fate commitment`GO:0032496^biological_process^response to lipopolysaccharide	GO:0003700^molecular_function^DNA-binding transcription factor activity`GO:0006355^biological_process^regulation of transcription DNA-templated	OFRAG00000011459.1	CCAAT/ENHANCER BINDING PROTEIN	K09055
+OG0001446							
+OG0001594	osedax	GO:0012505^cellular_component^endomembrane system`GO:0005576^cellular_component^extracellular region`GO:0016021^cellular_component^integral component of membrane`GO:0051216^biological_process^cartilage development`GO:0001886^biological_process^endothelial cell morphogenesis`GO:0016525^biological_process^negative regulation of angiogenesis`GO:0001937^biological_process^negative regulation of endothelial cell proliferation`GO:0030948^biological_process^negative regulation of vascular endothelial growth factor receptor signaling pathway	GO:0012505^cellular_component^endomembrane system`GO:0005576^cellular_component^extracellular region`GO:0016021^cellular_component^integral component of membrane`GO:0051216^biological_process^cartilage development`GO:0001886^biological_process^endothelial cell morphogenesis`GO:0016525^biological_process^negative regulation of angiogenesis`GO:0001937^biological_process^negative regulation of endothelial cell proliferation`GO:0030948^biological_process^negative regulation of vascular endothelial growth factor receptor signaling pathway	.	OFRAG00000006256.1	CHONDROMODULIN-RELATED	
+OG0001635							
+OG0001648	osedax	GO:0034451^cellular_component^centriolar satellite`GO:0005814^cellular_component^centriole`GO:0005813^cellular_component^centrosome`GO:0036064^cellular_component^ciliary basal body`GO:0035869^cellular_component^ciliary transition zone`GO:0005737^cellular_component^cytoplasm`GO:0031410^cellular_component^cytoplasmic vesicle`GO:0005829^cellular_component^cytosol`GO:0036038^cellular_component^MKS complex`GO:0005634^cellular_component^nucleus`GO:0032391^cellular_component^photoreceptor connecting cilium`GO:0120206^cellular_component^photoreceptor distal connecting cilium`GO:0001750^cellular_component^photoreceptor outer segment`GO:0120205^cellular_component^photoreceptor proximal connecting cilium`GO:0032991^cellular_component^protein-containing complex`GO:0120200^cellular_component^rod photoreceptor outer segment`GO:0042802^molecular_function^identical protein binding`GO:0097711^biological_process^ciliary basal body-plasma membrane docking`GO:1905349^biological_process^ciliary transition zone assembly`GO:0060271^biological_process^cilium assembly`GO:0007368^biological_process^determination of left/right symmetry`GO:0007163^biological_process^establishment or maintenance of cell polarity`GO:0042462^biological_process^eye photoreceptor cell development`GO:0007507^biological_process^heart development`GO:0030902^biological_process^hindbrain development`GO:0001822^biological_process^kidney development`GO:0000226^biological_process^microtubule cytoskeleton organization`GO:1905515^biological_process^non-motile cilium assembly`GO:0030916^biological_process^otic vesicle formation`GO:0045494^biological_process^photoreceptor cell maintenance`GO:0090316^biological_process^positive regulation of intracellular protein transport`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0048793^biological_process^pronephros development`GO:0015031^biological_process^protein transport`GO:0070201^biological_process^regulation of establishment of protein localization`GO:0060041^biological_process^retina development in camera-type eye	GO:0034451^cellular_component^centriolar satellite`GO:0005814^cellular_component^centriole`GO:0005813^cellular_component^centrosome`GO:0036064^cellular_component^ciliary basal body`GO:0035869^cellular_component^ciliary transition zone`GO:0005737^cellular_component^cytoplasm`GO:0031410^cellular_component^cytoplasmic vesicle`GO:0005829^cellular_component^cytosol`GO:0036038^cellular_component^MKS complex`GO:0005634^cellular_component^nucleus`GO:0032391^cellular_component^photoreceptor connecting cilium`GO:0120206^cellular_component^photoreceptor distal connecting cilium`GO:0001750^cellular_component^photoreceptor outer segment`GO:0120205^cellular_component^photoreceptor proximal connecting cilium`GO:0032991^cellular_component^protein-containing complex`GO:0120200^cellular_component^rod photoreceptor outer segment`GO:0042802^molecular_function^identical protein binding`GO:0097711^biological_process^ciliary basal body-plasma membrane docking`GO:1905349^biological_process^ciliary transition zone assembly`GO:0060271^biological_process^cilium assembly`GO:0007368^biological_process^determination of left/right symmetry`GO:0007163^biological_process^establishment or maintenance of cell polarity`GO:0042462^biological_process^eye photoreceptor cell development`GO:0007507^biological_process^heart development`GO:0030902^biological_process^hindbrain development`GO:0001822^biological_process^kidney development`GO:0000226^biological_process^microtubule cytoskeleton organization`GO:1905515^biological_process^non-motile cilium assembly`GO:0030916^biological_process^otic vesicle formation`GO:0045494^biological_process^photoreceptor cell maintenance`GO:0090316^biological_process^positive regulation of intracellular protein transport`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0048793^biological_process^pronephros development`GO:0015031^biological_process^protein transport`GO:0070201^biological_process^regulation of establishment of protein localization`GO:0060041^biological_process^retina development in camera-type eye	.	OFRAG00000005559.1	CENTROSOMAL PROTEIN OF 290 KDA	
+OG0001839							
+OG0002083							
+OG0002092							
+OG0002164							
+OG0002250							
+OG0002586							
+OG0002848							
+OG0003208	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0005769^cellular_component^early endosome`GO:0031901^cellular_component^early endosome membrane`GO:0005768^cellular_component^endosome`GO:0010008^cellular_component^endosome membrane`GO:0000813^cellular_component^ESCRT I complex`GO:0070062^cellular_component^extracellular exosome`GO:0090543^cellular_component^Flemming body`GO:0043657^cellular_component^host cell`GO:0005770^cellular_component^late endosome`GO:0031902^cellular_component^late endosome membrane`GO:0005815^cellular_component^microtubule organizing center`GO:0005771^cellular_component^multivesicular body`GO:0005730^cellular_component^nucleolus`GO:0005886^cellular_component^plasma membrane`GO:0048306^molecular_function^calcium-dependent protein binding`GO:0003677^molecular_function^DNA binding`GO:0030374^molecular_function^nuclear receptor coactivator activity`GO:0042803^molecular_function^protein homodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0003714^molecular_function^transcription corepressor activity`GO:0043130^molecular_function^ubiquitin binding`GO:0031625^molecular_function^ubiquitin protein ligase binding`GO:0046790^molecular_function^virion binding`GO:0097352^biological_process^autophagosome maturation`GO:0007050^biological_process^cell cycle arrest`GO:0051301^biological_process^cell division`GO:0016197^biological_process^endosomal transport`GO:0008333^biological_process^endosome to lysosome transport`GO:1990182^biological_process^exosomal secretion`GO:0006858^biological_process^extracellular transport`GO:0075733^biological_process^intracellular transport of virus`GO:0030216^biological_process^keratinocyte differentiation`GO:0016236^biological_process^macroautophagy`GO:0036258^biological_process^multivesicular body assembly`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:0042059^biological_process^negative regulation of epidermal growth factor receptor signaling pathway`GO:0007175^biological_process^negative regulation of epidermal growth factor-activated receptor activity`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:1903543^biological_process^positive regulation of exosomal secretion`GO:2000397^biological_process^positive regulation of ubiquitin-dependent endocytosis`GO:1903774^biological_process^positive regulation of viral budding via host ESCRT complex`GO:1902188^biological_process^positive regulation of viral release from host cell`GO:0006513^biological_process^protein monoubiquitination`GO:0015031^biological_process^protein transport`GO:0001558^biological_process^regulation of cell growth`GO:1903551^biological_process^regulation of extracellular exosome assembly`GO:0043405^biological_process^regulation of MAP kinase activity`GO:0043162^biological_process^ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway`GO:0046755^biological_process^viral budding`GO:0039702^biological_process^viral budding via host ESCRT complex`GO:0019058^biological_process^viral life cycle	GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0005769^cellular_component^early endosome`GO:0031901^cellular_component^early endosome membrane`GO:0005768^cellular_component^endosome`GO:0010008^cellular_component^endosome membrane`GO:0000813^cellular_component^ESCRT I complex`GO:0070062^cellular_component^extracellular exosome`GO:0090543^cellular_component^Flemming body`GO:0043657^cellular_component^host cell`GO:0005770^cellular_component^late endosome`GO:0031902^cellular_component^late endosome membrane`GO:0005815^cellular_component^microtubule organizing center`GO:0005771^cellular_component^multivesicular body`GO:0005730^cellular_component^nucleolus`GO:0005886^cellular_component^plasma membrane`GO:0048306^molecular_function^calcium-dependent protein binding`GO:0003677^molecular_function^DNA binding`GO:0030374^molecular_function^nuclear receptor coactivator activity`GO:0042803^molecular_function^protein homodimerization activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0003714^molecular_function^transcription corepressor activity`GO:0043130^molecular_function^ubiquitin binding`GO:0031625^molecular_function^ubiquitin protein ligase binding`GO:0046790^molecular_function^virion binding`GO:0097352^biological_process^autophagosome maturation`GO:0007050^biological_process^cell cycle arrest`GO:0051301^biological_process^cell division`GO:0016197^biological_process^endosomal transport`GO:0008333^biological_process^endosome to lysosome transport`GO:1990182^biological_process^exosomal secretion`GO:0006858^biological_process^extracellular transport`GO:0075733^biological_process^intracellular transport of virus`GO:0030216^biological_process^keratinocyte differentiation`GO:0016236^biological_process^macroautophagy`GO:0036258^biological_process^multivesicular body assembly`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:0042059^biological_process^negative regulation of epidermal growth factor receptor signaling pathway`GO:0007175^biological_process^negative regulation of epidermal growth factor-activated receptor activity`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:1903543^biological_process^positive regulation of exosomal secretion`GO:2000397^biological_process^positive regulation of ubiquitin-dependent endocytosis`GO:1903774^biological_process^positive regulation of viral budding via host ESCRT complex`GO:1902188^biological_process^positive regulation of viral release from host cell`GO:0006513^biological_process^protein monoubiquitination`GO:0015031^biological_process^protein transport`GO:0001558^biological_process^regulation of cell growth`GO:1903551^biological_process^regulation of extracellular exosome assembly`GO:0043405^biological_process^regulation of MAP kinase activity`GO:0043162^biological_process^ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway`GO:0046755^biological_process^viral budding`GO:0039702^biological_process^viral budding via host ESCRT complex`GO:0019058^biological_process^viral life cycle	GO:0006464^biological_process^cellular protein modification process`GO:0015031^biological_process^protein transport	OFRAG00000004594.1	TUMOR SUSCEPTIBILITY GENE 101 PROTEIN	K12183
+OG0003286	osedax	GO:0005829^cellular_component^cytosol`GO:0070062^cellular_component^extracellular exosome`GO:0016021^cellular_component^integral component of membrane`GO:0043231^cellular_component^intracellular membrane-bounded organelle`GO:0005765^cellular_component^lysosomal membrane`GO:0016020^cellular_component^membrane`GO:0005739^cellular_component^mitochondrion`GO:0005654^cellular_component^nucleoplasm`GO:0022857^molecular_function^transmembrane transporter activity`GO:1901029^biological_process^negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway`GO:0008284^biological_process^positive regulation of cell population proliferation	GO:0005829^cellular_component^cytosol`GO:0070062^cellular_component^extracellular exosome`GO:0016021^cellular_component^integral component of membrane`GO:0043231^cellular_component^intracellular membrane-bounded organelle`GO:0005765^cellular_component^lysosomal membrane`GO:0016020^cellular_component^membrane`GO:0005739^cellular_component^mitochondrion`GO:0005654^cellular_component^nucleoplasm`GO:0022857^molecular_function^transmembrane transporter activity`GO:1901029^biological_process^negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway`GO:0008284^biological_process^positive regulation of cell population proliferation	GO:0015165^molecular_function^pyrimidine nucleotide-sugar transmembrane transporter activity`GO:0090481^biological_process^pyrimidine nucleotide-sugar transmembrane transport`GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0016020^cellular_component^membrane`GO:0022857^molecular_function^transmembrane transporter activity`GO:0055085^biological_process^transmembrane transport	OFRAG00000010339.1	SOLUTE CARRIER FAMILY 35 MEMBER F6	
+OG0003326	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005768^cellular_component^endosome`GO:0005794^cellular_component^Golgi apparatus`GO:0031982^cellular_component^vesicle`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport`GO:0030334^biological_process^regulation of cell migration`GO:0043087^biological_process^regulation of GTPase activity`GO:0032880^biological_process^regulation of protein localization	GO:0005737^cellular_component^cytoplasm`GO:0005768^cellular_component^endosome`GO:0005794^cellular_component^Golgi apparatus`GO:0031982^cellular_component^vesicle`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport`GO:0030334^biological_process^regulation of cell migration`GO:0043087^biological_process^regulation of GTPase activity`GO:0032880^biological_process^regulation of protein localization	.	OFRAG00000003493.1	EVI5-LIKE PROTEIN	K20242
+OG0003326	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005768^cellular_component^endosome`GO:0005794^cellular_component^Golgi apparatus`GO:0031982^cellular_component^vesicle`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport`GO:0030334^biological_process^regulation of cell migration`GO:0043087^biological_process^regulation of GTPase activity`GO:0032880^biological_process^regulation of protein localization	GO:0005737^cellular_component^cytoplasm`GO:0005768^cellular_component^endosome`GO:0005794^cellular_component^Golgi apparatus`GO:0031982^cellular_component^vesicle`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport`GO:0030334^biological_process^regulation of cell migration`GO:0043087^biological_process^regulation of GTPase activity`GO:0032880^biological_process^regulation of protein localization	.	OFRAG00000003495.1	SPINDLE ASSEMBLY ABNORMAL PROTEIN 6 HOMOLOG	K20242
+OG0003426	osedax	.	.	.	OFRAG00000007035.1	SUBFAMILY NOT NAMED	
+OG0003460							
+OG0003677							
+OG0004073	osedax	.	.	GO:0008234^molecular_function^cysteine-type peptidase activity`GO:0006508^biological_process^proteolysis	OFRAG00000002574.1	SENTRIN/SUMO-SPECIFIC PROTEASE	
+OG0004111	osedax	GO:0005634^cellular_component^nucleus`GO:0061676^molecular_function^importin-alpha family protein binding	GO:0005634^cellular_component^nucleus`GO:0061676^molecular_function^importin-alpha family protein binding	.	OFRAG00000004828.1	NUCLEAR AUTOANTIGENIC SPERM PROTEIN NASP -RELATED	K11291
+OG0004212							
+OG0004243							
+OG0004627	osedax	GO:0005737^cellular_component^cytoplasm`GO:0000177^cellular_component^cytoplasmic exosome (RNase complex)`GO:0005829^cellular_component^cytosol`GO:0043186^cellular_component^P granule`GO:0000932^cellular_component^P-body`GO:0003730^molecular_function^mRNA 3'-UTR binding`GO:0019902^molecular_function^phosphatase binding`GO:0035556^biological_process^intracellular signal transduction`GO:0043488^biological_process^regulation of mRNA stability	GO:0005737^cellular_component^cytoplasm`GO:0000177^cellular_component^cytoplasmic exosome (RNase complex)`GO:0005829^cellular_component^cytosol`GO:0043186^cellular_component^P granule`GO:0000932^cellular_component^P-body`GO:0003730^molecular_function^mRNA 3'-UTR binding`GO:0019902^molecular_function^phosphatase binding`GO:0035556^biological_process^intracellular signal transduction`GO:0043488^biological_process^regulation of mRNA stability	GO:0003676^molecular_function^nucleic acid binding	OFRAG00000010688.1	CALCIUM-REGULATED HEAT STABLE PROTEIN 1	
+OG0004717							
+OG0004828							
+OG0004830	osedax	GO:0005654^cellular_component^nucleoplasm`GO:0005736^cellular_component^RNA polymerase I complex`GO:0003682^molecular_function^chromatin binding`GO:0003677^molecular_function^DNA binding`GO:0001054^molecular_function^RNA polymerase I activity`GO:0008270^molecular_function^zinc ion binding`GO:1904750^biological_process^negative regulation of protein localization to nucleolus`GO:0045815^biological_process^positive regulation of gene expression epigenetic`GO:0006363^biological_process^termination of RNA polymerase I transcription`GO:0006362^biological_process^transcription elongation from RNA polymerase I promoter`GO:0006361^biological_process^transcription initiation from RNA polymerase I promoter	GO:0005654^cellular_component^nucleoplasm`GO:0005736^cellular_component^RNA polymerase I complex`GO:0003682^molecular_function^chromatin binding`GO:0003677^molecular_function^DNA binding`GO:0001054^molecular_function^RNA polymerase I activity`GO:0008270^molecular_function^zinc ion binding`GO:1904750^biological_process^negative regulation of protein localization to nucleolus`GO:0045815^biological_process^positive regulation of gene expression epigenetic`GO:0006363^biological_process^termination of RNA polymerase I transcription`GO:0006362^biological_process^transcription elongation from RNA polymerase I promoter`GO:0006361^biological_process^transcription initiation from RNA polymerase I promoter	GO:0003677^molecular_function^DNA binding`GO:0003899^molecular_function^DNA-directed 5'-3' RNA polymerase activity`GO:0006351^biological_process^transcription DNA-templated	OFRAG00000006364.1	DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA1	
+OG0004901							
+OG0005038	osedax	GO:0071013^cellular_component^catalytic step 2 spliceosome`GO:0005730^cellular_component^nucleolus`GO:0005634^cellular_component^nucleus`GO:0071011^cellular_component^precatalytic spliceosome`GO:0003677^molecular_function^DNA binding`GO:0003725^molecular_function^double-stranded RNA binding`GO:0000398^biological_process^mRNA splicing via spliceosome`GO:0045893^biological_process^positive regulation of transcription DNA-templated	GO:0071013^cellular_component^catalytic step 2 spliceosome`GO:0005730^cellular_component^nucleolus`GO:0005634^cellular_component^nucleus`GO:0071011^cellular_component^precatalytic spliceosome`GO:0003677^molecular_function^DNA binding`GO:0003725^molecular_function^double-stranded RNA binding`GO:0000398^biological_process^mRNA splicing via spliceosome`GO:0045893^biological_process^positive regulation of transcription DNA-templated	.	OFRAG00000004107.1	INTERLEUKIN ENHANCER-BINDING FACTOR	K13089
+OG0005041	osedax	GO:0015629^cellular_component^actin cytoskeleton`GO:0031463^cellular_component^Cul3-RING ubiquitin ligase complex`GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0030027^cellular_component^lamellipodium`GO:0001726^cellular_component^ruffle`GO:0003779^molecular_function^actin binding`GO:0042802^molecular_function^identical protein binding`GO:0016567^biological_process^protein ubiquitination	GO:0015629^cellular_component^actin cytoskeleton`GO:0031463^cellular_component^Cul3-RING ubiquitin ligase complex`GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0030027^cellular_component^lamellipodium`GO:0001726^cellular_component^ruffle`GO:0003779^molecular_function^actin binding`GO:0042802^molecular_function^identical protein binding`GO:0016567^biological_process^protein ubiquitination	GO:0005515^molecular_function^protein binding	OFRAG00000002828.1	SUBFAMILY NOT NAMED	K10454
+OG0005229	osedax	GO:0016282^cellular_component^eukaryotic 43S preinitiation complex`GO:0033290^cellular_component^eukaryotic 48S preinitiation complex`GO:0005852^cellular_component^eukaryotic translation initiation factor 3 complex`GO:0071540^cellular_component^eukaryotic translation initiation factor 3 complex eIF3e`GO:0005634^cellular_component^nucleus`GO:0003743^molecular_function^translation initiation factor activity`GO:0001732^biological_process^formation of cytoplasmic translation initiation complex`GO:0006413^biological_process^translational initiation	GO:0016282^cellular_component^eukaryotic 43S preinitiation complex`GO:0033290^cellular_component^eukaryotic 48S preinitiation complex`GO:0005852^cellular_component^eukaryotic translation initiation factor 3 complex`GO:0071540^cellular_component^eukaryotic translation initiation factor 3 complex eIF3e`GO:0005634^cellular_component^nucleus`GO:0003743^molecular_function^translation initiation factor activity`GO:0001732^biological_process^formation of cytoplasmic translation initiation complex`GO:0006413^biological_process^translational initiation	.	OFRAG00000011048.1	EUKARYOTIC TRANSLATION INITIATION FACTOR 3 SUBUNIT E	K03250
+OG0005310	osedax	GO:0005739^cellular_component^mitochondrion`GO:0042802^molecular_function^identical protein binding`GO:0003941^molecular_function^L-serine ammonia-lyase activity`GO:0004794^molecular_function^L-threonine ammonia-lyase activity`GO:0009097^biological_process^isoleucine biosynthetic process`GO:0006567^biological_process^threonine catabolic process`GO:0006566^biological_process^threonine metabolic process	GO:0005739^cellular_component^mitochondrion`GO:0042802^molecular_function^identical protein binding`GO:0003941^molecular_function^L-serine ammonia-lyase activity`GO:0004794^molecular_function^L-threonine ammonia-lyase activity`GO:0009097^biological_process^isoleucine biosynthetic process`GO:0006567^biological_process^threonine catabolic process`GO:0006566^biological_process^threonine metabolic process	.	OFRAG00000015687.1	SERINE DEHYDRATASE-LIKE	K17989
+OG0005368							
+OG0005484							
+OG0005489							
+OG0005625							
+OG0005751							
+OG0005997	osedax	GO:0005694^cellular_component^chromosome`GO:0005737^cellular_component^cytoplasm`GO:0005634^cellular_component^nucleus`GO:0003682^molecular_function^chromatin binding`GO:0008310^molecular_function^single-stranded DNA 3'-5' exodeoxyribonuclease activity`GO:0003697^molecular_function^single-stranded DNA binding`GO:0000724^biological_process^double-strand break repair via homologous recombination`GO:0007144^biological_process^female meiosis I`GO:0009566^biological_process^fertilization`GO:0007129^biological_process^homologous chromosome pairing at meiosis`GO:0007141^biological_process^male meiosis I`GO:0007140^biological_process^male meiotic nuclear division`GO:0000712^biological_process^resolution of meiotic recombination intermediates	GO:0005694^cellular_component^chromosome`GO:0005737^cellular_component^cytoplasm`GO:0005634^cellular_component^nucleus`GO:0003682^molecular_function^chromatin binding`GO:0008310^molecular_function^single-stranded DNA 3'-5' exodeoxyribonuclease activity`GO:0003697^molecular_function^single-stranded DNA binding`GO:0000724^biological_process^double-strand break repair via homologous recombination`GO:0007144^biological_process^female meiosis I`GO:0009566^biological_process^fertilization`GO:0007129^biological_process^homologous chromosome pairing at meiosis`GO:0007141^biological_process^male meiosis I`GO:0007140^biological_process^male meiotic nuclear division`GO:0000712^biological_process^resolution of meiotic recombination intermediates	.	OFRAG00000003967.1	UNCHARACTERIZED	K22420
+OG0006016							
+OG0006073	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0000502^cellular_component^proteasome complex`GO:0071942^cellular_component^XPC complex`GO:0003684^molecular_function^damaged DNA binding`GO:0031593^molecular_function^polyubiquitin modification-dependent protein binding`GO:0070628^molecular_function^proteasome binding`GO:0043130^molecular_function^ubiquitin binding`GO:0006974^biological_process^cellular response to DNA damage stimulus`GO:0098761^biological_process^cellular response to interleukin-7`GO:0048568^biological_process^embryonic organ development`GO:0006289^biological_process^nucleotide-excision repair`GO:0000715^biological_process^nucleotide-excision repair DNA damage recognition`GO:0043161^biological_process^proteasome-mediated ubiquitin-dependent protein catabolic process`GO:0032434^biological_process^regulation of proteasomal ubiquitin-dependent protein catabolic process`GO:0007283^biological_process^spermatogenesis	GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0000502^cellular_component^proteasome complex`GO:0071942^cellular_component^XPC complex`GO:0003684^molecular_function^damaged DNA binding`GO:0031593^molecular_function^polyubiquitin modification-dependent protein binding`GO:0070628^molecular_function^proteasome binding`GO:0043130^molecular_function^ubiquitin binding`GO:0006974^biological_process^cellular response to DNA damage stimulus`GO:0098761^biological_process^cellular response to interleukin-7`GO:0048568^biological_process^embryonic organ development`GO:0006289^biological_process^nucleotide-excision repair`GO:0000715^biological_process^nucleotide-excision repair DNA damage recognition`GO:0043161^biological_process^proteasome-mediated ubiquitin-dependent protein catabolic process`GO:0032434^biological_process^regulation of proteasomal ubiquitin-dependent protein catabolic process`GO:0007283^biological_process^spermatogenesis	GO:0005515^molecular_function^protein binding`GO:0003684^molecular_function^damaged DNA binding`GO:0006289^biological_process^nucleotide-excision repair`GO:0043161^biological_process^proteasome-mediated ubiquitin-dependent protein catabolic process	OFRAG00000014230.1	RAD23 HOMOLOG A NUCLEOTIDE EXCISION REPAIR PROTEIN B	K10839
+OG0006084							
+OG0006112							
+OG0006114	osedax	GO:0005694^cellular_component^chromosome`GO:0000781^cellular_component^chromosome telomeric region`GO:0005737^cellular_component^cytoplasm`GO:0016020^cellular_component^membrane`GO:0005634^cellular_component^nucleus`GO:0043138^molecular_function^3'-5' DNA helicase activity`GO:0036310^molecular_function^annealing helicase activity`GO:0005524^molecular_function^ATP binding`GO:0000405^molecular_function^bubble DNA binding`GO:0009378^molecular_function^four-way junction helicase activity`GO:0004386^molecular_function^helicase activity`GO:0032357^molecular_function^oxidized purine DNA binding`GO:0061821^molecular_function^telomeric D-loop binding`GO:0032508^biological_process^DNA duplex unwinding`GO:0006310^biological_process^DNA recombination`GO:0006281^biological_process^DNA repair`GO:0006260^biological_process^DNA replication`GO:0000733^biological_process^DNA strand renaturation`GO:0006268^biological_process^DNA unwinding involved in DNA replication`GO:0000724^biological_process^double-strand break repair via homologous recombination`GO:0007275^biological_process^multicellular organism development`GO:0000723^biological_process^telomere maintenance`GO:0061820^biological_process^telomeric D-loop disassembly	GO:0005694^cellular_component^chromosome`GO:0000781^cellular_component^chromosome telomeric region`GO:0005737^cellular_component^cytoplasm`GO:0016020^cellular_component^membrane`GO:0005634^cellular_component^nucleus`GO:0043138^molecular_function^3'-5' DNA helicase activity`GO:0036310^molecular_function^annealing helicase activity`GO:0005524^molecular_function^ATP binding`GO:0000405^molecular_function^bubble DNA binding`GO:0009378^molecular_function^four-way junction helicase activity`GO:0004386^molecular_function^helicase activity`GO:0032357^molecular_function^oxidized purine DNA binding`GO:0061821^molecular_function^telomeric D-loop binding`GO:0032508^biological_process^DNA duplex unwinding`GO:0006310^biological_process^DNA recombination`GO:0006281^biological_process^DNA repair`GO:0006260^biological_process^DNA replication`GO:0000733^biological_process^DNA strand renaturation`GO:0006268^biological_process^DNA unwinding involved in DNA replication`GO:0000724^biological_process^double-strand break repair via homologous recombination`GO:0007275^biological_process^multicellular organism development`GO:0000723^biological_process^telomere maintenance`GO:0061820^biological_process^telomeric D-loop disassembly	.	OFRAG00000004751.1	ATP-DEPENDENT DNA HELICASE Q4	K10730
+OG0006159	osedax	.	.	GO:0004867^molecular_function^serine-type endopeptidase inhibitor activity	OFRAG00000016019.1	NO HIT
+OG0006163	osedax	GO:0000421^cellular_component^autophagosome membrane`GO:0030424^cellular_component^axon`GO:0031410^cellular_component^cytoplasmic vesicle`GO:0032591^cellular_component^dendritic spine membrane`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0009897^cellular_component^external side of plasma membrane`GO:0016021^cellular_component^integral component of membrane`GO:0005765^cellular_component^lysosomal membrane`GO:0045211^cellular_component^postsynaptic membrane`GO:0038023^molecular_function^signaling receptor activity`GO:0007042^biological_process^lysosomal lumen acidification`GO:0090263^biological_process^positive regulation of canonical Wnt signaling pathway`GO:0030177^biological_process^positive regulation of Wnt signaling pathway	GO:0000421^cellular_component^autophagosome membrane`GO:0030424^cellular_component^axon`GO:0031410^cellular_component^cytoplasmic vesicle`GO:0032591^cellular_component^dendritic spine membrane`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0009897^cellular_component^external side of plasma membrane`GO:0016021^cellular_component^integral component of membrane`GO:0005765^cellular_component^lysosomal membrane`GO:0045211^cellular_component^postsynaptic membrane`GO:0038023^molecular_function^signaling receptor activity`GO:0007042^biological_process^lysosomal lumen acidification`GO:0090263^biological_process^positive regulation of canonical Wnt signaling pathway`GO:0030177^biological_process^positive regulation of Wnt signaling pathway	GO:0038023^molecular_function^signaling receptor activity`GO:0016021^cellular_component^integral component of membrane	OFRAG00000000204.1	RENIN RECEPTOR	K19514
+OG0006225							
+OG0006446							
+OG0006494	osedax	GO:0046872^molecular_function^metal ion binding`GO:0061077^biological_process^chaperone-mediated protein folding`GO:1900034^biological_process^regulation of cellular response to heat`GO:0010824^biological_process^regulation of centrosome duplication	GO:0046872^molecular_function^metal ion binding`GO:0061077^biological_process^chaperone-mediated protein folding`GO:1900034^biological_process^regulation of cellular response to heat`GO:0010824^biological_process^regulation of centrosome duplication	.	OFRAG00000016147.1	CYSTEINE AND HISTIDINE-RICH DOMAIN-CONTAINING PROTEIN 1	K16729
+OG0006595							
+OG0006606							
+OG0006635	osedax	GO:0042393^molecular_function^histone binding`GO:0006335^biological_process^DNA replication-dependent nucleosome assembly`GO:0006336^biological_process^DNA replication-independent nucleosome assembly	GO:0042393^molecular_function^histone binding`GO:0006335^biological_process^DNA replication-dependent nucleosome assembly`GO:0006336^biological_process^DNA replication-independent nucleosome assembly	GO:0006333^biological_process^chromatin assembly or disassembly`GO:0005634^cellular_component^nucleus	OFRAG00000009629.1	HISTONE CHAPERONE ASF1B	K10753
+OG0006669	osedax	.	.	.	OFRAG00000001828.1	RIBOSOME RECYCLING FACTOR	K02838
+OG0006669	osedax	GO:0005739^cellular_component^mitochondrion`GO:0043023^molecular_function^ribosomal large subunit binding`GO:0006412^biological_process^translation	GO:0005739^cellular_component^mitochondrion`GO:0043023^molecular_function^ribosomal large subunit binding`GO:0006412^biological_process^translation	.	OFRAG00000001829.1	RIBOSOME RECYCLING FACTOR	K02838
+OG0006669	osedax	.	.	.	OFRAG00000001831.1	RIBOSOME RECYCLING FACTOR	K02838
+OG0006669	osedax	GO:0005739^cellular_component^mitochondrion`GO:0043023^molecular_function^ribosomal large subunit binding`GO:0006412^biological_process^translation	GO:0005739^cellular_component^mitochondrion`GO:0043023^molecular_function^ribosomal large subunit binding`GO:0006412^biological_process^translation	.	OFRAG00000001832.1	RIBOSOME RECYCLING FACTOR	K02838
+OG0006710	osedax	GO:0005759^cellular_component^mitochondrial matrix`GO:0003842^molecular_function^1-pyrroline-5-carboxylate dehydrogenase activity`GO:0004029^molecular_function^aldehyde dehydrogenase (NAD+) activity`GO:0009055^molecular_function^electron transfer activity`GO:0042802^molecular_function^identical protein binding`GO:0019470^biological_process^4-hydroxyproline catabolic process`GO:0046487^biological_process^glyoxylate metabolic process`GO:0006562^biological_process^proline catabolic process`GO:0010133^biological_process^proline catabolic process to glutamate`GO:0006560^biological_process^proline metabolic process	GO:0005759^cellular_component^mitochondrial matrix`GO:0003842^molecular_function^1-pyrroline-5-carboxylate dehydrogenase activity`GO:0004029^molecular_function^aldehyde dehydrogenase (NAD+) activity`GO:0009055^molecular_function^electron transfer activity`GO:0042802^molecular_function^identical protein binding`GO:0019470^biological_process^4-hydroxyproline catabolic process`GO:0046487^biological_process^glyoxylate metabolic process`GO:0006562^biological_process^proline catabolic process`GO:0010133^biological_process^proline catabolic process to glutamate`GO:0006560^biological_process^proline metabolic process	GO:0016491^molecular_function^oxidoreductase activity`GO:0055114^biological_process^oxidation-reduction process	OFRAG00000001790.1	DELTA-1-PYRROLINE-5-CARBOXYLATE DEHYDROGENASE MITOCHONDRIAL-LIKE PROTEIN	K00294
+OG0006805	osedax	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0051082^molecular_function^unfolded protein binding`GO:1904153^biological_process^negative regulation of retrograde protein transport ER to cytosol`GO:0030433^biological_process^ubiquitin-dependent ERAD pathway	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0051082^molecular_function^unfolded protein binding`GO:1904153^biological_process^negative regulation of retrograde protein transport ER to cytosol`GO:0030433^biological_process^ubiquitin-dependent ERAD pathway	.	OFRAG00000006598.1	ENDOPLASMIC RETICULUM LECTIN 1	K14008
+OG0006805	osedax	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0030433^biological_process^ubiquitin-dependent ERAD pathway	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0030433^biological_process^ubiquitin-dependent ERAD pathway	.	OFRAG00000006600.1	ENDOPLASMIC RETICULUM LECTIN 1	K14008
+OG0006816	osedax	GO:0005747^cellular_component^mitochondrial respiratory chain complex I`GO:0008137^molecular_function^NADH dehydrogenase (ubiquinone) activity`GO:0032981^biological_process^mitochondrial respiratory chain complex I assembly`GO:0022904^biological_process^respiratory electron transport chain	GO:0005747^cellular_component^mitochondrial respiratory chain complex I`GO:0008137^molecular_function^NADH dehydrogenase (ubiquinone) activity`GO:0032981^biological_process^mitochondrial respiratory chain complex I assembly`GO:0022904^biological_process^respiratory electron transport chain	GO:0022904^biological_process^respiratory electron transport chain`GO:0005747^cellular_component^mitochondrial respiratory chain complex I	OFRAG00000003374.1	NADH DEHYDROGENASE [UBIQUINONE] 1 ALPHA SUBCOMPLEX SUBUNIT 5	K03949
+OG0006895	osedax	GO:0012505^cellular_component^endomembrane system`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0016021^cellular_component^integral component of membrane`GO:0005741^cellular_component^mitochondrial outer membrane`GO:0005739^cellular_component^mitochondrion`GO:0005635^cellular_component^nuclear envelope`GO:0003841^molecular_function^1-acylglycerol-3-phosphate O-acyltransferase activity`GO:0016746^molecular_function^transferase activity transferring acyl groups`GO:0006639^biological_process^acylglycerol metabolic process`GO:0016024^biological_process^CDP-diacylglycerol biosynthetic process`GO:0002244^biological_process^hematopoietic progenitor cell differentiation`GO:0006654^biological_process^phosphatidic acid biosynthetic process`GO:0008654^biological_process^phospholipid biosynthetic process	GO:0012505^cellular_component^endomembrane system`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0016021^cellular_component^integral component of membrane`GO:0005741^cellular_component^mitochondrial outer membrane`GO:0005739^cellular_component^mitochondrion`GO:0005635^cellular_component^nuclear envelope`GO:0003841^molecular_function^1-acylglycerol-3-phosphate O-acyltransferase activity`GO:0016746^molecular_function^transferase activity transferring acyl groups`GO:0006639^biological_process^acylglycerol metabolic process`GO:0016024^biological_process^CDP-diacylglycerol biosynthetic process`GO:0002244^biological_process^hematopoietic progenitor cell differentiation`GO:0006654^biological_process^phosphatidic acid biosynthetic process`GO:0008654^biological_process^phospholipid biosynthetic process	GO:0016746^molecular_function^transferase activity transferring acyl groups	OFRAG00000012405.1	1-ACYL-SN-GLYCEROL-3-PHOSPHATE ACYLTRANSFERASE EPSILON	K19007
+OG0007043	osedax	GO:0045177^cellular_component^apical part of cell`GO:0005737^cellular_component^cytoplasm`GO:0005730^cellular_component^nucleolus`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0030688^cellular_component^preribosome small subunit precursor`GO:0030515^molecular_function^snoRNA binding`GO:0008283^biological_process^cell population proliferation`GO:0000462^biological_process^maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA 5.8S rRNA LSU-rRNA)`GO:0006364^biological_process^rRNA processing`GO:0001829^biological_process^trophectodermal cell differentiation	GO:0045177^cellular_component^apical part of cell`GO:0005737^cellular_component^cytoplasm`GO:0005730^cellular_component^nucleolus`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0030688^cellular_component^preribosome small subunit precursor`GO:0030515^molecular_function^snoRNA binding`GO:0008283^biological_process^cell population proliferation`GO:0000462^biological_process^maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA 5.8S rRNA LSU-rRNA)`GO:0006364^biological_process^rRNA processing`GO:0001829^biological_process^trophectodermal cell differentiation	.	OFRAG00000001666.1	BYSTIN	K14797
+OG0007086							
+OG0007173	osedax	GO:0030127^cellular_component^COPII vesicle coat`GO:0030134^cellular_component^COPII-coated ER to Golgi transport vesicle`GO:0031463^cellular_component^Cul3-RING ubiquitin ligase complex`GO:0000139^cellular_component^Golgi membrane`GO:0042802^molecular_function^identical protein binding`GO:0048208^biological_process^COPII vesicle coating`GO:0006888^biological_process^endoplasmic reticulum to Golgi vesicle-mediated transport`GO:0014032^biological_process^neural crest cell development`GO:0014029^biological_process^neural crest formation`GO:0006513^biological_process^protein monoubiquitination`GO:0016055^biological_process^Wnt signaling pathway	GO:0030127^cellular_component^COPII vesicle coat`GO:0030134^cellular_component^COPII-coated ER to Golgi transport vesicle`GO:0031463^cellular_component^Cul3-RING ubiquitin ligase complex`GO:0000139^cellular_component^Golgi membrane`GO:0042802^molecular_function^identical protein binding`GO:0048208^biological_process^COPII vesicle coating`GO:0006888^biological_process^endoplasmic reticulum to Golgi vesicle-mediated transport`GO:0014032^biological_process^neural crest cell development`GO:0014029^biological_process^neural crest formation`GO:0006513^biological_process^protein monoubiquitination`GO:0016055^biological_process^Wnt signaling pathway	GO:0005515^molecular_function^protein binding	OFRAG00000014832.1	SUBFAMILY NOT NAMED	K10450
+OG0007181							
+OG0007230	osedax	GO:1904115^cellular_component^axon cytoplasm`GO:0005814^cellular_component^centriole`GO:0036064^cellular_component^ciliary basal body`GO:0005829^cellular_component^cytosol`GO:0005794^cellular_component^Golgi apparatus`GO:0004181^molecular_function^metallocarboxypeptidase activity`GO:0015631^molecular_function^tubulin binding`GO:0008270^molecular_function^zinc ion binding`GO:0098957^biological_process^anterograde axonal transport of mitochondrion`GO:0098930^biological_process^axonal transport`GO:0035609^biological_process^C-terminal protein deglutamylation`GO:0021954^biological_process^central nervous system neuron development`GO:0051607^biological_process^defense response to virus`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:2000060^biological_process^positive regulation of ubiquitin-dependent protein catabolic process`GO:0035608^biological_process^protein deglutamylation`GO:0035610^biological_process^protein side chain deglutamylation`GO:0120222^biological_process^regulation of blastocyst development`GO:0098958^biological_process^retrograde axonal transport of mitochondrion	GO:1904115^cellular_component^axon cytoplasm`GO:0005814^cellular_component^centriole`GO:0036064^cellular_component^ciliary basal body`GO:0005829^cellular_component^cytosol`GO:0005794^cellular_component^Golgi apparatus`GO:0004181^molecular_function^metallocarboxypeptidase activity`GO:0015631^molecular_function^tubulin binding`GO:0008270^molecular_function^zinc ion binding`GO:0098957^biological_process^anterograde axonal transport of mitochondrion`GO:0098930^biological_process^axonal transport`GO:0035609^biological_process^C-terminal protein deglutamylation`GO:0021954^biological_process^central nervous system neuron development`GO:0051607^biological_process^defense response to virus`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:2000060^biological_process^positive regulation of ubiquitin-dependent protein catabolic process`GO:0035608^biological_process^protein deglutamylation`GO:0035610^biological_process^protein side chain deglutamylation`GO:0120222^biological_process^regulation of blastocyst development`GO:0098958^biological_process^retrograde axonal transport of mitochondrion	GO:0004181^molecular_function^metallocarboxypeptidase activity`GO:0008270^molecular_function^zinc ion binding`GO:0006508^biological_process^proteolysis	OFRAG00000006363.1	CYTOSOLIC CARBOXYPEPTIDASE 6	K23439
+OG0007231	osedax	GO:0016021^cellular_component^integral component of membrane`GO:0005743^cellular_component^mitochondrial inner membrane`GO:0031966^cellular_component^mitochondrial membrane`GO:0046872^molecular_function^metal ion binding`GO:0004222^molecular_function^metalloendopeptidase activity`GO:0002024^biological_process^diet induced thermogenesis`GO:0097009^biological_process^energy homeostasis`GO:0006006^biological_process^glucose metabolic process`GO:0140468^biological_process^HRI-mediated signaling`GO:0140467^biological_process^integrated stress response signaling`GO:0006629^biological_process^lipid metabolic process`GO:0034982^biological_process^mitochondrial protein processing`GO:0033108^biological_process^mitochondrial respiratory chain complex assembly`GO:0010637^biological_process^negative regulation of mitochondrial fusion`GO:0043065^biological_process^positive regulation of apoptotic process`GO:0016540^biological_process^protein autoprocessing`GO:0006515^biological_process^protein quality control for misfolded or incompletely synthesized proteins`GO:1903850^biological_process^regulation of cristae formation`GO:0031638^biological_process^zymogen activation	GO:0016021^cellular_component^integral component of membrane`GO:0005743^cellular_component^mitochondrial inner membrane`GO:0031966^cellular_component^mitochondrial membrane`GO:0046872^molecular_function^metal ion binding`GO:0004222^molecular_function^metalloendopeptidase activity`GO:0002024^biological_process^diet induced thermogenesis`GO:0097009^biological_process^energy homeostasis`GO:0006006^biological_process^glucose metabolic process`GO:0140468^biological_process^HRI-mediated signaling`GO:0140467^biological_process^integrated stress response signaling`GO:0006629^biological_process^lipid metabolic process`GO:0034982^biological_process^mitochondrial protein processing`GO:0033108^biological_process^mitochondrial respiratory chain complex assembly`GO:0010637^biological_process^negative regulation of mitochondrial fusion`GO:0043065^biological_process^positive regulation of apoptotic process`GO:0016540^biological_process^protein autoprocessing`GO:0006515^biological_process^protein quality control for misfolded or incompletely synthesized proteins`GO:1903850^biological_process^regulation of cristae formation`GO:0031638^biological_process^zymogen activation	GO:0004222^molecular_function^metalloendopeptidase activity`GO:0006508^biological_process^proteolysis	OFRAG00000014170.1	METALLOENDOPEPTIDASE OMA1 MITOCHONDRIAL	K23010
+OG0007236	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005634^cellular_component^nucleus`GO:0005524^molecular_function^ATP binding`GO:0000287^molecular_function^magnesium ion binding`GO:0004674^molecular_function^protein serine/threonine kinase activity`GO:0042149^biological_process^cellular response to glucose starvation`GO:0035556^biological_process^intracellular signal transduction`GO:0006468^biological_process^protein phosphorylation	GO:0005737^cellular_component^cytoplasm`GO:0005634^cellular_component^nucleus`GO:0005524^molecular_function^ATP binding`GO:0000287^molecular_function^magnesium ion binding`GO:0004674^molecular_function^protein serine/threonine kinase activity`GO:0042149^biological_process^cellular response to glucose starvation`GO:0035556^biological_process^intracellular signal transduction`GO:0006468^biological_process^protein phosphorylation	GO:0004672^molecular_function^protein kinase activity`GO:0005524^molecular_function^ATP binding`GO:0006468^biological_process^protein phosphorylation	OFRAG00000017486.1	NIM1 SERINE/THREONINE PROTEIN KINASE	K16310
+OG0007562							
+OG0007724							
+OG0007831	osedax	GO:0005829^cellular_component^cytosol`GO:0005634^cellular_component^nucleus`GO:0072572^molecular_function^poly-ADP-D-ribose binding`GO:0061630^molecular_function^ubiquitin protein ligase activity`GO:0004842^molecular_function^ubiquitin-protein transferase activity`GO:0008270^molecular_function^zinc ion binding`GO:0090263^biological_process^positive regulation of canonical Wnt signaling pathway`GO:0051865^biological_process^protein autoubiquitination`GO:0070936^biological_process^protein K48-linked ubiquitination`GO:0006511^biological_process^ubiquitin-dependent protein catabolic process`GO:0016055^biological_process^Wnt signaling pathway	GO:0005829^cellular_component^cytosol`GO:0005634^cellular_component^nucleus`GO:0072572^molecular_function^poly-ADP-D-ribose binding`GO:0061630^molecular_function^ubiquitin protein ligase activity`GO:0004842^molecular_function^ubiquitin-protein transferase activity`GO:0008270^molecular_function^zinc ion binding`GO:0090263^biological_process^positive regulation of canonical Wnt signaling pathway`GO:0051865^biological_process^protein autoubiquitination`GO:0070936^biological_process^protein K48-linked ubiquitination`GO:0006511^biological_process^ubiquitin-dependent protein catabolic process`GO:0016055^biological_process^Wnt signaling pathway	GO:0046872^molecular_function^metal ion binding	OFRAG00000012406.1	E3 UBIQUITIN-PROTEIN LIGASE RNF146	K15700
+OG0007976							
+OG0008011							
+OG0008079	osedax	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0003735^molecular_function^structural constituent of ribosome`GO:0006412^biological_process^translation	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0003735^molecular_function^structural constituent of ribosome`GO:0006412^biological_process^translation	GO:0003735^molecular_function^structural constituent of ribosome`GO:0006412^biological_process^translation`GO:0005622^cellular_component^intracellular anatomical structure`GO:0005840^cellular_component^ribosome	OFRAG00000000664.1	39S RIBOSOMAL PROTEIN L3 MITOCHONDRIAL	K02906
+OG0008189	osedax	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0003723^molecular_function^RNA binding`GO:0003735^molecular_function^structural constituent of ribosome`GO:0070125^biological_process^mitochondrial translational elongation`GO:0070126^biological_process^mitochondrial translational termination	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0003723^molecular_function^RNA binding`GO:0003735^molecular_function^structural constituent of ribosome`GO:0070125^biological_process^mitochondrial translational elongation`GO:0070126^biological_process^mitochondrial translational termination	.	OFRAG00000014426.1	39S RIBOSOMAL PROTEIN L54 MITOCHONDRIAL	K17435
+OG0008210	osedax	GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0016757^molecular_function^transferase activity transferring glycosyl groups`GO:0042546^biological_process^cell wall biogenesis`GO:0000271^biological_process^polysaccharide biosynthetic process`GO:0006486^biological_process^protein glycosylation`GO:0048767^biological_process^root hair elongation	GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0016757^molecular_function^transferase activity transferring glycosyl groups`GO:0042546^biological_process^cell wall biogenesis`GO:0000271^biological_process^polysaccharide biosynthetic process`GO:0006486^biological_process^protein glycosylation`GO:0048767^biological_process^root hair elongation	.	OFRAG00000011448.1	XYLOGLUCAN GALACTOSYLTRANSFERASE GT20-RELATED	K20888
+OG0008210	osedax	GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0016757^molecular_function^transferase activity transferring glycosyl groups`GO:0006486^biological_process^protein glycosylation	GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0016757^molecular_function^transferase activity transferring glycosyl groups`GO:0006486^biological_process^protein glycosylation	.	OFRAG00000011449.1	XYLOGLUCAN GALACTOSYLTRANSFERASE GT20-RELATED	K20888
+OG0008264	osedax	.	.	.	OFRAG00000008268.1	OUT AT FIRST	
+OG0008272							
+OG0008304	osedax	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005758^cellular_component^mitochondrial intermembrane space`GO:0046872^molecular_function^metal ion binding`GO:0072321^biological_process^chaperone-mediated protein transport	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005758^cellular_component^mitochondrial intermembrane space`GO:0046872^molecular_function^metal ion binding`GO:0072321^biological_process^chaperone-mediated protein transport	.	OFRAG00000016148.1	MITOCHONDRIAL IMPORT INNER MEMBRANE TRANSLOCASE SUBUNIT TIM13	K17781
+OG0008313							
+OG0008335							
+OG0008409							
+OG0008448							
+OG0008806							
+OG0008842							
+OG0008899							
+OG0008931	osedax	GO:0061685^molecular_function^diphthine methylesterase activity`GO:0017183^biological_process^peptidyl-diphthamide biosynthetic process from peptidyl-histidine	GO:0061685^molecular_function^diphthine methylesterase activity`GO:0017183^biological_process^peptidyl-diphthamide biosynthetic process from peptidyl-histidine	.	OFRAG00000013466.1	DIPHTHINE METHYLTRANSFERASE	K17868
+OG0008996							
+OG0009019							
+OG0009053							
+OG0009079							
+OG0009180	osedax	GO:0000775^cellular_component^chromosome centromeric region`GO:0005634^cellular_component^nucleus`GO:0046974^molecular_function^histone methyltransferase activity (H3-K9 specific)`GO:0008270^molecular_function^zinc ion binding`GO:0007049^biological_process^cell cycle`GO:0030154^biological_process^cell differentiation`GO:0034968^biological_process^histone lysine methylation	GO:0000775^cellular_component^chromosome centromeric region`GO:0005634^cellular_component^nucleus`GO:0046974^molecular_function^histone methyltransferase activity (H3-K9 specific)`GO:0008270^molecular_function^zinc ion binding`GO:0007049^biological_process^cell cycle`GO:0030154^biological_process^cell differentiation`GO:0034968^biological_process^histone lysine methylation	GO:0008270^molecular_function^zinc ion binding`GO:0018024^molecular_function^histone-lysine N-methyltransferase activity`GO:0034968^biological_process^histone lysine methylation`GO:0005634^cellular_component^nucleus`GO:0005515^molecular_function^protein binding	OFRAG00000006031.1	HISTONE-LYSINE N-METHYLTRANSFERASE-RELATED	K11419
+OG0009218							
+OG0009222	osedax	.	.	.	OFRAG00000002412.1	PROTEIN CBG19064	
+OG0009287							
+OG0009297							
+OG0009335							
+OG0009344							
+OG0009544							
+OG0009575	osedax	GO:0005887^cellular_component^integral component of plasma membrane`GO:0043005^cellular_component^neuron projection`GO:0045202^cellular_component^synapse`GO:0001587^molecular_function^Gq/11-coupled serotonin receptor activity`GO:0030594^molecular_function^neurotransmitter receptor activity`GO:0007610^biological_process^behavior`GO:0048598^biological_process^embryonic morphogenesis`GO:0007507^biological_process^heart development`GO:0050795^biological_process^regulation of behavior`GO:0006939^biological_process^smooth muscle contraction`GO:0042310^biological_process^vasoconstriction	GO:0005887^cellular_component^integral component of plasma membrane`GO:0043005^cellular_component^neuron projection`GO:0045202^cellular_component^synapse`GO:0001587^molecular_function^Gq/11-coupled serotonin receptor activity`GO:0030594^molecular_function^neurotransmitter receptor activity`GO:0007610^biological_process^behavior`GO:0048598^biological_process^embryonic morphogenesis`GO:0007507^biological_process^heart development`GO:0050795^biological_process^regulation of behavior`GO:0006939^biological_process^smooth muscle contraction`GO:0042310^biological_process^vasoconstriction	GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0016021^cellular_component^integral component of membrane	OFRAG00000013322.1	5-HYDROXYTRYPTAMINE (SEROTONIN) RECEPTOR 2A ISOFORM B	K04157
+OG0009586							
+OG0009649							
+OG0009652							
+OG0009743							
+OG0009799							
+OG0009825							
+OG0009832	osedax	GO:0005634^cellular_component^nucleus`GO:0000981^molecular_function^DNA-binding transcription factor activity RNA polymerase II-specific`GO:0046872^molecular_function^metal ion binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0006357^biological_process^regulation of transcription by RNA polymerase II	GO:0005634^cellular_component^nucleus`GO:0000981^molecular_function^DNA-binding transcription factor activity RNA polymerase II-specific`GO:0046872^molecular_function^metal ion binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0006357^biological_process^regulation of transcription by RNA polymerase II	GO:0003676^molecular_function^nucleic acid binding	OFRAG00000002386.1	CROL ALPHA	K09228
+OG0009833	osedax	GO:0005829^cellular_component^cytosol`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0048471^cellular_component^perinuclear region of cytoplasm`GO:0070182^molecular_function^DNA polymerase binding`GO:0007049^biological_process^cell cycle`GO:0060325^biological_process^face morphogenesis`GO:0001701^biological_process^in utero embryonic development`GO:0001934^biological_process^positive regulation of protein phosphorylation	GO:0005829^cellular_component^cytosol`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0048471^cellular_component^perinuclear region of cytoplasm`GO:0070182^molecular_function^DNA polymerase binding`GO:0007049^biological_process^cell cycle`GO:0060325^biological_process^face morphogenesis`GO:0001701^biological_process^in utero embryonic development`GO:0001934^biological_process^positive regulation of protein phosphorylation	.	OFRAG00000013468.1	CDK2-ASSOCIATED PROTEIN 1 ISOFORM B	
+OG0009878	osedax	GO:0032991^cellular_component^protein-containing complex`GO:0044877^molecular_function^protein-containing complex binding`GO:0043248^biological_process^proteasome assembly	GO:0032991^cellular_component^protein-containing complex`GO:0044877^molecular_function^protein-containing complex binding`GO:0043248^biological_process^proteasome assembly	GO:0043248^biological_process^proteasome assembly	OFRAG00000006736.1	PROTEASOME ASSEMBLY CHAPERONE 4	K11878
+OG0009914	osedax	.	.	.	OFRAG00000017145.1	FAMILY NOT NAMED	K15335
+OG0009952							
+OG0009954							
+OG0009968							
+OG0009969							
+OG0009973							
+OG0009977							
+OG0010020							
+OG0010037							
+OG0010040							
+OG0010069							
+OG0010092	osedax	GO:0005829^cellular_component^cytosol`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport	GO:0005829^cellular_component^cytosol`GO:0005096^molecular_function^GTPase activator activity`GO:0090630^biological_process^activation of GTPase activity`GO:0006886^biological_process^intracellular protein transport	.	OFRAG00000009121.1	TBC1 DOMAIN FAMILY MEMBER 2A	K20166
+OG0010123							
+OG0010144							
+OG0010203							
+OG0010256							
+OG0010352	osedax	GO:0070062^cellular_component^extracellular exosome`GO:0031012^cellular_component^extracellular matrix`GO:0005615^cellular_component^extracellular space	GO:0070062^cellular_component^extracellular exosome`GO:0031012^cellular_component^extracellular matrix`GO:0005615^cellular_component^extracellular space	.	OFRAG00000004986.1	IGGFC-BINDING PROTEIN	
+OG0010439							
+OG0010443							
+OG0010449							
+OG0010456							
+OG0010489							
+OG0010495							
+OG0010496	osedax	GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046872^molecular_function^metal ion binding`GO:0046983^molecular_function^protein dimerization activity	GO:0005634^cellular_component^nucleus`GO:0003677^molecular_function^DNA binding`GO:0046872^molecular_function^metal ion binding`GO:0046983^molecular_function^protein dimerization activity	GO:0003676^molecular_function^nucleic acid binding	OFRAG00000007800.1	THAP DOMAIN-CONTAINING	
+OG0010496	osedax	.	.	GO:0003676^molecular_function^nucleic acid binding	OFRAG00000016288.1	THAP DOMAIN-CONTAINING	
+OG0010496	osedax	.	.	.	OFRAG00000016611.1	NO HIT
+OG0010498	osedax	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005758^cellular_component^mitochondrial intermembrane space`GO:0005759^cellular_component^mitochondrial matrix`GO:0042645^cellular_component^mitochondrial nucleoid`GO:0005739^cellular_component^mitochondrion`GO:0034551^biological_process^mitochondrial respiratory chain complex III assembly`GO:1903364^biological_process^positive regulation of cellular protein catabolic process`GO:0070131^biological_process^positive regulation of mitochondrial translation`GO:0050796^biological_process^regulation of insulin secretion`GO:0002082^biological_process^regulation of oxidative phosphorylation`GO:2001014^biological_process^regulation of skeletal muscle cell differentiation	GO:0005743^cellular_component^mitochondrial inner membrane`GO:0005758^cellular_component^mitochondrial intermembrane space`GO:0005759^cellular_component^mitochondrial matrix`GO:0042645^cellular_component^mitochondrial nucleoid`GO:0005739^cellular_component^mitochondrion`GO:0034551^biological_process^mitochondrial respiratory chain complex III assembly`GO:1903364^biological_process^positive regulation of cellular protein catabolic process`GO:0070131^biological_process^positive regulation of mitochondrial translation`GO:0050796^biological_process^regulation of insulin secretion`GO:0002082^biological_process^regulation of oxidative phosphorylation`GO:2001014^biological_process^regulation of skeletal muscle cell differentiation	.	OFRAG00000014234.1	UBIQUINOL-CYTOCHROME-C REDUCTASE COMPLEX ASSEMBLY FACTOR 2	K17682
+OG0010598							
+OG0010620							
+OG0010690	osedax	GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0016604^cellular_component^nuclear body`GO:0003735^molecular_function^structural constituent of ribosome`GO:0042254^biological_process^ribosome biogenesis`GO:0006412^biological_process^translation	GO:0005762^cellular_component^mitochondrial large ribosomal subunit`GO:0005739^cellular_component^mitochondrion`GO:0016604^cellular_component^nuclear body`GO:0003735^molecular_function^structural constituent of ribosome`GO:0042254^biological_process^ribosome biogenesis`GO:0006412^biological_process^translation	GO:0003735^molecular_function^structural constituent of ribosome`GO:0006412^biological_process^translation`GO:0005622^cellular_component^intracellular anatomical structure`GO:0005840^cellular_component^ribosome	OFRAG00000017331.1	39S RIBOSOMAL PROTEIN L36 MITOCHONDRIAL	K02919
+OG0010708							
+OG0010749							
+OG0010759							
+OG0010807							
+OG0010824							
+OG0010827							
+OG0010828							
+OG0010838							
+OG0010883							
+OG0010885	osedax	.	.	.	OFRAG00000002217.1	GENE 9195-RELATED	
+OG0010885	osedax	.	.	.	OFRAG00000014346.1	GENE 9195-RELATED-RELATED	
+OG0010944							
+OG0010965							
+OG0010969							
+OG0011049							
+OG0011064							
+OG0011131	osedax	GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0009536^cellular_component^plastid`GO:0005524^molecular_function^ATP binding`GO:0016887^molecular_function^ATPase activity`GO:0042626^molecular_function^ATPase-coupled transmembrane transporter activity`GO:0055085^biological_process^transmembrane transport	GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0009536^cellular_component^plastid`GO:0005524^molecular_function^ATP binding`GO:0016887^molecular_function^ATPase activity`GO:0042626^molecular_function^ATPase-coupled transmembrane transporter activity`GO:0055085^biological_process^transmembrane transport	GO:0005524^molecular_function^ATP binding`GO:0042626^molecular_function^ATPase-coupled transmembrane transporter activity`GO:0055085^biological_process^transmembrane transport`GO:0016021^cellular_component^integral component of membrane	OFRAG00000013248.1	ATP-DEPENDENT PERMEASE MDL1 MITOCHONDRIAL	K05658
+OG0011194							
+OG0011195							
+OG0011205							
+OG0011212							
+OG0011240							
+OG0011247							
+OG0011365							
+OG0011390							
+OG0011422							
+OG0011440							
+OG0011503	osedax	GO:0005887^cellular_component^integral component of plasma membrane`GO:0043005^cellular_component^neuron projection`GO:0045202^cellular_component^synapse`GO:0001587^molecular_function^Gq/11-coupled serotonin receptor activity`GO:0030594^molecular_function^neurotransmitter receptor activity`GO:0007610^biological_process^behavior`GO:0048598^biological_process^embryonic morphogenesis`GO:0007507^biological_process^heart development`GO:0050795^biological_process^regulation of behavior`GO:0006939^biological_process^smooth muscle contraction`GO:0042310^biological_process^vasoconstriction	GO:0005887^cellular_component^integral component of plasma membrane`GO:0043005^cellular_component^neuron projection`GO:0045202^cellular_component^synapse`GO:0001587^molecular_function^Gq/11-coupled serotonin receptor activity`GO:0030594^molecular_function^neurotransmitter receptor activity`GO:0007610^biological_process^behavior`GO:0048598^biological_process^embryonic morphogenesis`GO:0007507^biological_process^heart development`GO:0050795^biological_process^regulation of behavior`GO:0006939^biological_process^smooth muscle contraction`GO:0042310^biological_process^vasoconstriction	GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0016021^cellular_component^integral component of membrane	OFRAG00000001359.1	SUBFAMILY NOT NAMED	K04157
+OG0011551							
+OG0011594							
+OG0011612							
+OG0011652							
+OG0011656							
+OG0011668							
+OG0011722	osedax	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0016491^molecular_function^oxidoreductase activity	GO:0005788^cellular_component^endoplasmic reticulum lumen`GO:0016491^molecular_function^oxidoreductase activity	.	OFRAG00000010232.1	SELENOPROTEIN F	
+OG0011754							
+OG0011899							
+OG0011966							
+OG0011972							
+OG0011988							
+OG0012031							
+OG0012039							
+OG0012125							
+OG0012138							
+OG0012150							
+OG0012315							
+OG0012354							
+OG0012357							
+OG0012364							
+OG0012407							
+OG0012424							
+OG0012527							
+OG0012551							
+OG0012563							
+OG0012575							
+OG0012780							
+OG0012806							
+OG0012853	osedax	.	.	.	OFRAG00000001424.1	SUCCINATE DEHYDROGENASE ASSEMBLY FACTOR 1 MITOCHONDRIAL	
+OG0012858							
+OG0012936							
+OG0012982							
+OG0012993	osedax	GO:0005576^cellular_component^extracellular region`GO:0005615^cellular_component^extracellular space`GO:0005794^cellular_component^Golgi apparatus`GO:0005796^cellular_component^Golgi lumen`GO:0030173^cellular_component^integral component of Golgi membrane`GO:0016020^cellular_component^membrane`GO:0030141^cellular_component^secretory granule`GO:0005802^cellular_component^trans-Golgi network`GO:0004175^molecular_function^endopeptidase activity`GO:0008233^molecular_function^peptidase activity`GO:0042277^molecular_function^peptide binding`GO:0004252^molecular_function^serine-type endopeptidase activity`GO:0009952^biological_process^anterior/posterior pattern specification`GO:0003279^biological_process^cardiac septum development`GO:0007267^biological_process^cell-cell signaling`GO:0060976^biological_process^coronary vasculature development`GO:0140447^biological_process^cytokine precursor processing`GO:0007368^biological_process^determination of left/right symmetry`GO:0007566^biological_process^embryo implantation`GO:0048566^biological_process^embryonic digestive tract development`GO:0048706^biological_process^embryonic skeletal system development`GO:0007507^biological_process^heart development`GO:0001822^biological_process^kidney development`GO:0035108^biological_process^limb morphogenesis`GO:0032455^biological_process^nerve growth factor processing`GO:0043043^biological_process^peptide biosynthetic process`GO:0016486^biological_process^peptide hormone processing`GO:0016485^biological_process^protein processing`GO:0051004^biological_process^regulation of lipoprotein lipase activity`GO:0002001^biological_process^renin secretion into blood stream`GO:0030323^biological_process^respiratory tube development`GO:0006465^biological_process^signal peptide processing`GO:0019058^biological_process^viral life cycle	GO:0005576^cellular_component^extracellular region`GO:0005615^cellular_component^extracellular space`GO:0005794^cellular_component^Golgi apparatus`GO:0005796^cellular_component^Golgi lumen`GO:0030173^cellular_component^integral component of Golgi membrane`GO:0016020^cellular_component^membrane`GO:0030141^cellular_component^secretory granule`GO:0005802^cellular_component^trans-Golgi network`GO:0004175^molecular_function^endopeptidase activity`GO:0008233^molecular_function^peptidase activity`GO:0042277^molecular_function^peptide binding`GO:0004252^molecular_function^serine-type endopeptidase activity`GO:0009952^biological_process^anterior/posterior pattern specification`GO:0003279^biological_process^cardiac septum development`GO:0007267^biological_process^cell-cell signaling`GO:0060976^biological_process^coronary vasculature development`GO:0140447^biological_process^cytokine precursor processing`GO:0007368^biological_process^determination of left/right symmetry`GO:0007566^biological_process^embryo implantation`GO:0048566^biological_process^embryonic digestive tract development`GO:0048706^biological_process^embryonic skeletal system development`GO:0007507^biological_process^heart development`GO:0001822^biological_process^kidney development`GO:0035108^biological_process^limb morphogenesis`GO:0032455^biological_process^nerve growth factor processing`GO:0043043^biological_process^peptide biosynthetic process`GO:0016486^biological_process^peptide hormone processing`GO:0016485^biological_process^protein processing`GO:0051004^biological_process^regulation of lipoprotein lipase activity`GO:0002001^biological_process^renin secretion into blood stream`GO:0030323^biological_process^respiratory tube development`GO:0006465^biological_process^signal peptide processing`GO:0019058^biological_process^viral life cycle	.	OFRAG00000008483.1	VARIANT-SPECIFIC SURFACE PROTEIN	
+OG0012993	osedax	.	.	.	OFRAG00000008484.1	NO HIT
+OG0012993	osedax	.	.	.	OFRAG00000008485.1	SUBFAMILY NOT NAMED	K10955
+OG0012993	osedax	GO:0005576^cellular_component^extracellular region`GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0004252^molecular_function^serine-type endopeptidase activity	GO:0005576^cellular_component^extracellular region`GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0004252^molecular_function^serine-type endopeptidase activity	.	OFRAG00000008486.1	VARIANT-SPECIFIC SURFACE PROTEIN	
+OG0012993	osedax	GO:0005604^cellular_component^basement membrane`GO:0005615^cellular_component^extracellular space`GO:0005509^molecular_function^calcium ion binding	GO:0005604^cellular_component^basement membrane`GO:0005615^cellular_component^extracellular space`GO:0005509^molecular_function^calcium ion binding	.	OFRAG00000008487.1	UNCHARACTERIZED	K06238
+OG0012993	osedax	GO:0062023^cellular_component^collagen-containing extracellular matrix`GO:0070062^cellular_component^extracellular exosome`GO:0031012^cellular_component^extracellular matrix`GO:0005576^cellular_component^extracellular region`GO:0005615^cellular_component^extracellular space`GO:0098633^molecular_function^collagen fibril binding`GO:0005201^molecular_function^extracellular matrix structural constituent`GO:0008201^molecular_function^heparin binding`GO:0005178^molecular_function^integrin binding`GO:0030036^biological_process^actin cytoskeleton organization`GO:0007155^biological_process^cell adhesion`GO:0030199^biological_process^collagen fibril organization`GO:0032963^biological_process^collagen metabolic process`GO:0048251^biological_process^elastic fiber assembly	GO:0062023^cellular_component^collagen-containing extracellular matrix`GO:0070062^cellular_component^extracellular exosome`GO:0031012^cellular_component^extracellular matrix`GO:0005576^cellular_component^extracellular region`GO:0005615^cellular_component^extracellular space`GO:0098633^molecular_function^collagen fibril binding`GO:0005201^molecular_function^extracellular matrix structural constituent`GO:0008201^molecular_function^heparin binding`GO:0005178^molecular_function^integrin binding`GO:0030036^biological_process^actin cytoskeleton organization`GO:0007155^biological_process^cell adhesion`GO:0030199^biological_process^collagen fibril organization`GO:0032963^biological_process^collagen metabolic process`GO:0048251^biological_process^elastic fiber assembly	.	OFRAG00000008726.1	UNCHARACTERIZED	
+OG0013004							
+OG0013047							
+OG0013075							
+OG0013080							
+OG0013081							
+OG0013083							
+OG0013088							
+OG0013095	osedax	.	.	.	OFRAG00000003432.1	BNAC06G30440D PROTEIN	
+OG0013095	osedax	.	.	.	OFRAG00000003433.1	G-TYPE LECTIN S-RECEPTOR-LIKE SERINE/THREONINE-PROTEIN KINASE SD2-5	
+OG0013099	osedax	.	.	.	OFRAG00000002772.1	NO HIT
+OG0013099	osedax	.	.	.	OFRAG00000013369.1	PROTEIN CBG12054	
+OG0013099	osedax	.	.	.	OFRAG00000014669.1	NO HIT
+OG0013099	osedax	.	.	.	OFRAG00000015943.1	PROTEIN CBG12054-RELATED	
+OG0013127							
+OG0013130							
+OG0013213							
+OG0013318							
+OG0013430							
+OG0013455	osedax	.	.	.	OFRAG00000013919.1	G-PROTEIN COUPLED RECEPTOR	
+OG0013456							
+OG0013463							
+OG0013516	osedax	GO:0005615^cellular_component^extracellular space`GO:0005791^cellular_component^rough endoplasmic reticulum`GO:0005509^molecular_function^calcium ion binding`GO:0008233^molecular_function^peptidase activity`GO:0004252^molecular_function^serine-type endopeptidase activity`GO:0007596^biological_process^blood coagulation`GO:0002542^biological_process^Factor XII activation`GO:0042730^biological_process^fibrinolysis`GO:0002353^biological_process^plasma kallikrein-kinin cascade`GO:0030194^biological_process^positive regulation of blood coagulation`GO:0051919^biological_process^positive regulation of fibrinolysis`GO:0010756^biological_process^positive regulation of plasminogen activation`GO:0016540^biological_process^protein autoprocessing`GO:0016485^biological_process^protein processing`GO:0006508^biological_process^proteolysis`GO:0051788^biological_process^response to misfolded protein`GO:0031638^biological_process^zymogen activation	GO:0005615^cellular_component^extracellular space`GO:0005791^cellular_component^rough endoplasmic reticulum`GO:0005509^molecular_function^calcium ion binding`GO:0008233^molecular_function^peptidase activity`GO:0004252^molecular_function^serine-type endopeptidase activity`GO:0007596^biological_process^blood coagulation`GO:0002542^biological_process^Factor XII activation`GO:0042730^biological_process^fibrinolysis`GO:0002353^biological_process^plasma kallikrein-kinin cascade`GO:0030194^biological_process^positive regulation of blood coagulation`GO:0051919^biological_process^positive regulation of fibrinolysis`GO:0010756^biological_process^positive regulation of plasminogen activation`GO:0016540^biological_process^protein autoprocessing`GO:0016485^biological_process^protein processing`GO:0006508^biological_process^proteolysis`GO:0051788^biological_process^response to misfolded protein`GO:0031638^biological_process^zymogen activation	.	OFRAG00000005085.1	HEPATOCYTE GROWTH FACTOR ACTIVATOR	
+OG0013516	osedax	GO:0005581^cellular_component^collagen trimer`GO:0005576^cellular_component^extracellular region`GO:0007155^biological_process^cell adhesion	GO:0005581^cellular_component^collagen trimer`GO:0005576^cellular_component^extracellular region`GO:0007155^biological_process^cell adhesion	.	OFRAG00000011647.1	UNCHARACTERIZED	K06238
+OG0013516	osedax	.	.	.	OFRAG00000015144.1	OS07G0415500 PROTEIN	
+OG0013516	osedax	.	.	.	OFRAG00000015146.1	OS07G0415500 PROTEIN	
+OG0013516	osedax	.	.	.	OFRAG00000015148.1	NO HIT
+OG0013594							
+OG0013610							
+OG0013706							
+OG0013709							
+OG0013715							
+OG0013716							
+OG0013719							
+OG0013765							
+OG0013788							
+OG0013889							
+OG0014012							
+OG0014074							
+OG0014111							
+OG0014174							
+OG0014223							
+OG0014337							
+OG0014395							
+OG0014399							
+OG0014408							
+OG0014422							
+OG0014423							
+OG0014426							
+OG0014435							
+OG0014443							
+OG0014445							
+OG0014447							
+OG0014448							
+OG0014450							
+OG0014452							
+OG0014456							
+OG0014457							
+OG0014461							
+OG0014465							
+OG0014489							
+OG0014529							
+OG0014531							
+OG0014535							
+OG0014541							
+OG0014542							
+OG0014689							
+OG0014690							
+OG0014806							
+OG0014844							
+OG0014873							
+OG0014898							
+OG0014925							
+OG0014942							
+OG0014978							
+OG0014989							
+OG0014994							
+OG0015039	osedax	.	.	.	OFRAG00000016978.1	EGF-LIKE-DOMAIN MULTIPLE 7 8	
+OG0015053	osedax	.	.	GO:0005515^molecular_function^protein binding	OFRAG00000006200.1	RAN GTPASE-ACTIVATING PROTEIN 1	K22614
+OG0015079							
+OG0015171							
+OG0015237							
+OG0015299							
+OG0015321							
+OG0015326							
+OG0015341							
+OG0015348							
+OG0015352							
+OG0015356							
+OG0015366							
+OG0015368	osedax	.	.	.	OFRAG00000006942.1	NO HIT
+OG0015372							
+OG0015378							
+OG0015380							
+OG0015384							
+OG0015387							
+OG0015395							
+OG0015396							
+OG0015443							
+OG0015489							
+OG0015496							
+OG0015691							
+OG0015696							
+OG0015727							
+OG0015747							
+OG0015774							
+OG0015833							
+OG0015852							
+OG0015890	osedax	GO:0005912^cellular_component^adherens junction`GO:0005794^cellular_component^Golgi apparatus`GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0005509^molecular_function^calcium ion binding`GO:0098609^biological_process^cell-cell adhesion`GO:0031589^biological_process^cell-substrate adhesion`GO:0010631^biological_process^epithelial cell migration`GO:0007156^biological_process^homophilic cell adhesion via plasma membrane adhesion molecules	GO:0005912^cellular_component^adherens junction`GO:0005794^cellular_component^Golgi apparatus`GO:0016021^cellular_component^integral component of membrane`GO:0005886^cellular_component^plasma membrane`GO:0005509^molecular_function^calcium ion binding`GO:0098609^biological_process^cell-cell adhesion`GO:0031589^biological_process^cell-substrate adhesion`GO:0010631^biological_process^epithelial cell migration`GO:0007156^biological_process^homophilic cell adhesion via plasma membrane adhesion molecules	.	OFRAG00000003360.1	SUBFAMILY NOT NAMED	
+OG0015910							
+OG0015926							
+OG0015941							
+OG0015947							
+OG0016016							
+OG0016107							
+OG0016167	osedax	.	.	.	OFRAG00000006874.1	NO HIT
+OG0016249							
+OG0016263							
+OG0016323							
+OG0016338							
+OG0016453							
+OG0016466							
+OG0016468							
+OG0016471	osedax	GO:0016021^cellular_component^integral component of membrane`GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0009881^molecular_function^photoreceptor activity`GO:0007602^biological_process^phototransduction`GO:0018298^biological_process^protein-chromophore linkage`GO:0007601^biological_process^visual perception	GO:0016021^cellular_component^integral component of membrane`GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0009881^molecular_function^photoreceptor activity`GO:0007602^biological_process^phototransduction`GO:0018298^biological_process^protein-chromophore linkage`GO:0007601^biological_process^visual perception	GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0016021^cellular_component^integral component of membrane	OFRAG00000010491.1	TRACE AMINE-ASSOCIATED RECEPTOR 19N	K04255
+OG0016474							
+OG0016483							
+OG0016486							
+OG0016491							
+OG0016496							
+OG0016503							
+OG0016505							
+OG0016512							
+OG0016514							
+OG0016525							
+OG0016526							
+OG0016528							
+OG0016529							
+OG0016576							
+OG0016634							
+OG0016643							
+OG0016888							
+OG0016993							
+OG0016999							
+OG0017017							
+OG0017097							
+OG0017136							
+OG0017180							
+OG0017232							
+OG0017274							
+OG0017340							
+OG0017424							
+OG0017425							
+OG0017497	osedax	GO:0045335^cellular_component^phagocytic vesicle`GO:0004588^molecular_function^orotate phosphoribosyltransferase activity`GO:0004590^molecular_function^orotidine-5'-phosphate decarboxylase activity`GO:0006207^biological_process^'de novo' pyrimidine nucleobase biosynthetic process`GO:0044205^biological_process^'de novo' UMP biosynthetic process`GO:0009116^biological_process^nucleoside metabolic process`GO:0019856^biological_process^pyrimidine nucleobase biosynthetic process`GO:0006222^biological_process^UMP biosynthetic process	GO:0045335^cellular_component^phagocytic vesicle`GO:0004588^molecular_function^orotate phosphoribosyltransferase activity`GO:0004590^molecular_function^orotidine-5'-phosphate decarboxylase activity`GO:0006207^biological_process^'de novo' pyrimidine nucleobase biosynthetic process`GO:0044205^biological_process^'de novo' UMP biosynthetic process`GO:0009116^biological_process^nucleoside metabolic process`GO:0019856^biological_process^pyrimidine nucleobase biosynthetic process`GO:0006222^biological_process^UMP biosynthetic process	GO:0009116^biological_process^nucleoside metabolic process	OFRAG00000013642.1	URIDINE 5'-MONOPHOSPHATE SYNTHASE	K13421
+OG0017539							
+OG0017660							
+OG0017669							
+OG0017692							
+OG0017698							
+OG0017731							
+OG0017735							
+OG0017765							
+OG0017784							
+OG0017837							
+OG0017911							
+OG0017940							
+OG0017946							
+OG0017950							
+OG0017952							
+OG0017955							
+OG0017963							
+OG0017975							
+OG0017979							
+OG0017981							
+OG0017992							
+OG0018009							
+OG0018010							
+OG0018022							
+OG0018027							
+OG0018069							
+OG0018152							
+OG0018186							
+OG0018195							
+OG0018197							
+OG0018206							
+OG0018208							
+OG0018215							
+OG0018227							
+OG0018228							
+OG0018230							
+OG0018549							
+OG0018562							
+OG0018591							
+OG0018614							
+OG0018626							
+OG0018659							
+OG0018691							
+OG0018730							
+OG0018753							
+OG0018757							
+OG0018775							
+OG0018783							
+OG0018790							
+OG0019108							
+OG0019174							
+OG0019196							
+OG0019199							
+OG0019213							
+OG0019215							
+OG0019221							
+OG0019266							
+OG0019284							
+OG0019315							
+OG0019333							
+OG0019362							
+OG0019393							
+OG0019401							
+OG0019437							
+OG0019444							
+OG0019479							
+OG0019522							
+OG0019523							
+OG0019525							
+OG0019554							
+OG0019558							
+OG0019580							
+OG0019732							
+OG0019859							
+OG0019922							
+OG0019947							
+OG0019951							
+OG0019957							
+OG0019968							
+OG0019989							
+OG0019993							
+OG0019996	osedax	GO:0070062^cellular_component^extracellular exosome`GO:0005887^cellular_component^integral component of plasma membrane`GO:0008381^molecular_function^mechanosensitive ion channel activity	GO:0070062^cellular_component^extracellular exosome`GO:0005887^cellular_component^integral component of plasma membrane`GO:0008381^molecular_function^mechanosensitive ion channel activity	.	OFRAG00000015400.1	TRANSMEMBRANE CHANNEL-LIKE PROTEIN 7	K21988
+OG0020002							
+OG0020005							
+OG0020016							
+OG0020019							
+OG0020030							
+OG0020052							
+OG0020059							
+OG0020061							
+OG0020064							
+OG0020069							
+OG0020073							
+OG0020074							
+OG0020076							
+OG0020087							
+OG0020097							
+OG0020099							
+OG0020101							
+OG0020104							
+OG0020106							
+OG0020109							
+OG0020116							
+OG0020136							
+OG0020147							
+OG0020148							
+OG0020265							
+OG0020346							
+OG0020371							
+OG0020373							
+OG0020374							
+OG0020376							
+OG0020381							
+OG0020384							
+OG0020387							
+OG0020389							
+OG0020392							
+OG0020398							
+OG0020407							
+OG0020417							
+OG0020418							
+OG0020420							
+OG0020866							
+OG0020907							
+OG0020909							
+OG0021169							
+OG0021174							
+OG0021212							
+OG0021338							
+OG0021379							
+OG0021554							
+OG0021558							
+OG0021576							
+OG0021640							
+OG0021684							
+OG0021687	osedax	GO:0005737^cellular_component^cytoplasm`GO:0005730^cellular_component^nucleolus`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0072357^cellular_component^PTW/PP1 phosphatase complex`GO:0046872^molecular_function^metal ion binding`GO:0016791^molecular_function^phosphatase activity`GO:0004722^molecular_function^protein serine/threonine phosphatase activity`GO:0007049^biological_process^cell cycle`GO:0051301^biological_process^cell division`GO:0032922^biological_process^circadian regulation of gene expression`GO:0043153^biological_process^entrainment of circadian clock by photoperiod`GO:0005977^biological_process^glycogen metabolic process`GO:0006470^biological_process^protein dephosphorylation`GO:0042752^biological_process^regulation of circadian rhythm	GO:0005737^cellular_component^cytoplasm`GO:0005730^cellular_component^nucleolus`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0072357^cellular_component^PTW/PP1 phosphatase complex`GO:0046872^molecular_function^metal ion binding`GO:0016791^molecular_function^phosphatase activity`GO:0004722^molecular_function^protein serine/threonine phosphatase activity`GO:0007049^biological_process^cell cycle`GO:0051301^biological_process^cell division`GO:0032922^biological_process^circadian regulation of gene expression`GO:0043153^biological_process^entrainment of circadian clock by photoperiod`GO:0005977^biological_process^glycogen metabolic process`GO:0006470^biological_process^protein dephosphorylation`GO:0042752^biological_process^regulation of circadian rhythm	GO:0016787^molecular_function^hydrolase activity	OFRAG00000012220.1	SERINE/THREONINE-PROTEIN PHOSPHATASE	K06269
+OG0021711							
+OG0021801							
+OG0021830							
+OG0021873							
+OG0021890							
+OG0021928	osedax	.	.	.	OFRAG00000014899.1	NO HIT
+OG0021950							
+OG0022032	osedax	GO:0031672^cellular_component^A band`GO:0016324^cellular_component^apical plasma membrane`GO:0016323^cellular_component^basolateral plasma membrane`GO:0043034^cellular_component^costamere`GO:0005856^cellular_component^cytoskeleton`GO:0005829^cellular_component^cytosol`GO:0005769^cellular_component^early endosome`GO:0014704^cellular_component^intercalated disc`GO:0005764^cellular_component^lysosome`GO:0031430^cellular_component^M band`GO:0045121^cellular_component^membrane raft`GO:0005739^cellular_component^mitochondrion`GO:0043005^cellular_component^neuron projection`GO:0005886^cellular_component^plasma membrane`GO:0045211^cellular_component^postsynaptic membrane`GO:0055037^cellular_component^recycling endosome`GO:0042383^cellular_component^sarcolemma`GO:0030315^cellular_component^T-tubule`GO:0030018^cellular_component^Z disc`GO:0051117^molecular_function^ATPase binding`GO:0008093^molecular_function^cytoskeletal anchor activity`GO:0019899^molecular_function^enzyme binding`GO:0044325^molecular_function^ion channel binding`GO:0140031^molecular_function^phosphorylation-dependent protein binding`GO:0019901^molecular_function^protein kinase binding`GO:0030674^molecular_function^protein-macromolecule adaptor activity`GO:0030507^molecular_function^spectrin binding`GO:0005200^molecular_function^structural constituent of cytoskeleton`GO:0086014^biological_process^atrial cardiac muscle cell action potential`GO:0086066^biological_process^atrial cardiac muscle cell to AV node cell communication`GO:0003283^biological_process^atrial septum development`GO:0006874^biological_process^cellular calcium ion homeostasis`GO:0034613^biological_process^cellular protein localization`GO:0006897^biological_process^endocytosis`GO:0006888^biological_process^endoplasmic reticulum to Golgi vesicle-mediated transport`GO:0086046^biological_process^membrane depolarization during SA node cell action potential`GO:0030913^biological_process^paranodal junction assembly`GO:1901021^biological_process^positive regulation of calcium ion transmembrane transporter activity`GO:0051928^biological_process^positive regulation of calcium ion transport`GO:2001259^biological_process^positive regulation of cation channel activity`GO:0010628^biological_process^positive regulation of gene expression`GO:1901018^biological_process^positive regulation of potassium ion transmembrane transporter activity`GO:0043268^biological_process^positive regulation of potassium ion transport`GO:0034394^biological_process^protein localization to cell surface`GO:0070972^biological_process^protein localization to endoplasmic reticulum`GO:0036309^biological_process^protein localization to M-band`GO:0033365^biological_process^protein localization to organelle`GO:0072659^biological_process^protein localization to plasma membrane`GO:0036371^biological_process^protein localization to T-tubule`GO:0050821^biological_process^protein stabilization`GO:0015031^biological_process^protein transport`GO:0098910^biological_process^regulation of atrial cardiac muscle cell action potential`GO:1901019^biological_process^regulation of calcium ion transmembrane transporter activity`GO:0051924^biological_process^regulation of calcium ion transport`GO:0086004^biological_process^regulation of cardiac muscle cell contraction`GO:0055117^biological_process^regulation of cardiac muscle contraction`GO:0010882^biological_process^regulation of cardiac muscle contraction by calcium ion signaling`GO:0010881^biological_process^regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion`GO:0002027^biological_process^regulation of heart rate`GO:0086091^biological_process^regulation of heart rate by cardiac conduction`GO:0031647^biological_process^regulation of protein stability`GO:0051279^biological_process^regulation of release of sequestered calcium ion into cytosol`GO:0098907^biological_process^regulation of SA node cell action potential`GO:0060307^biological_process^regulation of ventricular cardiac muscle cell membrane repolarization`GO:0051597^biological_process^response to methylmercury`GO:0086015^biological_process^SA node cell action potential`GO:0086070^biological_process^SA node cell to atrial cardiac muscle cell communication`GO:0070296^biological_process^sarcoplasmic reticulum calcium ion transport`GO:0033292^biological_process^T-tubule organization`GO:0086005^biological_process^ventricular cardiac muscle cell action potential	GO:0031672^cellular_component^A band`GO:0016324^cellular_component^apical plasma membrane`GO:0016323^cellular_component^basolateral plasma membrane`GO:0043034^cellular_component^costamere`GO:0005856^cellular_component^cytoskeleton`GO:0005829^cellular_component^cytosol`GO:0005769^cellular_component^early endosome`GO:0014704^cellular_component^intercalated disc`GO:0005764^cellular_component^lysosome`GO:0031430^cellular_component^M band`GO:0045121^cellular_component^membrane raft`GO:0005739^cellular_component^mitochondrion`GO:0043005^cellular_component^neuron projection`GO:0005886^cellular_component^plasma membrane`GO:0045211^cellular_component^postsynaptic membrane`GO:0055037^cellular_component^recycling endosome`GO:0042383^cellular_component^sarcolemma`GO:0030315^cellular_component^T-tubule`GO:0030018^cellular_component^Z disc`GO:0051117^molecular_function^ATPase binding`GO:0008093^molecular_function^cytoskeletal anchor activity`GO:0019899^molecular_function^enzyme binding`GO:0044325^molecular_function^ion channel binding`GO:0140031^molecular_function^phosphorylation-dependent protein binding`GO:0019901^molecular_function^protein kinase binding`GO:0030674^molecular_function^protein-macromolecule adaptor activity`GO:0030507^molecular_function^spectrin binding`GO:0005200^molecular_function^structural constituent of cytoskeleton`GO:0086014^biological_process^atrial cardiac muscle cell action potential`GO:0086066^biological_process^atrial cardiac muscle cell to AV node cell communication`GO:0003283^biological_process^atrial septum development`GO:0006874^biological_process^cellular calcium ion homeostasis`GO:0034613^biological_process^cellular protein localization`GO:0006897^biological_process^endocytosis`GO:0006888^biological_process^endoplasmic reticulum to Golgi vesicle-mediated transport`GO:0086046^biological_process^membrane depolarization during SA node cell action potential`GO:0030913^biological_process^paranodal junction assembly`GO:1901021^biological_process^positive regulation of calcium ion transmembrane transporter activity`GO:0051928^biological_process^positive regulation of calcium ion transport`GO:2001259^biological_process^positive regulation of cation channel activity`GO:0010628^biological_process^positive regulation of gene expression`GO:1901018^biological_process^positive regulation of potassium ion transmembrane transporter activity`GO:0043268^biological_process^positive regulation of potassium ion transport`GO:0034394^biological_process^protein localization to cell surface`GO:0070972^biological_process^protein localization to endoplasmic reticulum`GO:0036309^biological_process^protein localization to M-band`GO:0033365^biological_process^protein localization to organelle`GO:0072659^biological_process^protein localization to plasma membrane`GO:0036371^biological_process^protein localization to T-tubule`GO:0050821^biological_process^protein stabilization`GO:0015031^biological_process^protein transport`GO:0098910^biological_process^regulation of atrial cardiac muscle cell action potential`GO:1901019^biological_process^regulation of calcium ion transmembrane transporter activity`GO:0051924^biological_process^regulation of calcium ion transport`GO:0086004^biological_process^regulation of cardiac muscle cell contraction`GO:0055117^biological_process^regulation of cardiac muscle contraction`GO:0010882^biological_process^regulation of cardiac muscle contraction by calcium ion signaling`GO:0010881^biological_process^regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion`GO:0002027^biological_process^regulation of heart rate`GO:0086091^biological_process^regulation of heart rate by cardiac conduction`GO:0031647^biological_process^regulation of protein stability`GO:0051279^biological_process^regulation of release of sequestered calcium ion into cytosol`GO:0098907^biological_process^regulation of SA node cell action potential`GO:0060307^biological_process^regulation of ventricular cardiac muscle cell membrane repolarization`GO:0051597^biological_process^response to methylmercury`GO:0086015^biological_process^SA node cell action potential`GO:0086070^biological_process^SA node cell to atrial cardiac muscle cell communication`GO:0070296^biological_process^sarcoplasmic reticulum calcium ion transport`GO:0033292^biological_process^T-tubule organization`GO:0086005^biological_process^ventricular cardiac muscle cell action potential	GO:0005515^molecular_function^protein binding	OFRAG00000002008.1	ANKYRIN REPEAT PROTEIN	K10380
+OG0022043							
+OG0022044							
+OG0022060							
+OG0022107							
+OG0022132							
+OG0022177							
+OG0022187							
+OG0022196							
+OG0022197							
+OG0022212							
+OG0022218							
+OG0022368							
+OG0022477							
+OG0022493							
+OG0022570							
+OG0022728							
+OG0022734							
+OG0022750							
+OG0022752							
+OG0022786							
+OG0022787							
+OG0022789							
+OG0022807							
+OG0022810							
+OG0022825							
+OG0022833							
+OG0022841							
+OG0022858							
+OG0022883							
+OG0022889							
+OG0022894							
+OG0022906							
+OG0022911							
+OG0022915							
+OG0022928							
+OG0022951							
+OG0022956							
+OG0022968							
+OG0022974							
+OG0022987							
+OG0022989							
+OG0022998							
+OG0023004							
+OG0023034							
+OG0023048							
+OG0023054	osedax	GO:0071133^cellular_component^alpha9-beta1 integrin-ADAM8 complex`GO:0071065^cellular_component^alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex`GO:0009986^cellular_component^cell surface`GO:0005737^cellular_component^cytoplasm`GO:0032127^cellular_component^dense core granule membrane`GO:0005887^cellular_component^integral component of plasma membrane`GO:0032010^cellular_component^phagolysosome`GO:0005886^cellular_component^plasma membrane`GO:0002102^cellular_component^podosome`GO:0042581^cellular_component^specific granule`GO:0070820^cellular_component^tertiary granule`GO:0005509^molecular_function^calcium ion binding`GO:0050839^molecular_function^cell adhesion molecule binding`GO:0005178^molecular_function^integrin binding`GO:0004222^molecular_function^metalloendopeptidase activity`GO:0008237^molecular_function^metallopeptidase activity`GO:0008270^molecular_function^zinc ion binding`GO:0001525^biological_process^angiogenesis`GO:0043534^biological_process^blood vessel endothelial cell migration`GO:0000902^biological_process^cell morphogenesis`GO:0098609^biological_process^cell-cell adhesion`GO:0007160^biological_process^cell-matrix adhesion`GO:0071456^biological_process^cellular response to hypoxia`GO:0006954^biological_process^inflammatory response`GO:0002523^biological_process^leukocyte migration involved in inflammatory response`GO:0048247^biological_process^lymphocyte chemotaxis`GO:0061025^biological_process^membrane fusion`GO:0043524^biological_process^negative regulation of neuron apoptotic process`GO:2000399^biological_process^negative regulation of thymocyte aggregation`GO:0072675^biological_process^osteoclast fusion`GO:0002675^biological_process^positive regulation of acute inflammatory response`GO:0045780^biological_process^positive regulation of bone resorption`GO:0045785^biological_process^positive regulation of cell adhesion`GO:0002693^biological_process^positive regulation of cellular extravasation`GO:2000418^biological_process^positive regulation of eosinophil migration`GO:2000415^biological_process^positive regulation of fibronectin-dependent thymocyte migration`GO:0050729^biological_process^positive regulation of inflammatory response`GO:0045089^biological_process^positive regulation of innate immune response`GO:0043406^biological_process^positive regulation of MAP kinase activity`GO:0051044^biological_process^positive regulation of membrane protein ectodomain proteolysis`GO:2000391^biological_process^positive regulation of neutrophil extravasation`GO:0051092^biological_process^positive regulation of NF-kappaB transcription factor activity`GO:0051897^biological_process^positive regulation of protein kinase B signaling`GO:0033089^biological_process^positive regulation of T cell differentiation in thymus`GO:2000406^biological_process^positive regulation of T cell migration`GO:0070245^biological_process^positive regulation of thymocyte apoptotic process`GO:2000309^biological_process^positive regulation of tumor necrosis factor (ligand) superfamily member 11 production`GO:0022407^biological_process^regulation of cell-cell adhesion`GO:0045670^biological_process^regulation of osteoclast differentiation`GO:0048729^biological_process^tissue morphogenesis	GO:0071133^cellular_component^alpha9-beta1 integrin-ADAM8 complex`GO:0071065^cellular_component^alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex`GO:0009986^cellular_component^cell surface`GO:0005737^cellular_component^cytoplasm`GO:0032127^cellular_component^dense core granule membrane`GO:0005887^cellular_component^integral component of plasma membrane`GO:0032010^cellular_component^phagolysosome`GO:0005886^cellular_component^plasma membrane`GO:0002102^cellular_component^podosome`GO:0042581^cellular_component^specific granule`GO:0070820^cellular_component^tertiary granule`GO:0005509^molecular_function^calcium ion binding`GO:0050839^molecular_function^cell adhesion molecule binding`GO:0005178^molecular_function^integrin binding`GO:0004222^molecular_function^metalloendopeptidase activity`GO:0008237^molecular_function^metallopeptidase activity`GO:0008270^molecular_function^zinc ion binding`GO:0001525^biological_process^angiogenesis`GO:0043534^biological_process^blood vessel endothelial cell migration`GO:0000902^biological_process^cell morphogenesis`GO:0098609^biological_process^cell-cell adhesion`GO:0007160^biological_process^cell-matrix adhesion`GO:0071456^biological_process^cellular response to hypoxia`GO:0006954^biological_process^inflammatory response`GO:0002523^biological_process^leukocyte migration involved in inflammatory response`GO:0048247^biological_process^lymphocyte chemotaxis`GO:0061025^biological_process^membrane fusion`GO:0043524^biological_process^negative regulation of neuron apoptotic process`GO:2000399^biological_process^negative regulation of thymocyte aggregation`GO:0072675^biological_process^osteoclast fusion`GO:0002675^biological_process^positive regulation of acute inflammatory response`GO:0045780^biological_process^positive regulation of bone resorption`GO:0045785^biological_process^positive regulation of cell adhesion`GO:0002693^biological_process^positive regulation of cellular extravasation`GO:2000418^biological_process^positive regulation of eosinophil migration`GO:2000415^biological_process^positive regulation of fibronectin-dependent thymocyte migration`GO:0050729^biological_process^positive regulation of inflammatory response`GO:0045089^biological_process^positive regulation of innate immune response`GO:0043406^biological_process^positive regulation of MAP kinase activity`GO:0051044^biological_process^positive regulation of membrane protein ectodomain proteolysis`GO:2000391^biological_process^positive regulation of neutrophil extravasation`GO:0051092^biological_process^positive regulation of NF-kappaB transcription factor activity`GO:0051897^biological_process^positive regulation of protein kinase B signaling`GO:0033089^biological_process^positive regulation of T cell differentiation in thymus`GO:2000406^biological_process^positive regulation of T cell migration`GO:0070245^biological_process^positive regulation of thymocyte apoptotic process`GO:2000309^biological_process^positive regulation of tumor necrosis factor (ligand) superfamily member 11 production`GO:0022407^biological_process^regulation of cell-cell adhesion`GO:0045670^biological_process^regulation of osteoclast differentiation`GO:0048729^biological_process^tissue morphogenesis	GO:0004222^molecular_function^metalloendopeptidase activity`GO:0006508^biological_process^proteolysis	OFRAG00000015196.1	DISINTEGRIN AND METALLOPROTEINASE DOMAIN-CONTAINING PROTEIN 8	
+OG0023064							
+OG0023077							
+OG0023081							
+OG0023085							
+OG0023088							
+OG0023089							
+OG0023090							
+OG0023092							
+OG0023093							
+OG0023094							
+OG0023102							
+OG0023114							
+OG0023366							
+OG0023414							
+OG0023417							
+OG0023460	osedax	GO:0005829^cellular_component^cytosol`GO:0016020^cellular_component^membrane`GO:0005654^cellular_component^nucleoplasm`GO:0099524^cellular_component^postsynaptic cytosol`GO:0032991^cellular_component^protein-containing complex`GO:0045296^molecular_function^cadherin binding`GO:0005509^molecular_function^calcium ion binding`GO:0005516^molecular_function^calmodulin binding`GO:0004435^molecular_function^phosphatidylinositol phospholipase C activity`GO:0004629^molecular_function^phospholipase C activity`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0043647^biological_process^inositol phosphate metabolic process`GO:0016042^biological_process^lipid catabolic process`GO:0046488^biological_process^phosphatidylinositol metabolic process`GO:0048015^biological_process^phosphatidylinositol-mediated signaling`GO:0003073^biological_process^regulation of systemic arterial blood pressure`GO:0007223^biological_process^Wnt signaling pathway calcium modulating pathway	GO:0005829^cellular_component^cytosol`GO:0016020^cellular_component^membrane`GO:0005654^cellular_component^nucleoplasm`GO:0099524^cellular_component^postsynaptic cytosol`GO:0032991^cellular_component^protein-containing complex`GO:0045296^molecular_function^cadherin binding`GO:0005509^molecular_function^calcium ion binding`GO:0005516^molecular_function^calmodulin binding`GO:0004435^molecular_function^phosphatidylinositol phospholipase C activity`GO:0004629^molecular_function^phospholipase C activity`GO:0007186^biological_process^G protein-coupled receptor signaling pathway`GO:0043647^biological_process^inositol phosphate metabolic process`GO:0016042^biological_process^lipid catabolic process`GO:0046488^biological_process^phosphatidylinositol metabolic process`GO:0048015^biological_process^phosphatidylinositol-mediated signaling`GO:0003073^biological_process^regulation of systemic arterial blood pressure`GO:0007223^biological_process^Wnt signaling pathway calcium modulating pathway	.	OFRAG00000015546.1	1-PHOSPHATIDYLINOSITOL 4 5-BISPHOSPHATE PHOSPHODIESTERASE BETA-2	K05858
+OG0023503							
+OG0023505							
+OG0023510							
+OG0023517							
+OG0023526							
+OG0023528							
+OG0023541							
+OG0023545							
+OG0023548							
+OG0023553							
+OG0023560							
+OG0023575							
+OG0024218							
+OG0024336							
+OG0024361	osedax	GO:0005887^cellular_component^integral component of plasma membrane`GO:0008066^molecular_function^glutamate receptor activity`GO:0001641^molecular_function^group II metabotropic glutamate receptor activity`GO:0007216^biological_process^G protein-coupled glutamate receptor signaling pathway`GO:0010884^biological_process^positive regulation of lipid storage`GO:0051966^biological_process^regulation of synaptic transmission glutamatergic	GO:0005887^cellular_component^integral component of plasma membrane`GO:0008066^molecular_function^glutamate receptor activity`GO:0001641^molecular_function^group II metabotropic glutamate receptor activity`GO:0007216^biological_process^G protein-coupled glutamate receptor signaling pathway`GO:0010884^biological_process^positive regulation of lipid storage`GO:0051966^biological_process^regulation of synaptic transmission glutamatergic	.	OFRAG00000013072.1	METABOTROPIC GLUTAMATE RECEPTOR	K04606
+OG0024414							
+OG0024581							
+OG0024600							
+OG0024613							
+OG0024784							
+OG0024848							
+OG0024874							
+OG0024894							
+OG0024961							
+OG0025040							
+OG0025112	osedax	.	.	GO:0004930^molecular_function^G protein-coupled receptor activity`GO:0016020^cellular_component^membrane	OFRAG00000007364.1	PDF RECEPTOR-LIKE PROTEIN-RELATED	
+OG0025374							
+OG0025376							
+OG0025483							
+OG0025627							
+OG0025757							
+OG0025918							
+OG0025982	osedax	.	.	.	OFRAG00000016429.1	GUANYLATE CYCLASE 2G	
+OG0026027							
+OG0026196							
+OG0026219							
+OG0026327							
+OG0026497							
+OG0026546							
+OG0026574							
+OG0026595							
+OG0026767							
+OG0026789							
+OG0026803							
+OG0026823							
+OG0026842							
+OG0026843							
+OG0026858							
+OG0026884							
+OG0026907							
+OG0026916							
+OG0026920							
+OG0026926							
+OG0026929							
+OG0026938							
+OG0026948							
+OG0026950							
+OG0026958							
+OG0026971							
+OG0026986							
+OG0026990							
+OG0027005							
+OG0027012							
+OG0027022							
+OG0027037							
+OG0027046							
+OG0027059							
+OG0027100							
+OG0027119							
+OG0027127							
+OG0027128							
+OG0027159							
+OG0027177							
+OG0027183							
+OG0027193							
+OG0027195							
+OG0027217							
+OG0027218							
+OG0027234							
+OG0027235							
+OG0027238							
+OG0027248							
+OG0027263							
+OG0027273							
+OG0027276							
+OG0027294							
+OG0027309							
+OG0027315							
+OG0027321							
+OG0027328							
+OG0027346							
+OG0027348							
+OG0027359							
+OG0027377							
+OG0027385							
+OG0027387							
+OG0027391							
+OG0027393							
+OG0027414							
+OG0027421							
+OG0027425							
+OG0027427							
+OG0027429							
+OG0027444							
+OG0027447							
+OG0027463							
+OG0027469							
+OG0027502							
+OG0027595							
+OG0027942							
+OG0028013							
+OG0028030							
+OG0028116							
+OG0028122							
+OG0028137							
+OG0028138							
+OG0028139	osedax	GO:0009986^cellular_component^cell surface`GO:0062023^cellular_component^collagen-containing extracellular matrix`GO:0031012^cellular_component^extracellular matrix`GO:0033165^cellular_component^interphotoreceptor matrix`GO:0072534^cellular_component^perineuronal net`GO:0001750^cellular_component^photoreceptor outer segment`GO:0045202^cellular_component^synapse`GO:0005509^molecular_function^calcium ion binding`GO:0030246^molecular_function^carbohydrate binding`GO:0005540^molecular_function^hyaluronic acid binding`GO:0019903^molecular_function^protein phosphatase binding`GO:0007155^biological_process^cell adhesion`GO:0007417^biological_process^central nervous system development`GO:0008347^biological_process^glial cell migration`GO:0007507^biological_process^heart development`GO:0043666^biological_process^regulation of phosphoprotein phosphatase activity`GO:0001501^biological_process^skeletal system development`GO:0001657^biological_process^ureteric bud development	GO:0009986^cellular_component^cell surface`GO:0062023^cellular_component^collagen-containing extracellular matrix`GO:0031012^cellular_component^extracellular matrix`GO:0033165^cellular_component^interphotoreceptor matrix`GO:0072534^cellular_component^perineuronal net`GO:0001750^cellular_component^photoreceptor outer segment`GO:0045202^cellular_component^synapse`GO:0005509^molecular_function^calcium ion binding`GO:0030246^molecular_function^carbohydrate binding`GO:0005540^molecular_function^hyaluronic acid binding`GO:0019903^molecular_function^protein phosphatase binding`GO:0007155^biological_process^cell adhesion`GO:0007417^biological_process^central nervous system development`GO:0008347^biological_process^glial cell migration`GO:0007507^biological_process^heart development`GO:0043666^biological_process^regulation of phosphoprotein phosphatase activity`GO:0001501^biological_process^skeletal system development`GO:0001657^biological_process^ureteric bud development	.	OFRAG00000000991.1	PROTEIN CRUMBS HOMOLOG 2	K16506
+OG0028143							
+OG0028144							
+OG0028151							
+OG0028155	osedax	GO:0000785^cellular_component^chromatin`GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0000123^cellular_component^histone acetyltransferase complex`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0032991^cellular_component^protein-containing complex`GO:0032993^cellular_component^protein-DNA complex`GO:0005667^cellular_component^transcription regulator complex`GO:0016407^molecular_function^acetyltransferase activity`GO:0033613^molecular_function^activating transcription factor binding`GO:0050681^molecular_function^androgen receptor binding`GO:0003823^molecular_function^antigen binding`GO:0008013^molecular_function^beta-catenin binding`GO:0043425^molecular_function^bHLH transcription factor binding`GO:0003682^molecular_function^chromatin binding`GO:0031490^molecular_function^chromatin DNA binding`GO:0000987^molecular_function^cis-regulatory region sequence-specific DNA binding`GO:0003684^molecular_function^damaged DNA binding`GO:0003677^molecular_function^DNA binding`GO:0035259^molecular_function^glucocorticoid receptor binding`GO:0004402^molecular_function^histone acetyltransferase activity`GO:0140069^molecular_function^histone butyryltransferase activity`GO:0140068^molecular_function^histone crotonyltransferase activity`GO:0004468^molecular_function^lysine N-acetyltransferase activity acting on acetyl phosphate as donor`GO:0051019^molecular_function^mitogen-activated protein kinase binding`GO:0051059^molecular_function^NF-kappaB binding`GO:0035257^molecular_function^nuclear hormone receptor binding`GO:0002039^molecular_function^p53 binding`GO:0140065^molecular_function^peptide butyryltransferase activity`GO:0061733^molecular_function^peptide-lysine-N-acetyltransferase activity`GO:0042975^molecular_function^peroxisome proliferator activated receptor binding`GO:0097157^molecular_function^pre-mRNA intronic binding`GO:1990841^molecular_function^promoter-specific chromatin binding`GO:1990405^molecular_function^protein antigen binding`GO:0008022^molecular_function^protein C-terminus binding`GO:0019901^molecular_function^protein kinase binding`GO:0061920^molecular_function^protein propionyltransferase activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0001102^molecular_function^RNA polymerase II activating transcription factor binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0001085^molecular_function^RNA polymerase II transcription factor binding`GO:0000977^molecular_function^RNA polymerase II transcription regulatory region sequence-specific DNA binding`GO:0046332^molecular_function^SMAD binding`GO:0097677^molecular_function^STAT family protein binding`GO:0003713^molecular_function^transcription coactivator activity`GO:0008134^molecular_function^transcription factor binding`GO:0016746^molecular_function^transferase activity transferring acyl groups`GO:0008270^molecular_function^zinc ion binding`GO:0009887^biological_process^animal organ morphogenesis`GO:0006915^biological_process^apoptotic process`GO:0030183^biological_process^B cell differentiation`GO:0002209^biological_process^behavioral defense response`GO:0051216^biological_process^cartilage development`GO:0007049^biological_process^cell cycle`GO:0034644^biological_process^cellular response to UV`GO:0007623^biological_process^circadian rhythm`GO:0060325^biological_process^face morphogenesis`GO:0045444^biological_process^fat cell differentiation`GO:0007507^biological_process^heart development`GO:0016573^biological_process^histone acetylation`GO:0043969^biological_process^histone H2B acetylation`GO:0043966^biological_process^histone H3 acetylation`GO:0043967^biological_process^histone H4 acetylation`GO:0018393^biological_process^internal peptidyl-lysine acetylation`GO:0006475^biological_process^internal protein amino acid acetylation`GO:0042771^biological_process^intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator`GO:0007611^biological_process^learning or memory`GO:0030324^biological_process^lung development`GO:0010742^biological_process^macrophage derived foam cell differentiation`GO:0035855^biological_process^megakaryocyte development`GO:0035264^biological_process^multicellular organism growth`GO:0018076^biological_process^N-terminal peptidyl-lysine acetylation`GO:0060548^biological_process^negative regulation of cell death`GO:0031324^biological_process^negative regulation of cellular metabolic process`GO:0043154^biological_process^negative regulation of cysteine-type endopeptidase activity involved in apoptotic process`GO:0045721^biological_process^negative regulation of gluconeogenesis`GO:2000629^biological_process^negative regulation of miRNA metabolic process`GO:0031333^biological_process^negative regulation of protein-containing complex assembly`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:0018394^biological_process^peptidyl-lysine acetylation`GO:0140067^biological_process^peptidyl-lysine butyrylation`GO:0140066^biological_process^peptidyl-lysine crotonylation`GO:0061921^biological_process^peptidyl-lysine propionylation`GO:0030220^biological_process^platelet formation`GO:0043923^biological_process^positive regulation by host of viral transcription`GO:0045773^biological_process^positive regulation of axon extension`GO:0010942^biological_process^positive regulation of cell death`GO:0030307^biological_process^positive regulation of cell growth`GO:0061051^biological_process^positive regulation of cell growth involved in cardiac muscle cell development`GO:0045793^biological_process^positive regulation of cell size`GO:0031325^biological_process^positive regulation of cellular metabolic process`GO:0032967^biological_process^positive regulation of collagen biosynthetic process`GO:0043388^biological_process^positive regulation of DNA binding`GO:0051091^biological_process^positive regulation of DNA-binding transcription factor activity`GO:0010628^biological_process^positive regulation of gene expression`GO:0045815^biological_process^positive regulation of gene expression epigenetic`GO:0010560^biological_process^positive regulation of glycoprotein biosynthetic process`GO:0035066^biological_process^positive regulation of histone acetylation`GO:0014737^biological_process^positive regulation of muscle atrophy`GO:0010976^biological_process^positive regulation of neuron projection development`GO:1901224^biological_process^positive regulation of NIK/NF-kappaB signaling`GO:1901985^biological_process^positive regulation of protein acetylation`GO:0032092^biological_process^positive regulation of protein binding`GO:0042307^biological_process^positive regulation of protein import into nucleus`GO:0001934^biological_process^positive regulation of protein phosphorylation`GO:0050714^biological_process^positive regulation of protein secretion`GO:0045862^biological_process^positive regulation of proteolysis`GO:1905636^biological_process^positive regulation of RNA polymerase II regulatory region sequence-specific DNA binding`GO:0060298^biological_process^positive regulation of sarcomere organization`GO:0045944^biological_process^positive regulation of transcription by RNA polymerase II`GO:0006990^biological_process^positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0030511^biological_process^positive regulation of transforming growth factor beta receptor signaling pathway`GO:0045727^biological_process^positive regulation of translation`GO:0006473^biological_process^protein acetylation`GO:0031648^biological_process^protein destabilization`GO:0043491^biological_process^protein kinase B signaling`GO:0050821^biological_process^protein stabilization`GO:0065004^biological_process^protein-DNA complex assembly`GO:0060765^biological_process^regulation of androgen receptor signaling pathway`GO:0060177^biological_process^regulation of angiotensin metabolic process`GO:0006110^biological_process^regulation of glycolytic process`GO:0010821^biological_process^regulation of mitochondrion organization`GO:0006357^biological_process^regulation of transcription by RNA polymerase II`GO:0006355^biological_process^regulation of transcription DNA-templated`GO:0090043^biological_process^regulation of tubulin deacetylation`GO:0051592^biological_process^response to calcium ion`GO:0071548^biological_process^response to dexamethasone`GO:0042493^biological_process^response to drug`GO:0043627^biological_process^response to estrogen`GO:0009749^biological_process^response to glucose`GO:0001666^biological_process^response to hypoxia`GO:0007519^biological_process^skeletal muscle tissue development`GO:0001756^biological_process^somitogenesis`GO:0036268^biological_process^swimming`GO:0001966^biological_process^thigmotaxis	GO:0000785^cellular_component^chromatin`GO:0005737^cellular_component^cytoplasm`GO:0005829^cellular_component^cytosol`GO:0000123^cellular_component^histone acetyltransferase complex`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0032991^cellular_component^protein-containing complex`GO:0032993^cellular_component^protein-DNA complex`GO:0005667^cellular_component^transcription regulator complex`GO:0016407^molecular_function^acetyltransferase activity`GO:0033613^molecular_function^activating transcription factor binding`GO:0050681^molecular_function^androgen receptor binding`GO:0003823^molecular_function^antigen binding`GO:0008013^molecular_function^beta-catenin binding`GO:0043425^molecular_function^bHLH transcription factor binding`GO:0003682^molecular_function^chromatin binding`GO:0031490^molecular_function^chromatin DNA binding`GO:0000987^molecular_function^cis-regulatory region sequence-specific DNA binding`GO:0003684^molecular_function^damaged DNA binding`GO:0003677^molecular_function^DNA binding`GO:0035259^molecular_function^glucocorticoid receptor binding`GO:0004402^molecular_function^histone acetyltransferase activity`GO:0140069^molecular_function^histone butyryltransferase activity`GO:0140068^molecular_function^histone crotonyltransferase activity`GO:0004468^molecular_function^lysine N-acetyltransferase activity acting on acetyl phosphate as donor`GO:0051019^molecular_function^mitogen-activated protein kinase binding`GO:0051059^molecular_function^NF-kappaB binding`GO:0035257^molecular_function^nuclear hormone receptor binding`GO:0002039^molecular_function^p53 binding`GO:0140065^molecular_function^peptide butyryltransferase activity`GO:0061733^molecular_function^peptide-lysine-N-acetyltransferase activity`GO:0042975^molecular_function^peroxisome proliferator activated receptor binding`GO:0097157^molecular_function^pre-mRNA intronic binding`GO:1990841^molecular_function^promoter-specific chromatin binding`GO:1990405^molecular_function^protein antigen binding`GO:0008022^molecular_function^protein C-terminus binding`GO:0019901^molecular_function^protein kinase binding`GO:0061920^molecular_function^protein propionyltransferase activity`GO:0044877^molecular_function^protein-containing complex binding`GO:0001102^molecular_function^RNA polymerase II activating transcription factor binding`GO:0000978^molecular_function^RNA polymerase II cis-regulatory region sequence-specific DNA binding`GO:0001085^molecular_function^RNA polymerase II transcription factor binding`GO:0000977^molecular_function^RNA polymerase II transcription regulatory region sequence-specific DNA binding`GO:0046332^molecular_function^SMAD binding`GO:0097677^molecular_function^STAT family protein binding`GO:0003713^molecular_function^transcription coactivator activity`GO:0008134^molecular_function^transcription factor binding`GO:0016746^molecular_function^transferase activity transferring acyl groups`GO:0008270^molecular_function^zinc ion binding`GO:0009887^biological_process^animal organ morphogenesis`GO:0006915^biological_process^apoptotic process`GO:0030183^biological_process^B cell differentiation`GO:0002209^biological_process^behavioral defense response`GO:0051216^biological_process^cartilage development`GO:0007049^biological_process^cell cycle`GO:0034644^biological_process^cellular response to UV`GO:0007623^biological_process^circadian rhythm`GO:0060325^biological_process^face morphogenesis`GO:0045444^biological_process^fat cell differentiation`GO:0007507^biological_process^heart development`GO:0016573^biological_process^histone acetylation`GO:0043969^biological_process^histone H2B acetylation`GO:0043966^biological_process^histone H3 acetylation`GO:0043967^biological_process^histone H4 acetylation`GO:0018393^biological_process^internal peptidyl-lysine acetylation`GO:0006475^biological_process^internal protein amino acid acetylation`GO:0042771^biological_process^intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator`GO:0007611^biological_process^learning or memory`GO:0030324^biological_process^lung development`GO:0010742^biological_process^macrophage derived foam cell differentiation`GO:0035855^biological_process^megakaryocyte development`GO:0035264^biological_process^multicellular organism growth`GO:0018076^biological_process^N-terminal peptidyl-lysine acetylation`GO:0060548^biological_process^negative regulation of cell death`GO:0031324^biological_process^negative regulation of cellular metabolic process`GO:0043154^biological_process^negative regulation of cysteine-type endopeptidase activity involved in apoptotic process`GO:0045721^biological_process^negative regulation of gluconeogenesis`GO:2000629^biological_process^negative regulation of miRNA metabolic process`GO:0031333^biological_process^negative regulation of protein-containing complex assembly`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:0018394^biological_process^peptidyl-lysine acetylation`GO:0140067^biological_process^peptidyl-lysine butyrylation`GO:0140066^biological_process^peptidyl-lysine crotonylation`GO:0061921^biological_process^peptidyl-lysine propionylation`GO:0030220^biological_process^platelet formation`GO:0043923^biological_process^positive regulation by host of viral transcription`GO:0045773^biological_process^positive regulation of axon extension`GO:0010942^biological_process^positive regulation of cell death`GO:0030307^biological_process^positive regulation of cell growth`GO:0061051^biological_process^positive regulation of cell growth involved in cardiac muscle cell development`GO:0045793^biological_process^positive regulation of cell size`GO:0031325^biological_process^positive regulation of cellular metabolic process`GO:0032967^biological_process^positive regulation of collagen biosynthetic process`GO:0043388^biological_process^positive regulation of DNA binding`GO:0051091^biological_process^positive regulation of DNA-binding transcription factor activity`GO:0010628^biological_process^positive regulation of gene expression`GO:0045815^biological_process^positive regulation of gene expression epigenetic`GO:0010560^biological_process^positive regulation of glycoprotein biosynthetic process`GO:0035066^biological_process^positive regulation of histone acetylation`GO:0014737^biological_process^positive regulation of muscle atrophy`GO:0010976^biological_process^positive regulation of neuron projection development`GO:1901224^biological_process^positive regulation of NIK/NF-kappaB signaling`GO:1901985^biological_process^positive regulation of protein acetylation`GO:0032092^biological_process^positive regulation of protein binding`GO:0042307^biological_process^positive regulation of protein import into nucleus`GO:0001934^biological_process^positive regulation of protein phosphorylation`GO:0050714^biological_process^positive regulation of protein secretion`GO:0045862^biological_process^positive regulation of proteolysis`GO:1905636^biological_process^positive regulation of RNA polymerase II regulatory region sequence-specific DNA binding`GO:0060298^biological_process^positive regulation of sarcomere organization`GO:0045944^biological_process^positive regulation of transcription by RNA polymerase II`GO:0006990^biological_process^positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0030511^biological_process^positive regulation of transforming growth factor beta receptor signaling pathway`GO:0045727^biological_process^positive regulation of translation`GO:0006473^biological_process^protein acetylation`GO:0031648^biological_process^protein destabilization`GO:0043491^biological_process^protein kinase B signaling`GO:0050821^biological_process^protein stabilization`GO:0065004^biological_process^protein-DNA complex assembly`GO:0060765^biological_process^regulation of androgen receptor signaling pathway`GO:0060177^biological_process^regulation of angiotensin metabolic process`GO:0006110^biological_process^regulation of glycolytic process`GO:0010821^biological_process^regulation of mitochondrion organization`GO:0006357^biological_process^regulation of transcription by RNA polymerase II`GO:0006355^biological_process^regulation of transcription DNA-templated`GO:0090043^biological_process^regulation of tubulin deacetylation`GO:0051592^biological_process^response to calcium ion`GO:0071548^biological_process^response to dexamethasone`GO:0042493^biological_process^response to drug`GO:0043627^biological_process^response to estrogen`GO:0009749^biological_process^response to glucose`GO:0001666^biological_process^response to hypoxia`GO:0007519^biological_process^skeletal muscle tissue development`GO:0001756^biological_process^somitogenesis`GO:0036268^biological_process^swimming`GO:0001966^biological_process^thigmotaxis	GO:0003713^molecular_function^transcription coactivator activity`GO:0004402^molecular_function^histone acetyltransferase activity`GO:0006355^biological_process^regulation of transcription DNA-templated`GO:0016573^biological_process^histone acetylation`GO:0000123^cellular_component^histone acetyltransferase complex`GO:0005634^cellular_component^nucleus	OFRAG00000002476.1	CREB-BINDING PROTEIN	
+OG0028163							
+OG0028165							
+OG0028175							
+OG0028195							
+OG0028196							
+OG0028208							
+OG0028210							
+OG0029492							
+OG0029510							
+OG0029875							
+OG0029949							
+OG0029958							
+OG0030110							
+OG0030331							
+OG0030604							
+OG0030742							
+OG0031017							
+OG0031060							
+OG0031184							
+OG0031245							
+OG0031310							
+OG0031328							
+OG0031332							
+OG0031371							
+OG0031433							
+OG0031434							
+OG0031438							
+OG0031577							
+OG0031611							
+OG0031648							
+OG0031765							
+OG0031797							
+OG0031820							
+OG0031867							
+OG0031875							
+OG0031899							
+OG0031985							
+OG0032027							
+OG0032067							
+OG0032929							
+OG0033094							
+OG0033118							
+OG0033211							
+OG0033438							
+OG0033445							
+OG0033462							
+OG0033465							
+OG0033469							
+OG0033480							
+OG0033482							
+OG0033502							
+OG0033504							
+OG0033507							
+OG0033518							
+OG0033521							
+OG0033529							
+OG0033531							
+OG0033542							
+OG0033553							
+OG0033558	osedax	.	.	.	OFRAG00000008506.1	NO HIT
+OG0033566							
+OG0033568							
+OG0033575							
+OG0033579							
+OG0033582							
+OG0033583							
+OG0033591							
+OG0033592							
+OG0033594							
+OG0033624							
+OG0033637							
+OG0033660							
+OG0033678							
+OG0033689							
+OG0033701							
+OG0033706							
+OG0033716							
+OG0033718							
+OG0033719							
+OG0033757							
+OG0033761							
+OG0033772	osedax	.	.	GO:0008061^molecular_function^chitin binding`GO:0006030^biological_process^chitin metabolic process`GO:0005576^cellular_component^extracellular region	OFRAG00000004516.1	CHITIN BINDING PERITROPHIN-A	
+OG0033794							
+OG0033801							
+OG0033803							
+OG0033819							
+OG0033838							
+OG0033842							
+OG0033843							
+OG0033844							
+OG0033859							
+OG0033863							
+OG0033869							
+OG0033874							
+OG0033885							
+OG0033893							
+OG0033894							
+OG0033905							
+OG0033910							
+OG0033917							
+OG0033926							
+OG0033946							
+OG0033976							
+OG0033980							
+OG0033988							
+OG0034002							
+OG0034008							
+OG0034033							
+OG0034051							
+OG0034070							
+OG0034079							
+OG0034085							
+OG0034094							
+OG0034099							
+OG0034109							
+OG0034115							
+OG0034130							
+OG0034132							
+OG0034144							
+OG0034145							
+OG0034148							
+OG0034167							
+OG0034168							
+OG0034179							
+OG0034193							
+OG0034196							
+OG0034203							
+OG0034204							
+OG0034215							
+OG0034223							
+OG0034226							
+OG0034230							
+OG0034241							
+OG0034255							
+OG0034263							
+OG0034266							
+OG0034269							
+OG0034271							
+OG0034286							
+OG0034294							
+OG0034295							
+OG0034301							
+OG0034310							
+OG0034311							
+OG0034321							
+OG0034327							
+OG0034348							
+OG0034350							
+OG0034354							
+OG0034365							
+OG0034371							
+OG0034379							
+OG0034380							
+OG0034387							
+OG0034388							
+OG0034399							
+OG0034401							
+OG0034415							
+OG0034510	osedax	GO:0001669^cellular_component^acrosomal vesicle`GO:0005912^cellular_component^adherens junction`GO:0016324^cellular_component^apical plasma membrane`GO:0009986^cellular_component^cell surface`GO:0005829^cellular_component^cytosol`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0005576^cellular_component^extracellular region`GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0002193^cellular_component^MAML1-RBP-Jkappa- ICN1 complex`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0005886^cellular_component^plasma membrane`GO:0043235^cellular_component^receptor complex`GO:0005509^molecular_function^calcium ion binding`GO:0031490^molecular_function^chromatin DNA binding`GO:0019899^molecular_function^enzyme binding`GO:0004857^molecular_function^enzyme inhibitor activity`GO:0042802^molecular_function^identical protein binding`GO:0005112^molecular_function^Notch binding`GO:0003713^molecular_function^transcription coactivator activity`GO:0004888^molecular_function^transmembrane signaling receptor activity`GO:0031100^biological_process^animal organ regeneration`GO:0003180^biological_process^aortic valve morphogenesis`GO:1902263^biological_process^apoptotic process involved in embryonic digit morphogenesis`GO:0060842^biological_process^arterial endothelial cell differentiation`GO:0048708^biological_process^astrocyte differentiation`GO:0003162^biological_process^atrioventricular node development`GO:0003181^biological_process^atrioventricular valve morphogenesis`GO:0009912^biological_process^auditory receptor cell fate commitment`GO:0007411^biological_process^axon guidance`GO:0048754^biological_process^branching morphogenesis of an epithelial tube`GO:0003209^biological_process^cardiac atrium morphogenesis`GO:0003207^biological_process^cardiac chamber formation`GO:0060317^biological_process^cardiac epithelial to mesenchymal transition`GO:0003214^biological_process^cardiac left ventricle morphogenesis`GO:0060038^biological_process^cardiac muscle cell proliferation`GO:0055008^biological_process^cardiac muscle tissue morphogenesis`GO:0003213^biological_process^cardiac right atrium morphogenesis`GO:0003219^biological_process^cardiac right ventricle formation`GO:0060411^biological_process^cardiac septum morphogenesis`GO:0060948^biological_process^cardiac vascular smooth muscle cell development`GO:0003208^biological_process^cardiac ventricle morphogenesis`GO:0007050^biological_process^cell cycle arrest`GO:0021515^biological_process^cell differentiation in spinal cord`GO:0001708^biological_process^cell fate specification`GO:0003273^biological_process^cell migration involved in endocardial cushion formation`GO:0071372^biological_process^cellular response to follicle-stimulating hormone stimulus`GO:0035924^biological_process^cellular response to vascular endothelial growth factor stimulus`GO:0060271^biological_process^cilium assembly`GO:0072044^biological_process^collecting duct development`GO:0007386^biological_process^compartment pattern specification`GO:0060982^biological_process^coronary artery morphogenesis`GO:0003182^biological_process^coronary sinus valve morphogenesis`GO:0003169^biological_process^coronary vein morphogenesis`GO:0007368^biological_process^determination of left/right symmetry`GO:0072017^biological_process^distal tubule development`GO:0035116^biological_process^embryonic hindlimb morphogenesis`GO:0060956^biological_process^endocardial cell differentiation`GO:0003203^biological_process^endocardial cushion morphogenesis`GO:0003157^biological_process^endocardium development`GO:0003160^biological_process^endocardium morphogenesis`GO:0007492^biological_process^endoderm development`GO:0001837^biological_process^epithelial to mesenchymal transition`GO:0003198^biological_process^epithelial to mesenchymal transition involved in endocardial cushion formation`GO:0030900^biological_process^forebrain development`GO:0007440^biological_process^foregut morphogenesis`GO:0072144^biological_process^glomerular mesangial cell development`GO:0003241^biological_process^growth involved in heart morphogenesis`GO:0031069^biological_process^hair follicle morphogenesis`GO:0007507^biological_process^heart development`GO:0001947^biological_process^heart looping`GO:0061384^biological_process^heart trabecula morphogenesis`GO:0048873^biological_process^homeostasis of number of cells within a tissue`GO:0006959^biological_process^humoral immune response`GO:0006955^biological_process^immune response`GO:0001701^biological_process^in utero embryonic development`GO:0002437^biological_process^inflammatory response to antigenic stimulus`GO:0032633^biological_process^interleukin-4 production`GO:0030216^biological_process^keratinocyte differentiation`GO:0070986^biological_process^left/right axis specification`GO:0001889^biological_process^liver development`GO:0030324^biological_process^lung development`GO:0014031^biological_process^mesenchymal cell development`GO:0003192^biological_process^mitral valve formation`GO:2000811^biological_process^negative regulation of anoikis`GO:0070168^biological_process^negative regulation of biomineral tissue development`GO:0030514^biological_process^negative regulation of BMP signaling pathway`GO:0045955^biological_process^negative regulation of calcium ion-dependent exocytosis`GO:0090090^biological_process^negative regulation of canonical Wnt signaling pathway`GO:0010614^biological_process^negative regulation of cardiac muscle hypertrophy`GO:0043086^biological_process^negative regulation of catalytic activity`GO:0060354^biological_process^negative regulation of cell adhesion molecule production`GO:0090051^biological_process^negative regulation of cell migration involved in sprouting angiogenesis`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:0003252^biological_process^negative regulation of cell proliferation involved in heart valve morphogenesis`GO:2000048^biological_process^negative regulation of cell-cell adhesion mediated by cadherin`GO:0010812^biological_process^negative regulation of cell-substrate adhesion`GO:0120163^biological_process^negative regulation of cold-induced thermogenesis`GO:2001027^biological_process^negative regulation of endothelial cell chemotaxis`GO:0003332^biological_process^negative regulation of extracellular matrix constituent secretion`GO:0010629^biological_process^negative regulation of gene expression`GO:0060253^biological_process^negative regulation of glial cell proliferation`GO:0045967^biological_process^negative regulation of growth rate`GO:0045608^biological_process^negative regulation of inner ear auditory receptor cell differentiation`GO:0045662^biological_process^negative regulation of myoblast differentiation`GO:0010832^biological_process^negative regulation of myotube differentiation`GO:0050768^biological_process^negative regulation of neurogenesis`GO:0048715^biological_process^negative regulation of oligodendrocyte differentiation`GO:0030279^biological_process^negative regulation of ossification`GO:0045668^biological_process^negative regulation of osteoblast differentiation`GO:0046533^biological_process^negative regulation of photoreceptor cell differentiation`GO:2000974^biological_process^negative regulation of pro-B cell differentiation`GO:2000737^biological_process^negative regulation of stem cell differentiation`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:0045892^biological_process^negative regulation of transcription DNA-templated`GO:0021915^biological_process^neural tube development`GO:0097150^biological_process^neuronal stem cell population maintenance`GO:0061314^biological_process^Notch signaling involved in heart development`GO:0007219^biological_process^Notch signaling pathway`GO:0003270^biological_process^Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation`GO:0048709^biological_process^oligodendrocyte differentiation`GO:0003151^biological_process^outflow tract morphogenesis`GO:0003344^biological_process^pericardium morphogenesis`GO:1903849^biological_process^positive regulation of aorta morphogenesis`GO:1902339^biological_process^positive regulation of apoptotic process involved in morphogenesis`GO:0048711^biological_process^positive regulation of astrocyte differentiation`GO:0030513^biological_process^positive regulation of BMP signaling pathway`GO:0062043^biological_process^positive regulation of cardiac epithelial to mesenchymal transition`GO:0060045^biological_process^positive regulation of cardiac muscle cell proliferation`GO:0030335^biological_process^positive regulation of cell migration`GO:0008284^biological_process^positive regulation of cell population proliferation`GO:0045603^biological_process^positive regulation of endothelial cell differentiation`GO:0050679^biological_process^positive regulation of epithelial cell proliferation`GO:0070374^biological_process^positive regulation of ERK1 and ERK2 cascade`GO:0010628^biological_process^positive regulation of gene expression`GO:0045618^biological_process^positive regulation of keratinocyte differentiation`GO:0002052^biological_process^positive regulation of neuroblast proliferation`GO:0045747^biological_process^positive regulation of Notch signaling pathway`GO:0046579^biological_process^positive regulation of Ras protein signal transduction`GO:0046427^biological_process^positive regulation of receptor signaling pathway via JAK-STAT`GO:0045944^biological_process^positive regulation of transcription by RNA polymerase II`GO:0061419^biological_process^positive regulation of transcription from RNA polymerase II promoter in response to hypoxia`GO:0007221^biological_process^positive regulation of transcription of Notch receptor target`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0045070^biological_process^positive regulation of viral genome replication`GO:0060740^biological_process^prostate gland epithelium morphogenesis`GO:0003184^biological_process^pulmonary valve morphogenesis`GO:0060768^biological_process^regulation of epithelial cell proliferation involved in prostate gland development`GO:1901201^biological_process^regulation of extracellular matrix assembly`GO:0014807^biological_process^regulation of somitogenesis`GO:0003256^biological_process^regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation`GO:0006355^biological_process^regulation of transcription DNA-templated`GO:0031960^biological_process^response to corticosteroid`GO:0032496^biological_process^response to lipopolysaccharide`GO:0032495^biological_process^response to muramyl dipeptide`GO:0060528^biological_process^secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development`GO:0035914^biological_process^skeletal muscle cell differentiation`GO:0048103^biological_process^somatic stem cell division`GO:0007283^biological_process^spermatogenesis`GO:0002040^biological_process^sprouting angiogenesis`GO:0042246^biological_process^tissue regeneration`GO:0006367^biological_process^transcription initiation from RNA polymerase II promoter`GO:0035148^biological_process^tube formation`GO:0060979^biological_process^vasculogenesis involved in coronary vascular morphogenesis`GO:0060843^biological_process^venous endothelial cell differentiation`GO:0060412^biological_process^ventricular septum morphogenesis`GO:0003222^biological_process^ventricular trabecula myocardium morphogenesis	GO:0001669^cellular_component^acrosomal vesicle`GO:0005912^cellular_component^adherens junction`GO:0016324^cellular_component^apical plasma membrane`GO:0009986^cellular_component^cell surface`GO:0005829^cellular_component^cytosol`GO:0005789^cellular_component^endoplasmic reticulum membrane`GO:0005576^cellular_component^extracellular region`GO:0000139^cellular_component^Golgi membrane`GO:0016021^cellular_component^integral component of membrane`GO:0002193^cellular_component^MAML1-RBP-Jkappa- ICN1 complex`GO:0005654^cellular_component^nucleoplasm`GO:0005634^cellular_component^nucleus`GO:0005886^cellular_component^plasma membrane`GO:0043235^cellular_component^receptor complex`GO:0005509^molecular_function^calcium ion binding`GO:0031490^molecular_function^chromatin DNA binding`GO:0019899^molecular_function^enzyme binding`GO:0004857^molecular_function^enzyme inhibitor activity`GO:0042802^molecular_function^identical protein binding`GO:0005112^molecular_function^Notch binding`GO:0003713^molecular_function^transcription coactivator activity`GO:0004888^molecular_function^transmembrane signaling receptor activity`GO:0031100^biological_process^animal organ regeneration`GO:0003180^biological_process^aortic valve morphogenesis`GO:1902263^biological_process^apoptotic process involved in embryonic digit morphogenesis`GO:0060842^biological_process^arterial endothelial cell differentiation`GO:0048708^biological_process^astrocyte differentiation`GO:0003162^biological_process^atrioventricular node development`GO:0003181^biological_process^atrioventricular valve morphogenesis`GO:0009912^biological_process^auditory receptor cell fate commitment`GO:0007411^biological_process^axon guidance`GO:0048754^biological_process^branching morphogenesis of an epithelial tube`GO:0003209^biological_process^cardiac atrium morphogenesis`GO:0003207^biological_process^cardiac chamber formation`GO:0060317^biological_process^cardiac epithelial to mesenchymal transition`GO:0003214^biological_process^cardiac left ventricle morphogenesis`GO:0060038^biological_process^cardiac muscle cell proliferation`GO:0055008^biological_process^cardiac muscle tissue morphogenesis`GO:0003213^biological_process^cardiac right atrium morphogenesis`GO:0003219^biological_process^cardiac right ventricle formation`GO:0060411^biological_process^cardiac septum morphogenesis`GO:0060948^biological_process^cardiac vascular smooth muscle cell development`GO:0003208^biological_process^cardiac ventricle morphogenesis`GO:0007050^biological_process^cell cycle arrest`GO:0021515^biological_process^cell differentiation in spinal cord`GO:0001708^biological_process^cell fate specification`GO:0003273^biological_process^cell migration involved in endocardial cushion formation`GO:0071372^biological_process^cellular response to follicle-stimulating hormone stimulus`GO:0035924^biological_process^cellular response to vascular endothelial growth factor stimulus`GO:0060271^biological_process^cilium assembly`GO:0072044^biological_process^collecting duct development`GO:0007386^biological_process^compartment pattern specification`GO:0060982^biological_process^coronary artery morphogenesis`GO:0003182^biological_process^coronary sinus valve morphogenesis`GO:0003169^biological_process^coronary vein morphogenesis`GO:0007368^biological_process^determination of left/right symmetry`GO:0072017^biological_process^distal tubule development`GO:0035116^biological_process^embryonic hindlimb morphogenesis`GO:0060956^biological_process^endocardial cell differentiation`GO:0003203^biological_process^endocardial cushion morphogenesis`GO:0003157^biological_process^endocardium development`GO:0003160^biological_process^endocardium morphogenesis`GO:0007492^biological_process^endoderm development`GO:0001837^biological_process^epithelial to mesenchymal transition`GO:0003198^biological_process^epithelial to mesenchymal transition involved in endocardial cushion formation`GO:0030900^biological_process^forebrain development`GO:0007440^biological_process^foregut morphogenesis`GO:0072144^biological_process^glomerular mesangial cell development`GO:0003241^biological_process^growth involved in heart morphogenesis`GO:0031069^biological_process^hair follicle morphogenesis`GO:0007507^biological_process^heart development`GO:0001947^biological_process^heart looping`GO:0061384^biological_process^heart trabecula morphogenesis`GO:0048873^biological_process^homeostasis of number of cells within a tissue`GO:0006959^biological_process^humoral immune response`GO:0006955^biological_process^immune response`GO:0001701^biological_process^in utero embryonic development`GO:0002437^biological_process^inflammatory response to antigenic stimulus`GO:0032633^biological_process^interleukin-4 production`GO:0030216^biological_process^keratinocyte differentiation`GO:0070986^biological_process^left/right axis specification`GO:0001889^biological_process^liver development`GO:0030324^biological_process^lung development`GO:0014031^biological_process^mesenchymal cell development`GO:0003192^biological_process^mitral valve formation`GO:2000811^biological_process^negative regulation of anoikis`GO:0070168^biological_process^negative regulation of biomineral tissue development`GO:0030514^biological_process^negative regulation of BMP signaling pathway`GO:0045955^biological_process^negative regulation of calcium ion-dependent exocytosis`GO:0090090^biological_process^negative regulation of canonical Wnt signaling pathway`GO:0010614^biological_process^negative regulation of cardiac muscle hypertrophy`GO:0043086^biological_process^negative regulation of catalytic activity`GO:0060354^biological_process^negative regulation of cell adhesion molecule production`GO:0090051^biological_process^negative regulation of cell migration involved in sprouting angiogenesis`GO:0008285^biological_process^negative regulation of cell population proliferation`GO:0003252^biological_process^negative regulation of cell proliferation involved in heart valve morphogenesis`GO:2000048^biological_process^negative regulation of cell-cell adhesion mediated by cadherin`GO:0010812^biological_process^negative regulation of cell-substrate adhesion`GO:0120163^biological_process^negative regulation of cold-induced thermogenesis`GO:2001027^biological_process^negative regulation of endothelial cell chemotaxis`GO:0003332^biological_process^negative regulation of extracellular matrix constituent secretion`GO:0010629^biological_process^negative regulation of gene expression`GO:0060253^biological_process^negative regulation of glial cell proliferation`GO:0045967^biological_process^negative regulation of growth rate`GO:0045608^biological_process^negative regulation of inner ear auditory receptor cell differentiation`GO:0045662^biological_process^negative regulation of myoblast differentiation`GO:0010832^biological_process^negative regulation of myotube differentiation`GO:0050768^biological_process^negative regulation of neurogenesis`GO:0048715^biological_process^negative regulation of oligodendrocyte differentiation`GO:0030279^biological_process^negative regulation of ossification`GO:0045668^biological_process^negative regulation of osteoblast differentiation`GO:0046533^biological_process^negative regulation of photoreceptor cell differentiation`GO:2000974^biological_process^negative regulation of pro-B cell differentiation`GO:2000737^biological_process^negative regulation of stem cell differentiation`GO:0000122^biological_process^negative regulation of transcription by RNA polymerase II`GO:0045892^biological_process^negative regulation of transcription DNA-templated`GO:0021915^biological_process^neural tube development`GO:0097150^biological_process^neuronal stem cell population maintenance`GO:0061314^biological_process^Notch signaling involved in heart development`GO:0007219^biological_process^Notch signaling pathway`GO:0003270^biological_process^Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation`GO:0048709^biological_process^oligodendrocyte differentiation`GO:0003151^biological_process^outflow tract morphogenesis`GO:0003344^biological_process^pericardium morphogenesis`GO:1903849^biological_process^positive regulation of aorta morphogenesis`GO:1902339^biological_process^positive regulation of apoptotic process involved in morphogenesis`GO:0048711^biological_process^positive regulation of astrocyte differentiation`GO:0030513^biological_process^positive regulation of BMP signaling pathway`GO:0062043^biological_process^positive regulation of cardiac epithelial to mesenchymal transition`GO:0060045^biological_process^positive regulation of cardiac muscle cell proliferation`GO:0030335^biological_process^positive regulation of cell migration`GO:0008284^biological_process^positive regulation of cell population proliferation`GO:0045603^biological_process^positive regulation of endothelial cell differentiation`GO:0050679^biological_process^positive regulation of epithelial cell proliferation`GO:0070374^biological_process^positive regulation of ERK1 and ERK2 cascade`GO:0010628^biological_process^positive regulation of gene expression`GO:0045618^biological_process^positive regulation of keratinocyte differentiation`GO:0002052^biological_process^positive regulation of neuroblast proliferation`GO:0045747^biological_process^positive regulation of Notch signaling pathway`GO:0046579^biological_process^positive regulation of Ras protein signal transduction`GO:0046427^biological_process^positive regulation of receptor signaling pathway via JAK-STAT`GO:0045944^biological_process^positive regulation of transcription by RNA polymerase II`GO:0061419^biological_process^positive regulation of transcription from RNA polymerase II promoter in response to hypoxia`GO:0007221^biological_process^positive regulation of transcription of Notch receptor target`GO:0045893^biological_process^positive regulation of transcription DNA-templated`GO:0045070^biological_process^positive regulation of viral genome replication`GO:0060740^biological_process^prostate gland epithelium morphogenesis`GO:0003184^biological_process^pulmonary valve morphogenesis`GO:0060768^biological_process^regulation of epithelial cell proliferation involved in prostate gland development`GO:1901201^biological_process^regulation of extracellular matrix assembly`GO:0014807^biological_process^regulation of somitogenesis`GO:0003256^biological_process^regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation`GO:0006355^biological_process^regulation of transcription DNA-templated`GO:0031960^biological_process^response to corticosteroid`GO:0032496^biological_process^response to lipopolysaccharide`GO:0032495^biological_process^response to muramyl dipeptide`GO:0060528^biological_process^secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development`GO:0035914^biological_process^skeletal muscle cell differentiation`GO:0048103^biological_process^somatic stem cell division`GO:0007283^biological_process^spermatogenesis`GO:0002040^biological_process^sprouting angiogenesis`GO:0042246^biological_process^tissue regeneration`GO:0006367^biological_process^transcription initiation from RNA polymerase II promoter`GO:0035148^biological_process^tube formation`GO:0060979^biological_process^vasculogenesis involved in coronary vascular morphogenesis`GO:0060843^biological_process^venous endothelial cell differentiation`GO:0060412^biological_process^ventricular septum morphogenesis`GO:0003222^biological_process^ventricular trabecula myocardium morphogenesis	.	OFRAG00000013594.1	SUBFAMILY NOT NAMED	K04550
+OG0034945							
+OG0035261							
+OG0035302							
+OG0035344							
+OG0035577							
+OG0035584							
+OG0035593							
+OG0035640							
+OG0035649							
+OG0035654	osedax	.	.	.	OFRAG00000001042.1	NO HIT
+OG0035654	osedax	.	.	.	OFRAG00000001043.1	NO HIT
+OG0035664							
+OG0035712							
+OG0035717							
+OG0035722							
+OG0035735							
+OG0035766							
+OG0035792							
+OG0035802							
+OG0035805							
+OG0035808							
+OG0035813							
+OG0035814							
+OG0035816							
+OG0035835							
+OG0035845							
+OG0035856							
+OG0037931							
+OG0040192							
+OG0040865							
+OG0040897							
+OG0042250							
+OG0043263							
+OG0043271							
+OG0043311							
+OG0043314							
+OG0044455							
+OG0044628							
+OG0045648							
+OG0045650							
+OG0045653							
+OG0045655							
+OG0045658							
+OG0045660							
+OG0045663							
+OG0045667							
+OG0045679							
+OG0045683							
+OG0045697							
+OG0045705							
+OG0045708							
+OG0045732							
+OG0045754							
+OG0045768							
+OG0045780							
+OG0045787							
+OG0045792							
+OG0045794							
+OG0045802							
+OG0045803							
+OG0045809							
+OG0045811							
+OG0045812							
+OG0045813							
+OG0045814							
+OG0045818							
+OG0045822							
+OG0045825							
+OG0045849							
+OG0045850							
+OG0045867							
+OG0045868							
+OG0045869							
+OG0045871							
+OG0045874							
+OG0045879							
+OG0045890							
+OG0045892							
+OG0045897							
+OG0045898							
+OG0045900							
+OG0045901							
+OG0045913							
+OG0045923							
+OG0045929							
+OG0045931							
+OG0045946							
+OG0045951							
+OG0045955							
+OG0045956							
+OG0045960							
+OG0045961							
+OG0045971							
+OG0045972							
+OG0045981							
+OG0045991							
+OG0046008							
+OG0046016							
+OG0046018							
+OG0046019							
+OG0046028							
+OG0046055							
+OG0046056							
+OG0046067							
+OG0046087							
+OG0046092							
+OG0046095							
+OG0046096							
+OG0046111							
+OG0046123							
+OG0046126							
+OG0046132							
+OG0046134							
+OG0046136							
+OG0046137							
+OG0046139							
+OG0046145							
+OG0046157							
+OG0046161							
+OG0046163							
+OG0046164							
+OG0046167							
+OG0046176							
+OG0046184							
+OG0046191							
+OG0046202							
+OG0046208							
+OG0046209							
+OG0046215							
+OG0046219							
+OG0046222							
+OG0046227							
+OG0046229							
+OG0046241							
+OG0046247							
+OG0046248							
+OG0046253							
+OG0046262							
+OG0046270							
+OG0046271							
+OG0046286							
+OG0046288							
+OG0046303							
+OG0046316							
+OG0046319							
+OG0046320							
+OG0046326							
+OG0046327							
+OG0046331							
+OG0046335							
+OG0046343							
+OG0046358							
+OG0046361							
+OG0046383							
+OG0046384							
+OG0046392							
+OG0046404							
+OG0046409							
+OG0046412							
+OG0046414							
+OG0046432							
+OG0046437							
+OG0046441							
+OG0046452							
+OG0046453							
+OG0046456							
+OG0046460							
+OG0046461							
+OG0046470							
+OG0046473							
+OG0046475							
+OG0046486							
+OG0046488							
+OG0046490							
+OG0046493							
+OG0046503							
+OG0046520							
+OG0046522							
+OG0046531							
+OG0046535							
+OG0046542							
+OG0046545							
+OG0046551							
+OG0046554							
+OG0046558							
+OG0046560							
+OG0046569							
+OG0046570							
+OG0046573							
+OG0046589							
+OG0046590							
+OG0046591							
+OG0046600							
+OG0046604							
+OG0046613							
+OG0046621							
+OG0046625							
+OG0046626							
+OG0046650							
+OG0046653							
+OG0046655							
+OG0046660							
+OG0046662							
+OG0046665							
+OG0046673							
+OG0046675							
+OG0046695							
+OG0046705							
+OG0046712							
+OG0046727							
+OG0046744							
+OG0046747							
+OG0046762							
+OG0046768							
+OG0046771							
+OG0046781							
+OG0046791							
+OG0046793							
+OG0046794							
+OG0046796							
+OG0046800							
+OG0046804							
+OG0046819							
+OG0046828							
+OG0046830							
+OG0046833							
+OG0046840							
+OG0046842							
+OG0046844							
+OG0046849							
+OG0046855							
+OG0046862							
+OG0046864							
+OG0046872							
+OG0046873							
+OG0048300							
+OG0049627							
+OG0049646							
+OG0049657							
+OG0049692							
+OG0049767							
+OG0049784							
+OG0049785							
+OG0049842							
+OG0049845							
+OG0049891							
+OG0049904							
+OG0049906							
+OG0049942							
+OG0049945							
+OG0049946							
+OG0049947							
+OG0049959							
+OG0049960							
+OG0049970							
+OG0049996							
+OG0050011							
+OG0050013							
+OG0050039	osedax	.	.	.	OFRAG00000000358.1	NO HIT
+OG0050046							
+OG0050059							
+OG0050093							
+OG0050111							
+OG0050121							
+OG0050145							
+OG0050152							
+OG0050170							
+OG0050193							
+OG0050196							
+OG0050202							
+OG0050205							
+OG0050210							
+OG0050212							
+OG0050221							
+OG0050222							
+OG0050230							
+OG0050258							
+OG0050266							
+OG0050280							
+OG0050310							
+OG0050312							
+OG0050325	osedax	GO:0031410^cellular_component^cytoplasmic vesicle`GO:0016021^cellular_component^integral component of membrane`GO:0043231^cellular_component^intracellular membrane-bounded organelle`GO:0005765^cellular_component^lysosomal membrane`GO:0016020^cellular_component^membrane`GO:0005654^cellular_component^nucleoplasm`GO:0015297^molecular_function^antiporter activity`GO:0005524^molecular_function^ATP binding`GO:0005254^molecular_function^chloride channel activity`GO:0015108^molecular_function^chloride transmembrane transporter activity`GO:0022857^molecular_function^transmembrane transporter activity`GO:0005247^molecular_function^voltage-gated chloride channel activity`GO:0034220^biological_process^ion transmembrane transport`GO:0009268^biological_process^response to pH	GO:0031410^cellular_component^cytoplasmic vesicle`GO:0016021^cellular_component^integral component of membrane`GO:0043231^cellular_component^intracellular membrane-bounded organelle`GO:0005765^cellular_component^lysosomal membrane`GO:0016020^cellular_component^membrane`GO:0005654^cellular_component^nucleoplasm`GO:0015297^molecular_function^antiporter activity`GO:0005524^molecular_function^ATP binding`GO:0005254^molecular_function^chloride channel activity`GO:0015108^molecular_function^chloride transmembrane transporter activity`GO:0022857^molecular_function^transmembrane transporter activity`GO:0005247^molecular_function^voltage-gated chloride channel activity`GO:0034220^biological_process^ion transmembrane transport`GO:0009268^biological_process^response to pH	.	OFRAG00000010157.1	CHLORIDE CHANNEL PROTEIN CLC FAMILY MEMBER	
+OG0050328							
+OG0050331							

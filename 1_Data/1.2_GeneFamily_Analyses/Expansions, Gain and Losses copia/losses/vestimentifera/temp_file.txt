@@ -1,0 +1,1 @@
+CapteT147511	MOLYBDENUM COFACTOR GUANYLYLTRANSFERASE		GO:0005737^cellular_component^cytoplasm`GO:0005525^molecular_function^GTP binding`GO:0046872^molecular_function^metal ion binding`GO:0061603^molecular_function^molybdenum cofactor guanylyltransferase activity`GO:0006777^biological_process^Mo-molybdopterin cofactor biosynthetic process	.
