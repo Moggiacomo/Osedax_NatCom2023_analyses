@@ -1,0 +1,373 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=271;
+	taxlabels
+	'Branchiostoma_floridae_Cdx/1-60'
+	'Branchiostoma_floridae_Evxa/1-60'
+	'Branchiostoma_floridae_Evxb/1-60'
+	'Branchiostoma_floridae_Gsx/1-60'
+	'Branchiostoma_floridae_Hox1/1-60'
+	'Branchiostoma_floridae_Hox10/1-60'
+	'Branchiostoma_floridae_Hox11/1-60'
+	'Branchiostoma_floridae_Hox12/1-60'
+	'Branchiostoma_floridae_Hox13/1-60'
+	'Branchiostoma_floridae_Hox14/1-60'
+	'Branchiostoma_floridae_Hox15/1-60'
+	'Branchiostoma_floridae_Hox2/1-60'
+	'Branchiostoma_floridae_Hox3/1-60'
+	'Branchiostoma_floridae_Hox4/1-60'
+	'Branchiostoma_floridae_Hox5/1-60'
+	'Branchiostoma_floridae_Hox6/1-60'
+	'Branchiostoma_floridae_Hox7/1-60'
+	'Branchiostoma_floridae_Hox8/1-60'
+	'Branchiostoma_floridae_Hox9/1-60'
+	'Branchiostoma_floridae_XLox/1-60'
+	'Branchiostoma_lanceolatum_Hox1/205-264'
+	'Branchiostoma_lanceolatum_Hox10/246-305'
+	'Branchiostoma_lanceolatum_Hox12/100-159'
+	'Branchiostoma_lanceolatum_Hox13/205-264'
+	'Branchiostoma_lanceolatum_Hox14/150-209'
+	'Branchiostoma_lanceolatum_Hox15/206-265'
+	'Branchiostoma_lanceolatum_Hox2/105-164'
+	'Branchiostoma_lanceolatum_Hox3/134-193'
+	'Branchiostoma_lanceolatum_Hox4/174-233'
+	'Branchiostoma_lanceolatum_Hox5/210-269'
+	'Branchiostoma_lanceolatum_Hox6/134-193'
+	'Branchiostoma_lanceolatum_Hox7/158-217'
+	'Branchiostoma_lanceolatum_Hox8/129-188'
+	'Branchiostoma_lanceolatum_Hox9/198-257'
+	'Capitella_tellata_Antp/28-87'
+	'Capitella_tellata_Dfd/74-133'
+	'Capitella_tellata_Evx/94-153'
+	'Capitella_tellata_Gsx/43-102'
+	'Capitella_tellata_Hox3/177-236'
+	'Capitella_tellata_Lab/211-270'
+	'Capitella_tellata_Lox2/170-229'
+	'Capitella_tellata_Lox4/163-222'
+	'Capitella_tellata_Pb/126-185'
+	'Capitella_tellata_Post1/102-161'
+	'Capitella_tellata_Post2/198-257'
+	'Capitella_tellata_Scr/104-163'
+	'Capitella_tellata_XLox/163-222'
+	'Capitella_tellata_caudal/242-301'
+	'Crassostrea_gigas_Hox1/25-84'
+	'Crassostrea_gigas_Hox2/60-119'
+	'Crassostrea_gigas_Hox3/144-203'
+	'Crassostrea_gigas_Hox4/157-216'
+	'Crassostrea_gigas_Lox2/152-211'
+	'Crassostrea_gigas_Lox4/187-246'
+	'Crassostrea_gigas_Lox5/114-173'
+	'Drosophila_melanogaster_AbdA/1-60'
+	'Drosophila_melanogaster_AbdB/1-60'
+	'Drosophila_melanogaster_Antp/1-60'
+	'Drosophila_melanogaster_Dfd/1-60'
+	'Drosophila_melanogaster_Ftz/1-60'
+	'Drosophila_melanogaster_Lab/1-60'
+	'Drosophila_melanogaster_Pb/1-60'
+	'Drosophila_melanogaster_Scr/1-60'
+	'Drosophila_melanogaster_Ubx/1-60'
+	'Drosophila_melanogaster_abdA/1-60'
+	'Drosophila_melanogaster_cad/1-60'
+	'Drosophila_melanogaster_eve/1-60'
+	'Drosophila_melanogaster_ind/1-60'
+	'Drosophila_melanogaster_zen/1-60'
+	'Drosophila_melanogaster_zen2/1-60'
+	'Homo_sapiens_Cdx1/1-60'
+	'Homo_sapiens_Cdx2/1-60'
+	'Homo_sapiens_Cdx4/1-60'
+	'Homo_sapiens_Evx1/1-60'
+	'Homo_sapiens_Evx2/1-60'
+	'Homo_sapiens_Gsx1/1-60'
+	'Homo_sapiens_Gsx2/1-60'
+	'Homo_sapiens_HoxA1/1-60'
+	'Homo_sapiens_HoxA10/1-60'
+	'Homo_sapiens_HoxA11/1-60'
+	'Homo_sapiens_HoxA13/1-60'
+	'Homo_sapiens_HoxA2/1-60'
+	'Homo_sapiens_HoxA3/1-60'
+	'Homo_sapiens_HoxA4/1-60'
+	'Homo_sapiens_HoxA5/1-60'
+	'Homo_sapiens_HoxA6/1-60'
+	'Homo_sapiens_HoxA7/1-60'
+	'Homo_sapiens_HoxA9/1-60'
+	'Homo_sapiens_HoxB1/1-60'
+	'Homo_sapiens_HoxB13/1-60'
+	'Homo_sapiens_HoxB2/1-60'
+	'Homo_sapiens_HoxB3/1-60'
+	'Homo_sapiens_HoxB4/1-60'
+	'Homo_sapiens_HoxB5/1-60'
+	'Homo_sapiens_HoxB6/1-60'
+	'Homo_sapiens_HoxB7/1-60'
+	'Homo_sapiens_HoxB8/1-60'
+	'Homo_sapiens_HoxB9/1-60'
+	'Homo_sapiens_HoxC10/1-60'
+	'Homo_sapiens_HoxC11/1-60'
+	'Homo_sapiens_HoxC12/1-60'
+	'Homo_sapiens_HoxC13/1-60'
+	'Homo_sapiens_HoxC4/1-60'
+	'Homo_sapiens_HoxC5/1-60'
+	'Homo_sapiens_HoxC6/1-60'
+	'Homo_sapiens_HoxC8/1-60'
+	'Homo_sapiens_HoxC9/1-60'
+	'Homo_sapiens_HoxD1/1-60'
+	'Homo_sapiens_HoxD10/1-60'
+	'Homo_sapiens_HoxD11/1-60'
+	'Homo_sapiens_HoxD12/1-60'
+	'Homo_sapiens_HoxD13/1-60'
+	'Homo_sapiens_HoxD3/1-60'
+	'Homo_sapiens_HoxD4/1-60'
+	'Homo_sapiens_HoxD8/1-60'
+	'Homo_sapiens_HoxD9/1-60'
+	'Homo_sapiens_PDX1/1-60'
+	'Lingula_anatina_g10886/176-235'
+	'Lingula_anatina_g10887/122-181'
+	'Lingula_anatina_g10888/147-206'
+	'Lingula_anatina_g10889/32-91'
+	'Lingula_anatina_g10890/127-186'
+	'Lingula_anatina_g10891/289-348'
+	'Lingula_anatina_g10892/327-386'
+	'Lingula_anatina_g12396/208-267'
+	'Lingula_anatina_g12399/86-145'
+	'Lluy_FUN_000933-T1_PDX/28-87'
+	'Lluy_FUN_000935-T1_GSX/210-269'
+	'Lluy_FUN_005888-T1/165-224'
+	'Lluy_FUN_030985-T1/70-129'
+	'Lluy_FUN_032669-T1/164-223'
+	'Lluy_FUN_032670-T1/134-193'
+	'Lluy_FUN_032673-T1/90-149'
+	'Lluy_FUN_033852-T1_CDX/66-125'
+	'Lluy_FUN_038044-T1/172-231'
+	'Lluy_FUN_038045-T1/120-177'
+	'Lluy_FUN_038046-T1/107-188'
+	'Lluy_FUN_038047-T1/185-244'
+	'Lluy_FUN_038049-T1/12-71'
+	'Lottia_gigantea_Antp/2-60'
+	'Lottia_gigantea_Dfd/2-60'
+	'Lottia_gigantea_Hox3/2-45'
+	'Lottia_gigantea_Lab/1-59'
+	'Lottia_gigantea_Lox2/2-60'
+	'Lottia_gigantea_Lox4/2-60'
+	'Lottia_gigantea_Lox5/2-60'
+	'Lottia_gigantea_Pb/2-60'
+	'Lottia_gigantea_Post1/2-60'
+	'Lottia_gigantea_Post2/2-60'
+	'Lottia_gigantea_Scr/2-60'
+	'Lottia_goshimai_Antp/171-230'
+	'Lottia_goshimai_Hox1/198-257'
+	'Lottia_goshimai_Hox2/118-177'
+	'Lottia_goshimai_Hox3/143-202'
+	'Lottia_goshimai_Hox4/148-207'
+	'Lottia_goshimai_Hox5/182-241'
+	'Lottia_goshimai_Lox2/162-221'
+	'Lottia_goshimai_Lox4/168-227'
+	'Lottia_goshimai_Lox5/173-232'
+	'Lottia_goshimai_Post1/180-239'
+	'Lottia_goshimai_Post2/168-227'
+	'Novocrania_anomala_Hox2/103-162'
+	'Novocrania_anomala_Hox3/140-199'
+	'Novocrania_anomala_Hox4/152-211'
+	'Novocrania_anomala_Hox5/6-65'
+	'Novocrania_anomala_Hox6/167-226'
+	'Novocrania_anomala_Hox7/201-260'
+	'Novocrania_anomala_Hox8/9-68'
+	'Novocrania_anomala_Hox9/4-63'
+	'Novocrania_anomala_Lab/245-304'
+	'Oalv_OALVG00000012670.1_CDX/239-298'
+	'Oalv_OALVG00000019412.1/175-234'
+	'Oalv_OALVG00000019413.1/215-274'
+	'Oalv_OALVG00000019415.1/172-231'
+	'Oalv_OALVG00000019490.1/61-120'
+	'Oalv_OALVG00000019768.1/181-240'
+	'Oalv_OALVG00000019773.1/208-267'
+	'Oalv_OALVG00000019775.1/140-199'
+	'Oalv_OALVG00000019872.1/188-247'
+	'Oalv_OALVG00000024348.1_GSX/234-293'
+	'Oalv_OALVG00000024349.1_PDX/143-202'
+	'Oalv_TRINITY_DN28412_c0_g1_i1/15-74'
+	Oalv_tig00001829_619630
+	'Ofra_OFRAG00000000992.1/10-69'
+	'Ofra_OFRAG00000000993.1/119-178'
+	'Ofra_OFRAG00000001745.1_CDX/273-332'
+	'Ofra_OFRAG00000009996.1/48-114'
+	'Ofra_OFRAG00000011246.1/109-168'
+	'Ofra_OFRAG00000011248.1/155-214'
+	'Ofra_OFRAG00000011363.1/62-121'
+	'Ofra_OFRAG00000014621.1/332-391'
+	'Ofra_TRINITY_DN22632_c0_g1_i6/74-133'
+	'Ofra_tig00000951/24-76'
+	Ofra_tig00004046_108
+	'Owenia_fusiformis_Antp/176-235'
+	'Owenia_fusiformis_Hox1/197-256'
+	'Owenia_fusiformis_Hox2/121-180'
+	'Owenia_fusiformis_Hox3/137-196'
+	'Owenia_fusiformis_Hox4/141-200'
+	'Owenia_fusiformis_Hox5/206-265'
+	'Owenia_fusiformis_Lox2/134-186'
+	'Owenia_fusiformis_Lox4/151-210'
+	'Owenia_fusiformis_Lox5/168-227'
+	'Owenia_fusiformis_Post1/224-283'
+	'Owenia_fusiformis_Post2/186-245'
+	'Pech_nbis-mrna-10151/36-95'
+	'Pech_nbis-mrna-10152/156-198'
+	'Pech_nbis-mrna-10153/29-88'
+	'Pech_nbis-mrna-10154/167-226'
+	'Pech_nbis-mrna-10155/184-243'
+	'Pech_nbis-mrna-10156/22-81'
+	'Pech_nbis-mrna-10157/6-65'
+	'Pech_nbis-mrna-10158/6-65'
+	'Pech_nbis-mrna-10159/1-47'
+	'Pech_nbis-mrna-20935_CDX/17-76'
+	'Pech_nbis-mrna-22528_PDX/161-220'
+	'Pech_nbis-mrna-22529_GSX/1-57'
+	'Pech_nbis-mrna-9378/22-81'
+	'Rpac_RPACG00000012266.1_GSX/203-262'
+	'Rpac_RPACG00000012267.1_PDX/184-243'
+	'Rpac_RPACG00000019294.1/66-125'
+	'Rpac_RPACG00000019878.1/239-298'
+	'Rpac_RPACG00000024701.1_CDX/36-95'
+	'Rpac_TRINITY_DN18618_c0_g2_i2/15-74'
+	'Rpac_TRINITY_DN38983_c0_g1_i1/4-63'
+	'Rpac_TRINITY_DN39953_c0_g1_i1/30-89'
+	'Rpac_TRINITY_DN72223_c0_g1_i1/6-65'
+	'Rpac_TRINITY_DN726_c1_g2_i3/16-68'
+	'Rpac_tig00021207/24-81'
+	'Rpac_tig00035475/22-81'
+	'Saccoglossus_kowalevskii_Cdx/164-223'
+	'Saccoglossus_kowalevskii_Evx/119-178'
+	'Saccoglossus_kowalevskii_Gsx/195-254'
+	'Saccoglossus_kowalevskii_Hox1/232-291'
+	'Saccoglossus_kowalevskii_Hox11/13a/148-207'
+	'Saccoglossus_kowalevskii_Hox11/13b/153-212'
+	'Saccoglossus_kowalevskii_Hox11/13c/159-218'
+	'Saccoglossus_kowalevskii_Hox2/111-170'
+	'Saccoglossus_kowalevskii_Hox3/135-194'
+	'Saccoglossus_kowalevskii_Hox4/184-243'
+	'Saccoglossus_kowalevskii_Hox5/151-210'
+	'Saccoglossus_kowalevskii_Hox6/148-207'
+	'Saccoglossus_kowalevskii_Hox7/152-211'
+	'Saccoglossus_kowalevskii_Hox9/10/272-331'
+	'Saccoglossus_kowalevskii_HoxA6/162-221'
+	'Terebratalia_transversa_Hox1/234-293'
+	'Terebratalia_transversa_Hox11/276-335'
+	'Terebratalia_transversa_Hox12/159-218'
+	'Terebratalia_transversa_Hox2/172-231'
+	'Terebratalia_transversa_Hox3/160-219'
+	'Terebratalia_transversa_Hox4/149-208'
+	'Terebratalia_transversa_Hox5/212-271'
+	'Terebratalia_transversa_Hox6/173-232'
+	'Terebratalia_transversa_Hox7/190-249'
+	'Terebratalia_transversa_Hox8/177-236'
+	'Tribolium_castaneum_AbdB/1-60'
+	'Tribolium_castaneum_Cad1/1-61'
+	'Tribolium_castaneum_Cad2/1-60'
+	'Tribolium_castaneum_Cx/1-60'
+	'Tribolium_castaneum_Dfd/1-60'
+	'Tribolium_castaneum_Eve/1-60'
+	'Tribolium_castaneum_Ftz/1-60'
+	'Tribolium_castaneum_Ind/1-60'
+	'Tribolium_castaneum_Lab/1-60'
+	'Tribolium_castaneum_Utx/1-60'
+	'Tribolium_castaneum_abdA/1-60'
+	'Tribolium_castaneum_mxp/1-60'
+	'Tribolium_castaneum_ptl/1-60'
+	'Tribolium_castaneum_zen1/1-60'
+	'Tribolium_castaneum_zen2/1-60'
+	'gCapitella_tellata_Lox5/180-239'
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (('Lingula_anatina_g10892/327-386':0.0,'Novocrania_anomala_Hox7/201-260':0.0,'Terebratalia_transversa_Hox7/190-249':0.0):0.031049,(('Drosophila_melanogaster_Antp/1-60':0.0,'Tribolium_castaneum_ptl/1-60':0.0,'Capitella_tellata_Antp/28-87':0.0):0.0,('Homo_sapiens_HoxB7/1-60':0.031751,('Owenia_fusiformis_Antp/176-235':0.031935,('Branchiostoma_floridae_Hox7/1-60':0.0,'Branchiostoma_lanceolatum_Hox7/158-217':0.0):0.0)[&label=0.873]:0.01558)[&label=0.0]:0.0)[&label=0.0]:0.0,(('Homo_sapiens_HoxA7/1-60':0.015769,('Lottia_gigantea_Antp/2-60':0.0,'Lottia_goshimai_Antp/171-230':0.018006)[&label=0.558]:0.0)[&label=0.73]:0.0,(((('Ofra_tig00000951/24-76':0.022553,(('Pech_nbis-mrna-10158/6-65':0.0,'Rpac_TRINITY_DN72223_c0_g1_i1/6-65':0.0,'Oalv_OALVG00000019413.1/215-274':0.0,'Capitella_tellata_Lox2/170-229':0.0):0.0,('Owenia_fusiformis_Lox2/134-186':0.0,('Lottia_gigantea_Lox2/2-60':0.0,('Crassostrea_gigas_Lox2/152-211':0.0,'Lottia_goshimai_Lox2/162-221':0.0):0.0)[&label=0.599]:0.0)[&label=0.911]:0.03235)[&label=0.754]:0.017849)[&label=0.957,!hilight={9,6.403585338000001,#ccccff}]:0.094107,(('Drosophila_melanogaster_AbdA/1-60':0.0,'Drosophila_melanogaster_abdA/1-60':0.0,'Tribolium_castaneum_abdA/1-60':0.0):0.03064,(('Drosophila_melanogaster_Ubx/1-60':0.0,'Tribolium_castaneum_Utx/1-60':0.0):0.037406,(('Capitella_tellata_Lox4/163-222':0.0,(('Lottia_gigantea_Lox4/2-60':0.0,'Lottia_goshimai_Lox4/168-227':0.0)[&label=0.925]:0.03151,(('Owenia_fusiformis_Lox4/151-210':0.015375,'Crassostrea_gigas_Lox4/187-246':0.0)[&label=0.884]:0.015817,('Terebratalia_transversa_Hox8/177-236':0.0,'Novocrania_anomala_Hox8/9-68':0.015547)[&label=0.0]:0.0)[&label=0.859]:0.015552)[&label=0.0]:0.0)[&label=0.73]:0.0,('Rpac_TRINITY_DN726_c1_g2_i3/16-68':0.0,(('Pech_nbis-mrna-10157/6-65':0.0,'Oalv_OALVG00000019412.1/175-234':0.0):0.0,'Ofra_OFRAG00000011363.1/62-121':0.015889)[&label=0.0]:0.015649)[&label=0.125]:0.0)[&label=0.979,!hilight={11,6.407766442000002,#ffcccc}]:0.06867)[&label=0.0]:0.0)[&label=0.781]:0.024711)[&label=0.771]:0.02593,('Homo_sapiens_HoxC6/1-60':0.064316,(('Homo_sapiens_HoxD8/1-60':0.031913,('Homo_sapiens_HoxB8/1-60':0.0,'Homo_sapiens_HoxC8/1-60':0.015939)[&label=0.0]:0.0)[&label=0.999]:0.120842,((('Branchiostoma_floridae_Hox8/1-60':0.0,'Branchiostoma_lanceolatum_Hox8/129-188':0.0):0.035564,'Saccoglossus_kowalevskii_HoxA6/162-221':0.168907)[&label=0.8]:0.039374,('Saccoglossus_kowalevskii_Hox6/148-207':0.029847,((('Crassostrea_gigas_Lox5/114-173':0.01733,((('Novocrania_anomala_Hox6/167-226':0.0,(('gCapitella_tellata_Lox5/180-239':0.031866,('Terebratalia_transversa_Hox6/173-232':0.0,(('Drosophila_melanogaster_Ftz/1-60':0.108199,'Tribolium_castaneum_Ftz/1-60':0.090567)[&label=0.85]:0.057766,((((((('Saccoglossus_kowalevskii_Hox11/13a/148-207':0.031953,('Saccoglossus_kowalevskii_Hox11/13b/153-212':0.123923,'Saccoglossus_kowalevskii_Hox11/13c/159-218':0.0919)[&label=0.995]:0.290593)[&label=0.639]:0.057256,(('Saccoglossus_kowalevskii_Hox9/10/272-331':0.092204,(('Homo_sapiens_HoxB9/1-60':0.031434,('Homo_sapiens_HoxA9/1-60':0.03241,('Homo_sapiens_HoxC9/1-60':0.0,'Homo_sapiens_HoxD9/1-60':0.029855)[&label=0.81]:0.015663)[&label=0.737]:0.016444)[&label=0.815]:0.035737,(('Branchiostoma_floridae_Hox9/1-60':0.0,'Branchiostoma_lanceolatum_Hox9/198-257':0.014572)[&label=0.954]:0.086721,(('Homo_sapiens_HoxA10/1-60':0.016023,('Homo_sapiens_HoxC10/1-60':0.031569,'Homo_sapiens_HoxD10/1-60':0.015554)[&label=0.751]:0.015091)[&label=0.908]:0.072685,(('Branchiostoma_floridae_Hox10/1-60':0.0,'Branchiostoma_lanceolatum_Hox10/246-305':0.0):0.053731,(('Branchiostoma_floridae_Hox12/1-60':0.0,'Branchiostoma_lanceolatum_Hox12/100-159':0.0):0.167333,'Branchiostoma_floridae_Hox11/1-60':0.05059)[&label=0.829]:0.051756)[&label=0.87]:0.044294)[&label=0.801]:0.036768)[&label=0.885]:0.053486)[&label=0.676]:0.022293)[&label=0.724]:0.042128,(('Drosophila_melanogaster_AbdB/1-60':0.015098,'Tribolium_castaneum_AbdB/1-60':0.0)[&label=0.946]:0.22246,((((('Branchiostoma_floridae_Hox14/1-60':0.0,'Branchiostoma_lanceolatum_Hox14/150-209':0.0):0.162293,(('Homo_sapiens_HoxD11/1-60':0.001302,('Homo_sapiens_HoxA11/1-60':0.032538,'Homo_sapiens_HoxC11/1-60':0.048162)[&label=0.0]:0.01241)[&label=0.979]:0.320333,('Branchiostoma_floridae_Hox13/1-60':0.0,'Branchiostoma_lanceolatum_Hox13/205-264':0.015516)[&label=0.941]:0.166988)[&label=0.339]:0.068369)[&label=0.947]:0.184741,('Owenia_fusiformis_Post1/224-283':0.089498,('Terebratalia_transversa_Hox11/276-335':0.124472,('Lingula_anatina_g12396/208-267':0.030451,('Lottia_gigantea_Post1/2-60':0.0,'Lottia_goshimai_Post1/180-239':0.0)[&label=1.0]:0.377806)[&label=0.647]:0.018248)[&label=0.913]:0.100396)[&label=0.788]:0.053387)[&label=0.787]:0.084272,((('Homo_sapiens_HoxC12/1-60':0.160513,'Homo_sapiens_HoxD12/1-60':0.035836)[&label=0.938]:0.218815,(('Branchiostoma_floridae_Hox15/1-60':0.0,'Branchiostoma_lanceolatum_Hox15/206-265':0.0):0.263787,('Homo_sapiens_HoxD13/1-60':0.069645,('Homo_sapiens_HoxC13/1-60':0.049688,('Homo_sapiens_HoxA13/1-60':0.0,'Homo_sapiens_HoxB13/1-60':0.165952)[&label=0.743]:0.023392)[&label=0.64]:0.04624)[&label=0.956]:0.252413)[&label=0.943]:0.227053)[&label=0.839]:0.139853,('Capitella_tellata_Post1/102-161':0.424348,('Ofra_OFRAG00000009996.1/48-114':0.347079,(Oalv_tig00001829_619630:0.0,(('Pech_nbis-mrna-9378/22-81':0.0,'Rpac_tig00035475/22-81':0.0):0.0,'Lluy_FUN_030985-T1/70-129':0.029772)[&label=0.877]:0.014441)[&label=0.83]:0.107353)[&label=0.01]:0.058756)[&label=0.729]:0.067356)[&label=0.704]:0.065144)[&label=0.888,!hilight={26,5.133809316000001,#ccccff}]:0.119456,((('Lottia_gigantea_Post2/2-60':0.0,'Lottia_goshimai_Post2/168-227':0.0)[&label=0.785]:0.032701,(((('Capitella_tellata_Post2/198-257':0.003733,('Novocrania_anomala_Hox9/4-63':0.032272,'Lingula_anatina_g12399/86-145':0.0)[&label=0.894]:0.02942)[&label=0.767]:0.02747,('Lluy_FUN_038044-T1/172-231':0.0,'Oalv_OALVG00000019415.1/172-231':0.0):0.0)[&label=0.0]:0.0,'Pech_nbis-mrna-10159/1-47':0.0)[&label=0.8]:0.014767,('Ofra_OFRAG00000014621.1/332-391':0.08652,'Owenia_fusiformis_Post2/186-245':0.152724)[&label=0.0]:0.0)[&label=0.854]:0.04212)[&label=0.25]:0.021013,'Terebratalia_transversa_Hox12/159-218':0.071636)[&label=0.974,!hilight={11,5.720490755,#ffcccc}]:0.236965)[&label=0.769]:0.077989)[&label=0.949]:0.159592)[&label=0.765]:0.074625)[&label=1.0]:0.328317,((('Branchiostoma_floridae_XLox/1-60':0.013931,('Capitella_tellata_XLox/163-222':0.105158,('Homo_sapiens_PDX1/1-60':0.031392,('Lluy_FUN_000933-T1_PDX/28-87':0.028564,('Rpac_RPACG00000012267.1_PDX/184-243':0.015315,('Oalv_OALVG00000024349.1_PDX/143-202':0.0,'Pech_nbis-mrna-22528_PDX/161-220':0.016656)[&label=0.554]:0.01486)[&label=0.842]:0.031492)[&label=0.912]:0.053342)[&label=0.0]:0.0)[&label=0.692]:0.031122)[&label=0.883,!hilight={7,6.7691639640000005,#ffffcc}]:0.058792,(('Saccoglossus_kowalevskii_Hox3/135-194':0.365122,(('Drosophila_melanogaster_zen/1-60':0.20107,'Drosophila_melanogaster_zen2/1-60':0.17503)[&label=0.886]:0.186018,((((('Lluy_FUN_038045-T1/120-177':5.993671,('Lluy_FUN_038046-T1/107-188':3.694904,'Pech_nbis-mrna-10152/156-198':2.831385)[&label=0.776]:1.628163)[&label=0.734]:1.344081,('Branchiostoma_floridae_Evxb/1-60':0.029575,(('Homo_sapiens_Evx1/1-60':0.01504,'Homo_sapiens_Evx2/1-60':0.0)[&label=0.446]:0.0,(('Branchiostoma_floridae_Evxa/1-60':0.0,('Tribolium_castaneum_Eve/1-60':0.056467,('Drosophila_melanogaster_eve/1-60':0.015485,'Capitella_tellata_Evx/94-153':0.073731)[&label=0.669]:0.028366)[&label=0.785]:0.026111)[&label=0.762]:0.012665,'Saccoglossus_kowalevskii_Evx/119-178':0.071)[&label=0.865]:0.021382)[&label=0.386]:0.062716)[&label=0.773]:0.47415)[&label=0.699]:0.174616,((('Homo_sapiens_HoxA2/1-60':0.0,'Homo_sapiens_HoxB2/1-60':0.015158)[&label=0.766]:0.022906,(('Tribolium_castaneum_mxp/1-60':0.0,'Drosophila_melanogaster_Pb/1-60':0.0):0.0,(((('Owenia_fusiformis_Hox2/121-180':0.015623,('Terebratalia_transversa_Hox2/172-231':0.0,(('Lingula_anatina_g10890/127-186':0.0,('Crassostrea_gigas_Hox2/60-119':0.014505,('Lottia_gigantea_Pb/2-60':0.0,'Lottia_goshimai_Hox2/118-177':0.0)[&label=0.798]:0.014505)[&label=0.799]:0.014635)[&label=0.867]:0.014361,'Novocrania_anomala_Hox2/103-162':0.0)[&label=0.917]:0.014754)[&label=0.73]:0.005485)[&label=0.73]:0.009931,('Lluy_FUN_032670-T1/134-193':0.0,'Pech_nbis-mrna-10153/29-88':0.0,'Oalv_OALVG00000019775.1/140-199':0.0):0.015158)[&label=0.0]:0.0,'Ofra_OFRAG00000011248.1/155-214':0.030758)[&label=0.0]:0.0,('Capitella_tellata_Pb/126-185':0.0,'Rpac_TRINITY_DN39953_c0_g1_i1/30-89':0.0):0.0)[&label=0.848]:0.015695)[&label=0.802]:0.025609)[&label=0.787]:0.031054,('Saccoglossus_kowalevskii_Hox2/111-170':0.061632,('Branchiostoma_floridae_Hox2/1-60':0.015248,'Branchiostoma_lanceolatum_Hox2/105-164':0.0)[&label=0.999]:0.239587)[&label=0.724]:0.043179)[&label=0.67,!hilight={20,7.01322648,#ccccff}]:0.026511)[&label=0.736]:0.092104,(('Saccoglossus_kowalevskii_Hox1/232-291':0.059026,(('Branchiostoma_floridae_Hox1/1-60':0.0,'Branchiostoma_lanceolatum_Hox1/205-264':0.0):0.030993,('Homo_sapiens_HoxA1/1-60':0.0,('Homo_sapiens_HoxB1/1-60':0.095063,'Homo_sapiens_HoxD1/1-60':0.133611)[&label=0.746]:0.018288)[&label=0.896]:0.052991)[&label=0.868]:0.054633)[&label=0.316]:0.037799,(((((('Ofra_TRINITY_DN22632_c0_g1_i6/74-133':0.01532,('Pech_nbis-mrna-10151/36-95':0.0,'Rpac_RPACG00000019294.1/66-125':0.0,'Oalv_OALVG00000019490.1/61-120':0.0,'Lluy_FUN_032673-T1/90-149':0.0):0.0)[&label=0.853]:0.015242,('Capitella_tellata_Lab/211-270':0.0,('Crassostrea_gigas_Hox1/25-84':0.0,(('Lingula_anatina_g10891/289-348':0.0,'Terebratalia_transversa_Hox1/234-293':0.0):0.015123,'Novocrania_anomala_Lab/245-304':0.0)[&label=0.9]:0.015323)[&label=0.864]:0.015524)[&label=0.777]:0.014967)[&label=0.0]:0.0,'Owenia_fusiformis_Hox1/197-256':0.056474)[&label=0.883]:0.030262,('Drosophila_melanogaster_Lab/1-60':0.078909,'Tribolium_castaneum_Lab/1-60':0.035247)[&label=0.867]:0.051746)[&label=0.0]:0.0,'Lottia_goshimai_Hox1/198-257':0.0)[&label=0.728]:0.0,'Lottia_gigantea_Lab/1-59':0.0)[&label=0.949]:0.0)[&label=0.998,!hilight={21,6.587318216000001,#ffcccc}]:0.361007)[&label=0.779]:0.0543,(('Lluy_FUN_000935-T1_GSX/210-269':0.0,('Rpac_RPACG00000012266.1_GSX/203-262':0.043657,('Pech_nbis-mrna-22529_GSX/1-57':0.0,'Oalv_OALVG00000024348.1_GSX/234-293':0.0)[&label=0.0]:0.0)[&label=0.841]:0.013996)[&label=0.993]:0.139568,((('Tribolium_castaneum_Ind/1-60':0.033334,'Drosophila_melanogaster_ind/1-60':0.12607)[&label=0.803]:0.029035,'Saccoglossus_kowalevskii_Gsx/195-254':0.014519)[&label=0.762]:0.014315,('Homo_sapiens_Gsx1/1-60':0.0,(('Branchiostoma_floridae_Gsx/1-60':0.043298,'Capitella_tellata_Gsx/43-102':0.05378)[&label=0.741]:0.013864,'Homo_sapiens_Gsx2/1-60':0.029589)[&label=0.0]:0.0)[&label=0.804]:0.0)[&label=0.0]:0.0)[&label=0.991,!hilight={11,6.7255667090000015,#ffffcc}]:0.268559)[&label=0.662]:0.029945)[&label=0.774]:0.068274)[&label=0.536]:0.046749,(('Owenia_fusiformis_Hox3/137-196':0.014809,(((('Lottia_gigantea_Hox3/2-45':0.0,'Lottia_goshimai_Hox3/143-202':0.0)[&label=0.961]:0.071667,('Crassostrea_gigas_Hox3/144-203':0.0,(('Lluy_FUN_032669-T1/164-223':0.0,'Oalv_OALVG00000019773.1/208-267':0.0):0.014968,(('Terebratalia_transversa_Hox3/160-219':0.0,'Ofra_OFRAG00000011246.1/109-168':0.014833)[&label=0.87]:0.014817,('Novocrania_anomala_Hox3/140-199':0.0,'Rpac_RPACG00000019878.1/239-298':0.0):0.0)[&label=0.743]:0.0)[&label=0.872]:0.015062)[&label=0.866]:0.01498)[&label=0.0]:0.0,'Lingula_anatina_g10889/32-91':0.0)[&label=0.784]:0.016353,('Capitella_tellata_Hox3/177-236':0.0,('Homo_sapiens_HoxB3/1-60':0.014869,('Homo_sapiens_HoxA3/1-60':0.0,'Homo_sapiens_HoxD3/1-60':0.014892)[&label=0.0]:0.0)[&label=0.918]:0.032169)[&label=0.901]:0.031154)[&label=0.79]:0.014362)[&label=0.0]:0.0,(('Branchiostoma_floridae_Hox3/1-60':0.0,('Tribolium_castaneum_zen1/1-60':0.092891,'Tribolium_castaneum_zen2/1-60':0.067205)[&label=0.979]:0.160375)[&label=0.639]:0.014942,'Branchiostoma_lanceolatum_Hox3/134-193':0.0)[&label=0.923]:0.029192)[&label=0.771,!hilight={19,6.701445281,#ccccff}]:0.047534)[&label=0.885]:0.070951)[&label=0.964]:0.161132,(('Lottia_gigantea_Scr/2-60':0.0,'Lottia_goshimai_Hox5/182-241':0.0)[&label=0.985]:0.074408,((('Lingula_anatina_g10887/122-181':0.0,'Terebratalia_transversa_Hox5/212-271':0.0):0.014404,'Novocrania_anomala_Hox5/6-65':0.0)[&label=0.788]:0.014502,('Capitella_tellata_Scr/104-163':0.0,((('Pech_nbis-mrna-10156/22-81':0.0,'Lluy_FUN_038049-T1/12-71':0.0,'Oalv_TRINITY_DN28412_c0_g1_i1/15-74':0.0,'Rpac_TRINITY_DN18618_c0_g2_i2/15-74':0.0):0.0,'Ofra_OFRAG00000000993.1/119-178':0.029492)[&label=0.832]:0.017121,'Owenia_fusiformis_Hox5/206-265':0.0)[&label=0.825]:0.01445)[&label=0.816]:0.014416)[&label=0.0]:0.0)[&label=0.765,!hilight={12,6.7127640379999995,#ffcccc}]:0.026054)[&label=0.048]:4.62E-4)[&label=0.803]:0.018569,(('Tribolium_castaneum_Cx/1-60':0.0,'Drosophila_melanogaster_Scr/1-60':0.0):0.049547,(('Branchiostoma_floridae_Hox5/1-60':0.0,'Branchiostoma_lanceolatum_Hox5/210-269':0.0):0.0,(('Homo_sapiens_HoxA5/1-60':0.0,'Homo_sapiens_HoxB5/1-60':0.0):0.0,'Homo_sapiens_HoxC5/1-60':0.10963)[&label=0.919]:0.066026)[&label=0.778]:0.014879)[&label=0.324]:0.015555)[&label=0.551]:1.03E-4,'Saccoglossus_kowalevskii_Hox5/151-210':0.05175)[&label=0.0]:0.0,('Saccoglossus_kowalevskii_Hox4/184-243':0.015183,(('Branchiostoma_floridae_Hox4/1-60':0.0,'Branchiostoma_lanceolatum_Hox4/174-233':0.0):0.077651,(('Pech_nbis-mrna-10154/167-226':0.0,'Lluy_FUN_005888-T1/165-224':0.0,'Oalv_OALVG00000019768.1/181-240':0.0):0.0,(Ofra_tig00004046_108:0.0,((((('Owenia_fusiformis_Hox4/141-200':0.032656,('Lingula_anatina_g10888/147-206':0.01086,('Novocrania_anomala_Hox4/152-211':0.0,'Terebratalia_transversa_Hox4/149-208':0.0):0.010897)[&label=0.811]:0.00808)[&label=0.787]:0.016725,(('Drosophila_melanogaster_Dfd/1-60':0.0,'Tribolium_castaneum_Dfd/1-60':0.0):0.06692,((('Homo_sapiens_HoxB4/1-60':0.03026,'Homo_sapiens_HoxC4/1-60':0.001641)[&label=0.785]:0.029785,'Homo_sapiens_HoxD4/1-60':0.0)[&label=0.0]:0.0,'Homo_sapiens_HoxA4/1-60':0.015)[&label=0.869]:0.032185)[&label=0.76]:0.013834)[&label=0.79]:0.026094,('Crassostrea_gigas_Hox4/157-216':0.0,('Lottia_goshimai_Hox4/148-207':0.0,'Lottia_gigantea_Dfd/2-60':0.0)[&label=0.897]:0.014412)[&label=0.775]:0.008793)[&label=0.775]:0.009503,'Capitella_tellata_Dfd/74-133':0.0)[&label=0.971]:0.059674,'Rpac_tig00021207/24-81':0.0)[&label=0.0]:0.0)[&label=0.746]:0.0)[&label=0.798]:0.023913)[&label=0.775]:0.023704)[&label=0.883,!hilight={22,6.514213235,#ccccff}]:0.031996)[&label=0.0]:0.0,((('Capitella_tellata_caudal/242-301':0.0,(('Rpac_RPACG00000024701.1_CDX/36-95':0.0,'Oalv_OALVG00000012670.1_CDX/239-298':0.0,'Pech_nbis-mrna-20935_CDX/17-76':0.0,'Lluy_FUN_033852-T1_CDX/66-125':0.0):0.045895,'Ofra_OFRAG00000001745.1_CDX/273-332':0.044276)[&label=0.583]:0.003883)[&label=1.0]:0.271237,('Drosophila_melanogaster_cad/1-60':0.077334,'Tribolium_castaneum_Cad1/1-61':0.154608)[&label=0.111]:0.061895)[&label=0.0]:0.0,('Tribolium_castaneum_Cad2/1-60':0.087639,((('Homo_sapiens_Cdx1/1-60':0.024475,('Homo_sapiens_Cdx4/1-60':0.053959,'Branchiostoma_floridae_Cdx/1-60':0.223916)[&label=0.85]:0.072838)[&label=0.825]:0.037969,'Homo_sapiens_Cdx2/1-60':0.0)[&label=0.935]:0.045194,'Saccoglossus_kowalevskii_Cdx/164-223':0.007665)[&label=0.0]:0.0)[&label=0.675]:0.012852)[&label=1.0,!hilight={14,5.777074539000003,#ffffcc}]:0.625319)[&label=0.828]:0.043151)[&label=0.774]:0.021531)[&label=0.82]:0.015119)[&label=1.0]:0.0,'Owenia_fusiformis_Lox5/168-227':0.030458)[&label=0.0]:0.0)[&label=0.0]:0.0,(('Pech_nbis-mrna-10155/184-243':0.0,'Lluy_FUN_038047-T1/185-244':0.0,'Oalv_OALVG00000019872.1/188-247':0.0,'Rpac_TRINITY_DN38983_c0_g1_i1/4-63':0.0):0.0,'Ofra_OFRAG00000000992.1/10-69':0.015354)[&label=0.843,!hilight={5,6.684840412000002,#ffcccc}]:0.015167)[&label=0.814]:0.014222,'Lingula_anatina_g10886/176-235':0.006099)[&label=0.844]:0.030707)[&label=0.0]:0.0,('Lottia_gigantea_Lox5/2-60':0.0,'Lottia_goshimai_Lox5/173-232':0.0)[&label=0.887]:0.030248)[&label=0.758]:0.020692,('Saccoglossus_kowalevskii_Hox7/152-211':0.111241,('Branchiostoma_floridae_Hox6/1-60':0.0,'Branchiostoma_lanceolatum_Hox6/134-193':0.0):0.036661)[&label=0.699]:0.013703)[&label=0.868]:0.037971)[&label=0.754]:0.021702)[&label=0.0]:0.0)[&label=0.798]:0.016247)[&label=0.937]:0.0)[&label=0.973]:0.0,('Homo_sapiens_HoxA6/1-60':0.016375,'Homo_sapiens_HoxB6/1-60':0.032276)[&label=0.782]:0.016025)[&label=0.848,!hilight={13,6.510729358000001,#ccccff}]:0.015578)[&label=0.0]:0.0);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=376;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="label";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=true;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
